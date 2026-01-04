@@ -72,7 +72,7 @@ Principal Component Analysis is used to:
 - Exported the cluster assignments and a visualization for easy interpretation.
 
 **Outputs:**
-- [**clustered_countries**](iframe_figures\figure_29.html) - clustered world map visualization  
+- [**clustered_countries.png**](outputs/clustered_countries.png) - clustered world map visualization  
 - [**clustered_countries.csv**](outputs/clustered_countries.csv) — country with cluster mapping
 
 ## Project structure
