@@ -98,8 +98,8 @@ Principal Component Analysis is used to:
 Open Command Prompt or PowerShell, clone the repository, create a virtual environment, install dependencies, and start Jupyter Notebook. Then open `main.ipynb` and run all cells from top to bottom.
 
 ```bash
-git clone <YOUR_REPO_URL>
-cd <YOUR_REPO_FOLDER>
+git clone https://github.com/ulianatelenko/Assessment-of-political-stability-and-governance-effectiveness
+cd Assessment-of-political-stability-and-governance-effectiveness
 
 python -m venv .venv
 .venv\Scripts\activate
