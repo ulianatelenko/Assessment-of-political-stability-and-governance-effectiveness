@@ -29,9 +29,9 @@ A notebook that:
 
 
 ## Data source
-- Governance Effectiveness: [https://www.worldbank.org/en/publication/worldwide-governance-indicators/documentation#4]
-- Human Rights And Freedoms: [https://freedomhouse.org/reports/freedom-world/freedom-world-research-methodology]
-- The Fragillity Of States: [https://fragilestatesindex.org/excel/]
+- [**Governance Effectiveness:**](https://www.worldbank.org/en/publication/worldwide-governance-indicators/documentation#4)
+- [**Human Rights And Freedoms:**](https://freedomhouse.org/reports/freedom-world/freedom-world-research-methodology)
+- [**The Fragillity Of States:**](https://fragilestatesindex.org/excel/)
 
 
 ## Methodology
@@ -76,6 +76,8 @@ Principal Component Analysis is used to:
 - [**clustered_countries.csv**](outputs/clustered_countries.csv) — country with cluster mapping
 
 ## Project structure
+
+```text
 .
 ├── main.ipynb
 ├── README.md
@@ -90,7 +92,7 @@ Principal Component Analysis is used to:
 └── outputs/
     ├── clustered_countries.csv
     └── clustered_countries.png
-
+```
 ## How to run (for Windows)
 
 Open Command Prompt or PowerShell, clone the repository, create a virtual environment, install dependencies, and start Jupyter Notebook. Then open `main.ipynb` and run all cells from top to bottom.
