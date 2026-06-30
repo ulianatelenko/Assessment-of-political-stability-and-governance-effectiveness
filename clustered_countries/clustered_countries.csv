@@ -1,0 +1,2719 @@
+PC1	PC2	country	cluster	cluster_name
+-4.158574891	0.665141375	Afghanistan	1	Low stability and weak governance
+-4.222071312	0.738835836	Afghanistan	1	Low stability and weak governance
+-4.427431117	0.556199948	Afghanistan	1	Low stability and weak governance
+-4.587466155	0.246402218	Afghanistan	1	Low stability and weak governance
+-4.579396739	0.235414698	Afghanistan	1	Low stability and weak governance
+-4.537611516	0.263018601	Afghanistan	1	Low stability and weak governance
+-4.162029962	0.137985066	Afghanistan	1	Low stability and weak governance
+-4.162237758	0.160550745	Afghanistan	1	Low stability and weak governance
+-3.986974567	0.148152965	Afghanistan	1	Low stability and weak governance
+-4.001714995	0.179164074	Afghanistan	1	Low stability and weak governance
+-4.12265413	0.273734038	Afghanistan	1	Low stability and weak governance
+-4.075499895	0.510213229	Afghanistan	1	Low stability and weak governance
+-4.061591676	0.519366336	Afghanistan	1	Low stability and weak governance
+-4.024367618	0.502021544	Afghanistan	1	Low stability and weak governance
+-4.216048645	0.535565634	Afghanistan	1	Low stability and weak governance
+-4.434597669	-0.166048405	Afghanistan	1	Low stability and weak governance
+-4.633445418	-0.405784549	Afghanistan	1	Low stability and weak governance
+-4.702886217	-0.438278817	Afghanistan	1	Low stability and weak governance
+-0.813435821	0.756979268	Albania	0	Medium stability and governance
+-0.54451627	0.63682981	Albania	0	Medium stability and governance
+-0.325115121	0.566429562	Albania	0	Medium stability and governance
+-0.205214368	0.47725926	Albania	0	Medium stability and governance
+-0.188125574	0.463035099	Albania	0	Medium stability and governance
+-0.264209417	0.467358948	Albania	0	Medium stability and governance
+-0.325000691	0.47032579	Albania	0	Medium stability and governance
+-0.219881495	0.435820005	Albania	0	Medium stability and governance
+0.233806669	0.238000373	Albania	0	Medium stability and governance
+0.211877155	0.24722219	Albania	0	Medium stability and governance
+0.256033678	0.233039622	Albania	0	Medium stability and governance
+0.292187926	0.237148151	Albania	0	Medium stability and governance
+0.273501835	0.244322334	Albania	0	Medium stability and governance
+0.120989966	0.309091029	Albania	0	Medium stability and governance
+0.057154963	0.304094862	Albania	0	Medium stability and governance
+0.156005009	0.236478878	Albania	0	Medium stability and governance
+0.312798264	0.184702871	Albania	0	Medium stability and governance
+0.451613168	0.114177446	Albania	0	Medium stability and governance
+-1.979000869	-0.541547301	Algeria	1	Low stability and weak governance
+-2.044841781	-0.547921812	Algeria	1	Low stability and weak governance
+-2.119609248	-0.511888115	Algeria	1	Low stability and weak governance
+-2.336090503	-0.483244121	Algeria	1	Low stability and weak governance
+-2.33881339	-0.496250421	Algeria	1	Low stability and weak governance
+-2.425280991	-0.430358091	Algeria	1	Low stability and weak governance
+-2.360788135	-0.409260317	Algeria	1	Low stability and weak governance
+-2.183299927	-0.482011834	Algeria	1	Low stability and weak governance
+-2.271408906	-0.391670101	Algeria	1	Low stability and weak governance
+-2.329774531	-0.37983224	Algeria	1	Low stability and weak governance
+-2.335661664	-0.377870538	Algeria	1	Low stability and weak governance
+-2.27846332	-0.442896417	Algeria	1	Low stability and weak governance
+-2.251230333	-0.533261497	Algeria	1	Low stability and weak governance
+-2.410062782	-0.487268834	Algeria	1	Low stability and weak governance
+-2.302743556	-0.568743985	Algeria	1	Low stability and weak governance
+-2.282270536	-0.498004716	Algeria	1	Low stability and weak governance
+-2.038693205	-0.628465342	Algeria	1	Low stability and weak governance
+-1.906306295	-0.651156776	Algeria	1	Low stability and weak governance
+-3.079778158	-0.205029733	Angola	1	Low stability and weak governance
+-3.004916084	-0.188668215	Angola	1	Low stability and weak governance
+-2.809848345	-0.259147911	Angola	1	Low stability and weak governance
+-2.744083023	-0.300222066	Angola	1	Low stability and weak governance
+-2.740128001	-0.287926915	Angola	1	Low stability and weak governance
+-2.860706025	-0.225381894	Angola	1	Low stability and weak governance
+-2.725519626	-0.266930579	Angola	1	Low stability and weak governance
+-2.890357361	-0.195899581	Angola	1	Low stability and weak governance
+-2.709449419	-0.305511417	Angola	1	Low stability and weak governance
+-2.802213805	-0.51002663	Angola	1	Low stability and weak governance
+-2.824974021	-0.481811782	Angola	1	Low stability and weak governance
+-2.863322162	-0.438031899	Angola	1	Low stability and weak governance
+-2.496289725	-0.248520691	Angola	1	Low stability and weak governance
+-2.454834346	-0.185586299	Angola	1	Low stability and weak governance
+-2.527748228	-0.15740898	Angola	1	Low stability and weak governance
+-2.400320215	-0.263445009	Angola	1	Low stability and weak governance
+-2.27893391	-0.292190482	Angola	1	Low stability and weak governance
+-2.208400522	-0.296965291	Angola	1	Low stability and weak governance
+1.696916109	0.150752704	Antigua and Barbuda	0	Medium stability and governance
+1.973455744	-0.032408323	Antigua and Barbuda	2	High stability and effective governance
+2.154802606	-0.105685906	Antigua and Barbuda	2	High stability and effective governance
+2.093090818	-0.279610595	Antigua and Barbuda	2	High stability and effective governance
+2.135181795	-0.372896459	Antigua and Barbuda	2	High stability and effective governance
+2.153771326	-0.369914507	Antigua and Barbuda	2	High stability and effective governance
+2.290685171	-0.124947993	Antigua and Barbuda	2	High stability and effective governance
+2.247464538	-0.116953839	Antigua and Barbuda	2	High stability and effective governance
+1.380789263	0.351436254	Antigua and Barbuda	0	Medium stability and governance
+1.722122623	0.169083621	Antigua and Barbuda	0	Medium stability and governance
+1.685383896	0.216739833	Antigua and Barbuda	0	Medium stability and governance
+1.335369838	0.418711881	Antigua and Barbuda	0	Medium stability and governance
+1.403496348	0.372459252	Antigua and Barbuda	0	Medium stability and governance
+1.540105269	0.421693566	Antigua and Barbuda	0	Medium stability and governance
+1.546310192	0.443653795	Antigua and Barbuda	0	Medium stability and governance
+1.423163035	0.482130162	Antigua and Barbuda	0	Medium stability and governance
+1.46993783	0.440646204	Antigua and Barbuda	0	Medium stability and governance
+1.774641647	0.27816792	Antigua and Barbuda	0	Medium stability and governance
+0.319973757	0.772944629	Argentina	0	Medium stability and governance
+0.338750252	0.792669701	Argentina	0	Medium stability and governance
+0.11175438	0.852521751	Argentina	0	Medium stability and governance
+-0.133310431	0.920962802	Argentina	0	Medium stability and governance
+0.10468488	0.843641064	Argentina	0	Medium stability and governance
+0.214302348	0.768575156	Argentina	0	Medium stability and governance
+0.005068335	0.837636555	Argentina	0	Medium stability and governance
+-0.046859653	0.852314091	Argentina	0	Medium stability and governance
+-0.186181575	0.957742814	Argentina	0	Medium stability and governance
+-0.042815424	0.945595914	Argentina	0	Medium stability and governance
+0.613580647	0.677924488	Argentina	0	Medium stability and governance
+0.6691957	0.698053196	Argentina	0	Medium stability and governance
+0.689754886	0.698967614	Argentina	0	Medium stability and governance
+0.430222456	0.847197403	Argentina	0	Medium stability and governance
+0.334111256	0.915423277	Argentina	0	Medium stability and governance
+0.120022019	1.050939246	Argentina	0	Medium stability and governance
+0.097719839	1.006193352	Argentina	0	Medium stability and governance
+0.208356756	0.965026536	Argentina	0	Medium stability and governance
+-0.546711134	-0.623178023	Armenia	0	Medium stability and governance
+-0.82148563	-0.524565076	Armenia	0	Medium stability and governance
+-0.84366306	-0.817954129	Armenia	0	Medium stability and governance
+-0.787978074	-0.890562626	Armenia	0	Medium stability and governance
+-0.919437276	-0.782241811	Armenia	0	Medium stability and governance
+-0.846701301	-0.704354724	Armenia	0	Medium stability and governance
+-0.538750171	-0.560267203	Armenia	0	Medium stability and governance
+-0.493682321	-0.615195064	Armenia	0	Medium stability and governance
+-0.830954382	-0.391105829	Armenia	0	Medium stability and governance
+-0.832119078	-0.359025905	Armenia	0	Medium stability and governance
+-0.888953078	-0.348664108	Armenia	0	Medium stability and governance
+-0.866659034	-0.353069613	Armenia	0	Medium stability and governance
+-0.380330595	-0.070539646	Armenia	0	Medium stability and governance
+-0.247771446	-0.011843577	Armenia	0	Medium stability and governance
+-0.274080505	0.001648239	Armenia	0	Medium stability and governance
+-0.377836427	0.039332298	Armenia	0	Medium stability and governance
+-0.394290668	0.066811245	Armenia	0	Medium stability and governance
+-0.336980794	0.022928224	Armenia	0	Medium stability and governance
+4.654666656	-0.333462452	Australia	2	High stability and effective governance
+4.706826049	-0.37779815	Australia	2	High stability and effective governance
+4.728139233	-0.383315638	Australia	2	High stability and effective governance
+4.660780188	-0.325766363	Australia	2	High stability and effective governance
+4.645834893	-0.308570147	Australia	2	High stability and effective governance
+4.690097133	-0.288815629	Australia	2	High stability and effective governance
+4.645379635	-0.231998656	Australia	2	High stability and effective governance
+4.635824081	-0.259638967	Australia	2	High stability and effective governance
+4.691192054	-0.340611479	Australia	2	High stability and effective governance
+4.553407939	-0.269421356	Australia	2	High stability and effective governance
+4.626342337	-0.296101068	Australia	2	High stability and effective governance
+4.547171915	-0.225776734	Australia	2	High stability and effective governance
+4.63845307	-0.269416153	Australia	2	High stability and effective governance
+4.587411181	-0.335803404	Australia	2	High stability and effective governance
+4.484097885	-0.2588248	Australia	2	High stability and effective governance
+4.468759842	-0.203028298	Australia	2	High stability and effective governance
+4.514430966	-0.258880837	Australia	2	High stability and effective governance
+4.617242724	-0.173428708	Australia	2	High stability and effective governance
+4.792929833	-0.420428688	Austria	2	High stability and effective governance
+4.849938004	-0.463734182	Austria	2	High stability and effective governance
+4.707092275	-0.389313217	Austria	2	High stability and effective governance
+4.495986215	-0.255698319	Austria	2	High stability and effective governance
+4.538307647	-0.25469097	Austria	2	High stability and effective governance
+4.381940307	-0.179221945	Austria	2	High stability and effective governance
+4.438351184	-0.155134319	Austria	2	High stability and effective governance
+4.472134435	-0.176017523	Austria	2	High stability and effective governance
+4.432218112	-0.201123668	Austria	2	High stability and effective governance
+4.337476895	-0.154447972	Austria	2	High stability and effective governance
+4.219595132	-0.12431827	Austria	2	High stability and effective governance
+4.298035634	-0.131719496	Austria	2	High stability and effective governance
+4.347815647	-0.135714798	Austria	2	High stability and effective governance
+4.316777384	-0.172582092	Austria	2	High stability and effective governance
+4.32162034	-0.141951167	Austria	2	High stability and effective governance
+4.152227164	-0.050026872	Austria	2	High stability and effective governance
+4.022074212	0.043297289	Austria	2	High stability and effective governance
+4.01429421	0.069644278	Austria	2	High stability and effective governance
+-2.485452441	-0.514180291	Azerbaijan	1	Low stability and weak governance
+-2.322721729	-0.556884235	Azerbaijan	1	Low stability and weak governance
+-2.193069364	-0.690176875	Azerbaijan	1	Low stability and weak governance
+-2.169752483	-0.661852822	Azerbaijan	1	Low stability and weak governance
+-2.274680731	-0.634797796	Azerbaijan	1	Low stability and weak governance
+-2.327921071	-0.600259117	Azerbaijan	1	Low stability and weak governance
+-2.367385562	-0.581688008	Azerbaijan	1	Low stability and weak governance
+-2.093650983	-1.055537252	Azerbaijan	1	Low stability and weak governance
+-2.055760095	-1.121836776	Azerbaijan	1	Low stability and weak governance
+-2.222913165	-1.323377265	Azerbaijan	1	Low stability and weak governance
+-2.107809174	-1.401135668	Azerbaijan	1	Low stability and weak governance
+-2.120158454	-1.392278945	Azerbaijan	1	Low stability and weak governance
+-2.023032288	-1.399096069	Azerbaijan	1	Low stability and weak governance
+-1.957397983	-1.440043085	Azerbaijan	1	Low stability and weak governance
+-2.17148166	-1.328539769	Azerbaijan	1	Low stability and weak governance
+-1.934789089	-1.681965235	Azerbaijan	1	Low stability and weak governance
+-2.091637585	-1.505313119	Azerbaijan	1	Low stability and weak governance
+-2.035806577	-1.508343137	Azerbaijan	1	Low stability and weak governance
+-0.082108964	-1.294817367	Bahrain	0	Medium stability and governance
+0.3000922	-1.430871159	Bahrain	0	Medium stability and governance
+0.276664229	-1.431325417	Bahrain	0	Medium stability and governance
+0.249011436	-1.59342163	Bahrain	0	Medium stability and governance
+0.023832946	-1.596142272	Bahrain	0	Medium stability and governance
+-0.318304734	-1.82417471	Bahrain	0	Medium stability and governance
+-0.448649246	-1.846286563	Bahrain	0	Medium stability and governance
+-0.502100372	-1.828012002	Bahrain	0	Medium stability and governance
+-0.443287874	-2.067120479	Bahrain	0	Medium stability and governance
+-0.539443481	-1.993868445	Bahrain	0	Medium stability and governance
+-0.65299585	-1.977199947	Bahrain	0	Medium stability and governance
+-0.914553368	-1.852501609	Bahrain	0	Medium stability and governance
+-0.896255286	-1.885250674	Bahrain	0	Medium stability and governance
+-0.658045907	-2.031497681	Bahrain	0	Medium stability and governance
+-0.578009098	-2.086931363	Bahrain	0	Medium stability and governance
+-0.332914099	-2.268490753	Bahrain	0	Medium stability and governance
+-0.211479749	-2.258594041	Bahrain	0	Medium stability and governance
+-0.091974124	-2.284113867	Bahrain	0	Medium stability and governance
+-2.682377336	0.848435772	Bangladesh	1	Low stability and weak governance
+-2.581784288	0.460135643	Bangladesh	1	Low stability and weak governance
+-2.466466534	0.718125578	Bangladesh	1	Low stability and weak governance
+-2.337632913	1.001603497	Bangladesh	1	Low stability and weak governance
+-2.232444829	0.958614072	Bangladesh	1	Low stability and weak governance
+-2.197638394	0.914694459	Bangladesh	1	Low stability and weak governance
+-2.242685882	0.851255321	Bangladesh	1	Low stability and weak governance
+-2.31279707	0.894991314	Bangladesh	1	Low stability and weak governance
+-2.122836791	0.502645205	Bangladesh	1	Low stability and weak governance
+-2.194426814	0.518664112	Bangladesh	1	Low stability and weak governance
+-2.141889873	0.448998051	Bangladesh	1	Low stability and weak governance
+-2.142432935	0.42857077	Bangladesh	1	Low stability and weak governance
+-2.300442512	-0.031209344	Bangladesh	1	Low stability and weak governance
+-2.300116981	-0.033091193	Bangladesh	1	Low stability and weak governance
+-2.23895376	-0.078797999	Bangladesh	1	Low stability and weak governance
+-2.22261718	-0.092472535	Bangladesh	1	Low stability and weak governance
+-2.305429108	-0.02703007	Bangladesh	1	Low stability and weak governance
+-2.214008852	-0.080163171	Bangladesh	1	Low stability and weak governance
+2.821536845	0.266107031	Barbados	2	High stability and effective governance
+3.291086885	0.061446759	Barbados	2	High stability and effective governance
+3.28572674	-0.031798077	Barbados	2	High stability and effective governance
+3.116766277	0.171267296	Barbados	2	High stability and effective governance
+3.155999248	0.152738863	Barbados	2	High stability and effective governance
+3.387359855	0.012294992	Barbados	2	High stability and effective governance
+3.28630372	0.066307381	Barbados	2	High stability and effective governance
+3.260910753	0.094627464	Barbados	2	High stability and effective governance
+2.997344874	0.262536181	Barbados	2	High stability and effective governance
+3.09978653	0.196283273	Barbados	2	High stability and effective governance
+2.834492336	0.32966845	Barbados	2	High stability and effective governance
+2.752383026	0.403320211	Barbados	2	High stability and effective governance
+2.514211204	0.557695583	Barbados	2	High stability and effective governance
+2.501134139	0.543599244	Barbados	2	High stability and effective governance
+2.538079845	0.558455129	Barbados	2	High stability and effective governance
+2.60293851	0.523998467	Barbados	2	High stability and effective governance
+2.612467661	0.523370279	Barbados	2	High stability and effective governance
+2.674390639	0.516393715	Barbados	2	High stability and effective governance
+-2.95338433	-1.191902773	Belarus	1	Low stability and weak governance
+-2.757553678	-1.246183944	Belarus	1	Low stability and weak governance
+-2.533463842	-1.265619172	Belarus	1	Low stability and weak governance
+-2.465571398	-1.250891366	Belarus	1	Low stability and weak governance
+-2.67868864	-1.128355905	Belarus	1	Low stability and weak governance
+-2.758633184	-1.1779259	Belarus	1	Low stability and weak governance
+-2.384854291	-1.315014953	Belarus	1	Low stability and weak governance
+-2.35767361	-1.31289271	Belarus	1	Low stability and weak governance
+-1.94681569	-1.49071596	Belarus	1	Low stability and weak governance
+-2.067110081	-1.446414074	Belarus	1	Low stability and weak governance
+-1.893186611	-1.435878845	Belarus	1	Low stability and weak governance
+-1.769513767	-1.275510152	Belarus	1	Low stability and weak governance
+-1.610615625	-1.595791695	Belarus	1	Low stability and weak governance
+-1.424360653	-1.726916876	Belarus	1	Low stability and weak governance
+-2.289203355	-1.235587262	Belarus	1	Low stability and weak governance
+-2.500071448	-1.456208341	Belarus	1	Low stability and weak governance
+-2.866214784	-1.318742755	Belarus	1	Low stability and weak governance
+-2.998297402	-1.276467969	Belarus	1	Low stability and weak governance
+4.04902025	-0.047666658	Belgium	2	High stability and effective governance
+4.028788665	-0.006074643	Belgium	2	High stability and effective governance
+3.838102684	0.079121765	Belgium	2	High stability and effective governance
+3.934805715	0.00678993	Belgium	2	High stability and effective governance
+4.003828375	-0.026460735	Belgium	2	High stability and effective governance
+4.044685084	-0.092588133	Belgium	2	High stability and effective governance
+4.045530448	-0.072594138	Belgium	2	High stability and effective governance
+4.152617928	-0.106265683	Belgium	2	High stability and effective governance
+3.929488771	0.015502425	Belgium	2	High stability and effective governance
+3.914166719	0.056474717	Belgium	2	High stability and effective governance
+3.84622639	0.101409336	Belgium	2	High stability and effective governance
+3.63377374	0.190094748	Belgium	2	High stability and effective governance
+3.658590443	0.175474617	Belgium	2	High stability and effective governance
+3.661567955	0.166395621	Belgium	2	High stability and effective governance
+3.704125591	0.131229435	Belgium	2	High stability and effective governance
+3.683924946	0.125453155	Belgium	2	High stability and effective governance
+3.708913896	0.112688843	Belgium	2	High stability and effective governance
+3.481071074	0.272110616	Belgium	2	High stability and effective governance
+0.946725708	0.821182212	Belize	0	Medium stability and governance
+0.313954372	1.08610252	Belize	0	Medium stability and governance
+0.282373602	1.194596291	Belize	0	Medium stability and governance
+0.327464347	1.231576443	Belize	0	Medium stability and governance
+0.35535046	1.17557632	Belize	0	Medium stability and governance
+0.219094405	1.262989243	Belize	0	Medium stability and governance
+0.358797241	1.163978181	Belize	0	Medium stability and governance
+0.379000106	1.160508242	Belize	0	Medium stability and governance
+-0.089841173	1.300718172	Belize	0	Medium stability and governance
+-0.086905442	1.357471111	Belize	0	Medium stability and governance
+-0.186597105	1.397222665	Belize	0	Medium stability and governance
+-0.251830194	1.432961185	Belize	0	Medium stability and governance
+-0.213078738	1.290642593	Belize	0	Medium stability and governance
+-0.204863664	1.132681329	Belize	0	Medium stability and governance
+0.105896701	1.195695865	Belize	0	Medium stability and governance
+0.007167539	1.276496099	Belize	0	Medium stability and governance
+0.266387394	1.114275722	Belize	0	Medium stability and governance
+0.341722561	1.082510302	Belize	0	Medium stability and governance
+-0.188070957	1.027343636	Benin	0	Medium stability and governance
+-0.191637129	1.017294055	Benin	0	Medium stability and governance
+-0.237130997	1.016230665	Benin	0	Medium stability and governance
+-0.335726085	1.089523708	Benin	0	Medium stability and governance
+-0.445826117	1.129875039	Benin	0	Medium stability and governance
+-0.474715915	1.019835741	Benin	0	Medium stability and governance
+-0.502911722	1.015869474	Benin	0	Medium stability and governance
+-0.460510545	1.010933908	Benin	0	Medium stability and governance
+-0.536899651	1.113825297	Benin	0	Medium stability and governance
+-0.614953606	1.186235423	Benin	0	Medium stability and governance
+-0.550823311	1.235109877	Benin	0	Medium stability and governance
+-0.556720288	1.2321112	Benin	0	Medium stability and governance
+-0.518036349	1.115668791	Benin	0	Medium stability and governance
+-0.761371444	0.650876895	Benin	0	Medium stability and governance
+-0.672779565	0.469721061	Benin	0	Medium stability and governance
+-0.844635203	0.004450909	Benin	0	Medium stability and governance
+-0.754015251	-0.120333528	Benin	0	Medium stability and governance
+-0.591092856	0.109092831	Benin	0	Medium stability and governance
+-0.202802601	-1.771118724	Bhutan	0	Medium stability and governance
+-0.271755916	-1.601235792	Bhutan	0	Medium stability and governance
+0.081782036	-1.071615067	Bhutan	0	Medium stability and governance
+-0.008252662	-1.042250408	Bhutan	0	Medium stability and governance
+-0.038954841	-1.005600545	Bhutan	0	Medium stability and governance
+0.050104052	-1.042226163	Bhutan	0	Medium stability and governance
+0.138472969	-0.978808165	Bhutan	0	Medium stability and governance
+0.3256021	-0.530314372	Bhutan	0	Medium stability and governance
+0.623596634	-0.652414069	Bhutan	0	Medium stability and governance
+0.722932124	-0.613758636	Bhutan	0	Medium stability and governance
+0.869039027	-0.692020055	Bhutan	0	Medium stability and governance
+1.259667218	-0.85980989	Bhutan	0	Medium stability and governance
+1.164242589	-0.769266222	Bhutan	0	Medium stability and governance
+1.20707092	-0.759298126	Bhutan	0	Medium stability and governance
+1.380717107	-0.570073868	Bhutan	0	Medium stability and governance
+1.352216308	-0.749864714	Bhutan	0	Medium stability and governance
+1.404301009	-0.813472371	Bhutan	0	Medium stability and governance
+1.507247365	-0.615533891	Bhutan	0	Medium stability and governance
+-1.395844984	0.970138026	Bolivia	0	Medium stability and governance
+-1.372171985	0.9118371	Bolivia	0	Medium stability and governance
+-1.437536985	0.931491641	Bolivia	0	Medium stability and governance
+-1.479126201	0.951124747	Bolivia	0	Medium stability and governance
+-1.279712721	0.802935074	Bolivia	0	Medium stability and governance
+-1.260716324	0.781031038	Bolivia	0	Medium stability and governance
+-1.322435982	0.798302439	Bolivia	0	Medium stability and governance
+-1.202047987	0.742267117	Bolivia	0	Medium stability and governance
+-1.290686477	0.831401299	Bolivia	0	Medium stability and governance
+-1.366826778	0.895451695	Bolivia	0	Medium stability and governance
+-1.436461086	0.894253443	Bolivia	0	Medium stability and governance
+-1.307373408	0.821745385	Bolivia	0	Medium stability and governance
+-1.261116572	0.767145574	Bolivia	0	Medium stability and governance
+-1.605487892	0.95640863	Bolivia	1	Low stability and weak governance
+-1.545815666	0.934885652	Bolivia	1	Low stability and weak governance
+-1.552086815	0.904992338	Bolivia	1	Low stability and weak governance
+-1.517519571	0.806211425	Bolivia	1	Low stability and weak governance
+-1.511998998	0.765197809	Bolivia	1	Low stability and weak governance
+-0.930257537	0.821721006	Bosnia and Herzegovina	0	Medium stability and governance
+-1.077637205	0.68330705	Bosnia and Herzegovina	0	Medium stability and governance
+-0.917300749	0.50148611	Bosnia and Herzegovina	0	Medium stability and governance
+-0.961952806	0.536106228	Bosnia and Herzegovina	0	Medium stability and governance
+-0.998663912	0.489378681	Bosnia and Herzegovina	0	Medium stability and governance
+-0.997473309	0.441900856	Bosnia and Herzegovina	0	Medium stability and governance
+-0.581586717	0.466503167	Bosnia and Herzegovina	0	Medium stability and governance
+-0.468677086	0.388446245	Bosnia and Herzegovina	0	Medium stability and governance
+-0.4111931	0.174883949	Bosnia and Herzegovina	0	Medium stability and governance
+-0.781674258	0.356203231	Bosnia and Herzegovina	0	Medium stability and governance
+-0.751445893	0.093977278	Bosnia and Herzegovina	0	Medium stability and governance
+-0.757375499	0.058112622	Bosnia and Herzegovina	0	Medium stability and governance
+-0.88545856	0.093927165	Bosnia and Herzegovina	0	Medium stability and governance
+-0.911552462	0.126102957	Bosnia and Herzegovina	0	Medium stability and governance
+-1.122429963	0.200333413	Bosnia and Herzegovina	0	Medium stability and governance
+-1.157913545	0.219027016	Bosnia and Herzegovina	0	Medium stability and governance
+-1.175869674	0.227799775	Bosnia and Herzegovina	0	Medium stability and governance
+-1.137255473	-0.022237139	Bosnia and Herzegovina	0	Medium stability and governance
+1.842097861	0.02206956	Botswana	2	High stability and effective governance
+1.945116289	-0.044880144	Botswana	2	High stability and effective governance
+1.979649237	-0.056462863	Botswana	2	High stability and effective governance
+1.700125457	-0.182213079	Botswana	0	Medium stability and governance
+1.734093982	-0.191120791	Botswana	0	Medium stability and governance
+1.757686742	-0.226312347	Botswana	0	Medium stability and governance
+1.854319642	-0.181823505	Botswana	2	High stability and effective governance
+1.795336522	-0.182201105	Botswana	2	High stability and effective governance
+1.745492176	-0.163840996	Botswana	0	Medium stability and governance
+1.724295625	-0.178631667	Botswana	0	Medium stability and governance
+1.751893127	-0.220451955	Botswana	0	Medium stability and governance
+1.594157912	-0.141302081	Botswana	0	Medium stability and governance
+1.60700807	-0.081441329	Botswana	0	Medium stability and governance
+1.712541478	-0.128151243	Botswana	0	Medium stability and governance
+1.602483381	-0.050359372	Botswana	0	Medium stability and governance
+1.733900013	-0.152144075	Botswana	0	Medium stability and governance
+1.809256479	-0.201618835	Botswana	2	High stability and effective governance
+1.760579492	-0.145936595	Botswana	0	Medium stability and governance
+0.133502469	0.989081101	Brazil	0	Medium stability and governance
+0.121367838	1.011549959	Brazil	0	Medium stability and governance
+0.306593974	0.931618367	Brazil	0	Medium stability and governance
+0.502083898	0.79167906	Brazil	0	Medium stability and governance
+0.663076755	0.751086213	Brazil	0	Medium stability and governance
+0.643162264	0.723963255	Brazil	0	Medium stability and governance
+0.553142829	0.744788906	Brazil	0	Medium stability and governance
+0.429693795	0.7700201	Brazil	0	Medium stability and governance
+0.361490849	0.845436315	Brazil	0	Medium stability and governance
+0.069456579	0.987631139	Brazil	0	Medium stability and governance
+0.00800295	1.010074057	Brazil	0	Medium stability and governance
+-0.156691533	1.108452014	Brazil	0	Medium stability and governance
+-0.289225722	1.117649393	Brazil	0	Medium stability and governance
+-0.23023617	1.022423006	Brazil	0	Medium stability and governance
+-0.330865154	0.855622755	Brazil	0	Medium stability and governance
+-0.440252365	0.88783121	Brazil	0	Medium stability and governance
+-0.49298395	0.896944539	Brazil	0	Medium stability and governance
+-0.460452257	0.984403479	Brazil	0	Medium stability and governance
+0.973241969	0.85890175	Bulgaria	0	Medium stability and governance
+1.016194713	0.933890032	Bulgaria	0	Medium stability and governance
+0.898316921	0.706281408	Bulgaria	0	Medium stability and governance
+0.964470594	0.630559251	Bulgaria	0	Medium stability and governance
+0.880410985	0.662008247	Bulgaria	0	Medium stability and governance
+0.784330475	0.645049035	Bulgaria	0	Medium stability and governance
+0.866004459	0.567065308	Bulgaria	0	Medium stability and governance
+0.752271691	0.583586696	Bulgaria	0	Medium stability and governance
+0.747667051	0.620717632	Bulgaria	0	Medium stability and governance
+0.720547322	0.678575875	Bulgaria	0	Medium stability and governance
+0.878297765	0.574165756	Bulgaria	0	Medium stability and governance
+0.998469761	0.51869479	Bulgaria	0	Medium stability and governance
+1.047549884	0.438048644	Bulgaria	0	Medium stability and governance
+1.126550582	0.375976914	Bulgaria	0	Medium stability and governance
+0.79926159	0.510114323	Bulgaria	0	Medium stability and governance
+0.808572549	0.512569979	Bulgaria	0	Medium stability and governance
+0.733323982	0.546881275	Bulgaria	0	Medium stability and governance
+0.973750862	0.480521257	Bulgaria	0	Medium stability and governance
+-1.098079117	0.074583147	Burkina Faso	0	Medium stability and governance
+-0.980013078	0.042533991	Burkina Faso	0	Medium stability and governance
+-0.897142421	0.009853921	Burkina Faso	0	Medium stability and governance
+-0.911406218	0.029750734	Burkina Faso	0	Medium stability and governance
+-0.960447766	0.07942516	Burkina Faso	0	Medium stability and governance
+-1.159175328	0.174413254	Burkina Faso	0	Medium stability and governance
+-1.221945611	0.206730173	Burkina Faso	0	Medium stability and governance
+-1.406471343	0.339730238	Burkina Faso	0	Medium stability and governance
+-1.526716441	0.088312085	Burkina Faso	1	Low stability and weak governance
+-1.21622393	0.534076998	Burkina Faso	0	Medium stability and governance
+-1.179867629	0.604120682	Burkina Faso	0	Medium stability and governance
+-1.148539106	0.624883504	Burkina Faso	0	Medium stability and governance
+-1.208598285	0.573142906	Burkina Faso	0	Medium stability and governance
+-1.485497648	0.408457726	Burkina Faso	1	Low stability and weak governance
+-1.559636146	0.447653241	Burkina Faso	1	Low stability and weak governance
+-1.594074579	0.523477878	Burkina Faso	1	Low stability and weak governance
+-2.258840018	-0.211359558	Burkina Faso	1	Low stability and weak governance
+-2.552093744	-0.37722645	Burkina Faso	1	Low stability and weak governance
+-2.91552849	0.527375277	Burundi	1	Low stability and weak governance
+-3.008721739	0.596044035	Burundi	1	Low stability and weak governance
+-2.984722325	0.596417852	Burundi	1	Low stability and weak governance
+-2.884172998	0.534044608	Burundi	1	Low stability and weak governance
+-3.240139197	0.325043461	Burundi	1	Low stability and weak governance
+-3.272300947	0.363352966	Burundi	1	Low stability and weak governance
+-3.33171512	0.455653324	Burundi	1	Low stability and weak governance
+-3.096509302	0.265596754	Burundi	1	Low stability and weak governance
+-2.865251034	-0.14087354	Burundi	1	Low stability and weak governance
+-3.685434576	-0.298456338	Burundi	1	Low stability and weak governance
+-4.066053252	-0.309657474	Burundi	1	Low stability and weak governance
+-4.000093809	-0.363614838	Burundi	1	Low stability and weak governance
+-4.048475238	-0.41502368	Burundi	1	Low stability and weak governance
+-4.049891695	-0.457912547	Burundi	1	Low stability and weak governance
+-3.924297241	-0.384400949	Burundi	1	Low stability and weak governance
+-3.765557154	-0.370439281	Burundi	1	Low stability and weak governance
+-3.613308206	-0.446996742	Burundi	1	Low stability and weak governance
+-3.572021599	-0.451455733	Burundi	1	Low stability and weak governance
+-2.611370128	-0.198510399	Cambodia	1	Low stability and weak governance
+-2.343667436	-0.322004974	Cambodia	1	Low stability and weak governance
+-2.394013076	-0.315480709	Cambodia	1	Low stability and weak governance
+-2.456648932	-0.244978611	Cambodia	1	Low stability and weak governance
+-2.483689561	-0.240402639	Cambodia	1	Low stability and weak governance
+-2.381887876	-0.303359302	Cambodia	1	Low stability and weak governance
+-2.130848976	-0.465022475	Cambodia	1	Low stability and weak governance
+-2.177078405	-0.447667155	Cambodia	1	Low stability and weak governance
+-2.132459847	-0.590731513	Cambodia	1	Low stability and weak governance
+-2.189733667	-0.579018131	Cambodia	1	Low stability and weak governance
+-2.187183444	-0.557117394	Cambodia	1	Low stability and weak governance
+-2.217152622	-0.579337539	Cambodia	1	Low stability and weak governance
+-2.221418665	-0.640646753	Cambodia	1	Low stability and weak governance
+-2.302266523	-0.809263228	Cambodia	1	Low stability and weak governance
+-2.307834391	-0.924265897	Cambodia	1	Low stability and weak governance
+-2.285336224	-1.000079229	Cambodia	1	Low stability and weak governance
+-2.185715071	-0.968390392	Cambodia	1	Low stability and weak governance
+-2.100260219	-1.000522346	Cambodia	1	Low stability and weak governance
+-2.595356077	-0.521601904	Cameroon	1	Low stability and weak governance
+-2.591335432	-0.554131622	Cameroon	1	Low stability and weak governance
+-2.662408469	-0.528241809	Cameroon	1	Low stability and weak governance
+-2.680993531	-0.499555655	Cameroon	1	Low stability and weak governance
+-2.798485626	-0.437821352	Cameroon	1	Low stability and weak governance
+-2.801303328	-0.419206729	Cameroon	1	Low stability and weak governance
+-2.82042561	-0.405012404	Cameroon	1	Low stability and weak governance
+-2.815340068	-0.42513336	Cameroon	1	Low stability and weak governance
+-2.832370067	-0.338637788	Cameroon	1	Low stability and weak governance
+-2.858502976	-0.34219964	Cameroon	1	Low stability and weak governance
+-2.965966285	-0.331987895	Cameroon	1	Low stability and weak governance
+-2.993444864	-0.327807281	Cameroon	1	Low stability and weak governance
+-3.115108046	-0.315677509	Cameroon	1	Low stability and weak governance
+-3.279172636	-0.290772729	Cameroon	1	Low stability and weak governance
+-3.271973394	-0.290161587	Cameroon	1	Low stability and weak governance
+-3.202200112	-0.306326606	Cameroon	1	Low stability and weak governance
+-3.128370677	-0.33187314	Cameroon	1	Low stability and weak governance
+-3.103596995	-0.278425088	Cameroon	1	Low stability and weak governance
+3.68916739	0.072008527	Canada	2	High stability and effective governance
+4.676672614	-0.356566924	Canada	2	High stability and effective governance
+4.705120638	-0.354347692	Canada	2	High stability and effective governance
+4.739183913	-0.376180171	Canada	2	High stability and effective governance
+4.664304799	-0.373806798	Canada	2	High stability and effective governance
+4.664388444	-0.351929047	Canada	2	High stability and effective governance
+4.706411197	-0.324060613	Canada	2	High stability and effective governance
+4.704567394	-0.306474765	Canada	2	High stability and effective governance
+4.775682738	-0.363629735	Canada	2	High stability and effective governance
+4.739078588	-0.312391098	Canada	2	High stability and effective governance
+4.804527929	-0.364523348	Canada	2	High stability and effective governance
+4.850211539	-0.348307509	Canada	2	High stability and effective governance
+4.657945418	-0.22722556	Canada	2	High stability and effective governance
+4.658484053	-0.277926855	Canada	2	High stability and effective governance
+4.52193056	-0.169522886	Canada	2	High stability and effective governance
+4.450809801	-0.153312253	Canada	2	High stability and effective governance
+4.435417735	-0.139787106	Canada	2	High stability and effective governance
+4.422249045	-0.102621488	Canada	2	High stability and effective governance
+-3.60982007	0.701908538	Central African Republic	1	Low stability and weak governance
+-3.799102691	0.527533449	Central African Republic	1	Low stability and weak governance
+-3.63516487	0.501333267	Central African Republic	1	Low stability and weak governance
+-3.626804448	0.472834009	Central African Republic	1	Low stability and weak governance
+-3.630457173	0.404263422	Central African Republic	1	Low stability and weak governance
+-3.539927013	0.360636812	Central African Republic	1	Low stability and weak governance
+-3.67049145	0.339828232	Central African Republic	1	Low stability and weak governance
+-4.417655656	-0.322186199	Central African Republic	1	Low stability and weak governance
+-4.630391418	-0.153005201	Central African Republic	1	Low stability and weak governance
+-4.627767069	-0.033135342	Central African Republic	1	Low stability and weak governance
+-4.571005513	0.043016643	Central African Republic	1	Low stability and weak governance
+-4.595825778	0.025506459	Central African Republic	1	Low stability and weak governance
+-4.547243485	-0.064087103	Central African Republic	1	Low stability and weak governance
+-4.551656234	-0.067847609	Central African Republic	1	Low stability and weak governance
+-4.602332406	-0.11282672	Central African Republic	1	Low stability and weak governance
+-4.49588855	-0.092505006	Central African Republic	1	Low stability and weak governance
+-4.524077448	-0.088248492	Central African Republic	1	Low stability and weak governance
+-4.55855982	-0.097675869	Central African Republic	1	Low stability and weak governance
+-4.102227602	0.004592571	Chad	1	Low stability and weak governance
+-4.331159333	-0.115460406	Chad	1	Low stability and weak governance
+-4.462107771	-0.044724412	Chad	1	Low stability and weak governance
+-4.225197096	-0.147886623	Chad	1	Low stability and weak governance
+-4.158383195	-0.158526827	Chad	1	Low stability and weak governance
+-3.960923582	-0.258219188	Chad	1	Low stability and weak governance
+-3.853616208	-0.306744141	Chad	1	Low stability and weak governance
+-3.832206725	-0.341971793	Chad	1	Low stability and weak governance
+-3.984814093	-0.225102521	Chad	1	Low stability and weak governance
+-3.817974811	-0.332825344	Chad	1	Low stability and weak governance
+-4.106443638	-0.183380033	Chad	1	Low stability and weak governance
+-4.037245453	-0.235855688	Chad	1	Low stability and weak governance
+-4.093752189	-0.26035794	Chad	1	Low stability and weak governance
+-4.05315365	-0.257154006	Chad	1	Low stability and weak governance
+-3.949524912	-0.294025909	Chad	1	Low stability and weak governance
+-4.021666604	-0.263341595	Chad	1	Low stability and weak governance
+-4.058074747	-0.288560458	Chad	1	Low stability and weak governance
+-4.07549355	-0.245343945	Chad	1	Low stability and weak governance
+2.420014121	0.562500188	Chile	2	High stability and effective governance
+3.506373389	0.106934108	Chile	2	High stability and effective governance
+3.401823429	0.101039231	Chile	2	High stability and effective governance
+3.443553613	0.063390498	Chile	2	High stability and effective governance
+3.550765898	0.055624478	Chile	2	High stability and effective governance
+3.45295895	0.092579722	Chile	2	High stability and effective governance
+3.445844401	0.10098811	Chile	2	High stability and effective governance
+3.430453575	0.130792347	Chile	2	High stability and effective governance
+3.417506423	0.110976397	Chile	2	High stability and effective governance
+3.151628199	0.218369059	Chile	2	High stability and effective governance
+2.962997885	0.328000493	Chile	2	High stability and effective governance
+2.955102525	0.336135038	Chile	2	High stability and effective governance
+2.968398253	0.341100505	Chile	2	High stability and effective governance
+2.668176367	0.244249852	Chile	2	High stability and effective governance
+2.63534251	0.469151748	Chile	2	High stability and effective governance
+2.526283841	0.510358662	Chile	2	High stability and effective governance
+2.46286213	0.565850248	Chile	2	High stability and effective governance
+2.51426555	0.553209979	Chile	2	High stability and effective governance
+-1.9845555	-1.641414809	China	1	Low stability and weak governance
+-1.872860295	-1.680755	China	1	Low stability and weak governance
+-1.772239877	-1.717676838	China	1	Low stability and weak governance
+-1.869942844	-1.677227933	China	1	Low stability and weak governance
+-1.945706309	-1.614876859	China	1	Low stability and weak governance
+-1.819619383	-1.64180717	China	1	Low stability and weak governance
+-1.811328789	-1.646797639	China	1	Low stability and weak governance
+-1.837916124	-1.638734243	China	1	Low stability and weak governance
+-1.606483145	-1.773758294	China	1	Low stability and weak governance
+-1.572197599	-1.829516155	China	1	Low stability and weak governance
+-1.457696414	-1.804645308	China	1	Low stability and weak governance
+-1.244434896	-1.869891282	China	1	Low stability and weak governance
+-1.17957668	-1.876439807	China	1	Low stability and weak governance
+-1.253594307	-1.972791625	China	1	Low stability and weak governance
+-1.102870009	-2.076997676	China	0	Medium stability and governance
+-1.006848548	-2.142874914	China	0	Medium stability and governance
+-1.112404803	-2.040299825	China	0	Medium stability and governance
+-0.98906178	-2.034813534	China	0	Medium stability and governance
+-1.231769566	0.749570888	Colombia	0	Medium stability and governance
+-1.051207286	0.673551042	Colombia	0	Medium stability and governance
+-1.111835474	0.482354683	Colombia	0	Medium stability and governance
+-1.2941657	0.596397329	Colombia	0	Medium stability and governance
+-1.066553171	0.483554962	Colombia	0	Medium stability and governance
+-0.797456835	0.394734059	Colombia	0	Medium stability and governance
+-0.846723091	0.42917177	Colombia	0	Medium stability and governance
+-0.808478023	0.392494803	Colombia	0	Medium stability and governance
+-0.682667911	0.374907644	Colombia	0	Medium stability and governance
+-0.621141675	0.36948086	Colombia	0	Medium stability and governance
+-0.414799429	0.561454116	Colombia	0	Medium stability and governance
+-0.482230423	0.591117861	Colombia	0	Medium stability and governance
+-0.423147879	0.601005196	Colombia	0	Medium stability and governance
+-0.345447833	0.582757064	Colombia	0	Medium stability and governance
+-0.347923836	0.521397726	Colombia	0	Medium stability and governance
+-0.562397387	0.606199864	Colombia	0	Medium stability and governance
+-0.299971085	0.729848934	Colombia	0	Medium stability and governance
+-0.355482896	0.788854204	Colombia	0	Medium stability and governance
+-2.038950422	0.880007792	Comoros	1	Low stability and weak governance
+-2.516139893	0.815392576	Comoros	1	Low stability and weak governance
+-2.472008268	1.087864292	Comoros	1	Low stability and weak governance
+-2.532174948	1.05395635	Comoros	1	Low stability and weak governance
+-2.381965155	0.92635641	Comoros	1	Low stability and weak governance
+-2.345979286	0.954285549	Comoros	1	Low stability and weak governance
+-2.265767718	0.822628028	Comoros	1	Low stability and weak governance
+-2.081181703	0.739410542	Comoros	1	Low stability and weak governance
+-1.950847228	0.806365007	Comoros	1	Low stability and weak governance
+-1.945856014	0.813130329	Comoros	1	Low stability and weak governance
+-1.921984751	0.792614573	Comoros	1	Low stability and weak governance
+-1.974532035	0.784426128	Comoros	1	Low stability and weak governance
+-2.339734348	0.648020927	Comoros	1	Low stability and weak governance
+-2.430137807	0.544874282	Comoros	1	Low stability and weak governance
+-2.649039527	0.39345793	Comoros	1	Low stability and weak governance
+-2.730008911	0.477549428	Comoros	1	Low stability and weak governance
+-2.694362964	0.357520503	Comoros	1	Low stability and weak governance
+-2.555010836	0.288918349	Comoros	1	Low stability and weak governance
+1.829948773	0.839945222	Costa Rica	2	High stability and effective governance
+1.873962417	0.822466554	Costa Rica	2	High stability and effective governance
+1.91231247	0.835449389	Costa Rica	2	High stability and effective governance
+2.115217169	0.732388808	Costa Rica	2	High stability and effective governance
+2.15587295	0.745800784	Costa Rica	2	High stability and effective governance
+2.051002718	0.822510417	Costa Rica	2	High stability and effective governance
+2.275421793	0.730688857	Costa Rica	2	High stability and effective governance
+2.31171249	0.706456097	Costa Rica	2	High stability and effective governance
+2.290810101	0.755837754	Costa Rica	2	High stability and effective governance
+2.289321379	0.773582281	Costa Rica	2	High stability and effective governance
+2.208342873	0.782209809	Costa Rica	2	High stability and effective governance
+2.058610043	0.874380514	Costa Rica	2	High stability and effective governance
+2.121127422	0.834836206	Costa Rica	2	High stability and effective governance
+2.214572385	0.770232237	Costa Rica	2	High stability and effective governance
+2.288067606	0.750251429	Costa Rica	2	High stability and effective governance
+2.179324949	0.775104342	Costa Rica	2	High stability and effective governance
+2.222478632	0.772599186	Costa Rica	2	High stability and effective governance
+2.358967738	0.671178286	Costa Rica	2	High stability and effective governance
+1.481879508	0.244238786	Croatia	0	Medium stability and governance
+1.229247748	0.38584338	Croatia	0	Medium stability and governance
+1.215687595	0.354463868	Croatia	0	Medium stability and governance
+1.33133634	0.533353372	Croatia	0	Medium stability and governance
+1.400778847	0.487734545	Croatia	0	Medium stability and governance
+1.413560791	0.5182066	Croatia	0	Medium stability and governance
+1.454818107	0.494787473	Croatia	0	Medium stability and governance
+1.55771636	0.417644709	Croatia	0	Medium stability and governance
+1.581967503	0.394550761	Croatia	0	Medium stability and governance
+1.481886726	0.493257299	Croatia	0	Medium stability and governance
+1.527444155	0.449287799	Croatia	0	Medium stability and governance
+1.566603775	0.398016308	Croatia	0	Medium stability and governance
+1.679925805	0.334362699	Croatia	0	Medium stability and governance
+1.682673722	0.353139037	Croatia	0	Medium stability and governance
+1.63893775	0.451717831	Croatia	0	Medium stability and governance
+1.657628513	0.463108496	Croatia	0	Medium stability and governance
+1.6940453	0.227435155	Croatia	0	Medium stability and governance
+1.769752188	0.15697739	Croatia	0	Medium stability and governance
+-2.019506874	-2.099486506	Cuba	1	Low stability and weak governance
+-1.948737995	-2.124845367	Cuba	1	Low stability and weak governance
+-1.924579604	-1.85762545	Cuba	1	Low stability and weak governance
+-1.965169689	-1.774515352	Cuba	1	Low stability and weak governance
+-1.935864957	-1.730890745	Cuba	1	Low stability and weak governance
+-1.910625337	-1.726026323	Cuba	1	Low stability and weak governance
+-1.818953146	-1.687250947	Cuba	1	Low stability and weak governance
+-1.835838109	-1.645694622	Cuba	1	Low stability and weak governance
+-1.531257229	-1.856922532	Cuba	1	Low stability and weak governance
+-1.442188683	-1.905142168	Cuba	1	Low stability and weak governance
+-1.365544847	-1.950180989	Cuba	1	Low stability and weak governance
+-1.338003234	-1.954782802	Cuba	1	Low stability and weak governance
+-1.384996164	-1.858585509	Cuba	1	Low stability and weak governance
+-1.337978929	-1.868361594	Cuba	1	Low stability and weak governance
+-1.37128919	-1.823767705	Cuba	1	Low stability and weak governance
+-1.448457703	-1.778454066	Cuba	1	Low stability and weak governance
+-1.430749675	-1.712231913	Cuba	1	Low stability and weak governance
+-1.511976021	-1.601122947	Cuba	1	Low stability and weak governance
+2.970975495	0.295302374	Cyprus	2	High stability and effective governance
+2.895138728	0.324791345	Cyprus	2	High stability and effective governance
+3.079835901	0.229822458	Cyprus	2	High stability and effective governance
+2.846245942	0.368662922	Cyprus	2	High stability and effective governance
+2.955618574	0.271845256	Cyprus	2	High stability and effective governance
+2.876571287	0.317856333	Cyprus	2	High stability and effective governance
+2.931960418	0.248982336	Cyprus	2	High stability and effective governance
+2.773344709	0.283597205	Cyprus	2	High stability and effective governance
+2.710715095	0.3878911	Cyprus	2	High stability and effective governance
+2.615374336	0.458427981	Cyprus	2	High stability and effective governance
+2.450124827	0.572258467	Cyprus	2	High stability and effective governance
+2.473601073	0.574536424	Cyprus	2	High stability and effective governance
+2.317088818	0.622037368	Cyprus	2	High stability and effective governance
+2.464494428	0.57856696	Cyprus	2	High stability and effective governance
+2.140584005	0.667277963	Cyprus	2	High stability and effective governance
+2.074898176	0.657612781	Cyprus	2	High stability and effective governance
+2.071700962	0.643844792	Cyprus	2	High stability and effective governance
+2.103625801	0.725638582	Cyprus	2	High stability and effective governance
+2.912082318	0.306792171	Czech Republic	2	High stability and effective governance
+2.79211668	0.408947947	Czech Republic	2	High stability and effective governance
+2.937099451	0.367650081	Czech Republic	2	High stability and effective governance
+2.914210239	0.394622371	Czech Republic	2	High stability and effective governance
+2.952910141	0.356896565	Czech Republic	2	High stability and effective governance
+2.989209336	0.329173774	Czech Republic	2	High stability and effective governance
+2.915476097	0.323955862	Czech Republic	2	High stability and effective governance
+2.92971199	0.329353292	Czech Republic	2	High stability and effective governance
+3.02191304	0.293463199	Czech Republic	2	High stability and effective governance
+3.080589109	0.284318802	Czech Republic	2	High stability and effective governance
+2.960086872	0.315332107	Czech Republic	2	High stability and effective governance
+3.072485583	0.169245293	Czech Republic	2	High stability and effective governance
+3.020855971	0.166312858	Czech Republic	2	High stability and effective governance
+2.977609223	0.197736696	Czech Republic	2	High stability and effective governance
+3.072407243	0.261806672	Czech Republic	2	High stability and effective governance
+3.243585244	0.18930049	Czech Republic	2	High stability and effective governance
+3.252373334	0.212444252	Czech Republic	2	High stability and effective governance
+3.286171088	0.197370434	Czech Republic	2	High stability and effective governance
+5.250022421	-0.555703485	Denmark	2	High stability and effective governance
+5.369407019	-0.683051073	Denmark	2	High stability and effective governance
+5.286040709	-0.585903733	Denmark	2	High stability and effective governance
+5.241169541	-0.565270844	Denmark	2	High stability and effective governance
+5.175060048	-0.514960185	Denmark	2	High stability and effective governance
+5.219416578	-0.533081984	Denmark	2	High stability and effective governance
+5.105910111	-0.376853162	Denmark	2	High stability and effective governance
+5.136573844	-0.395589486	Denmark	2	High stability and effective governance
+4.988819282	-0.417240429	Denmark	2	High stability and effective governance
+4.95873114	-0.370358127	Denmark	2	High stability and effective governance
+4.847139409	-0.338239596	Denmark	2	High stability and effective governance
+4.795487427	-0.318852157	Denmark	2	High stability and effective governance
+4.875483783	-0.319396061	Denmark	2	High stability and effective governance
+4.885403393	-0.358279079	Denmark	2	High stability and effective governance
+4.999425628	-0.416216148	Denmark	2	High stability and effective governance
+5.106474591	-0.464515886	Denmark	2	High stability and effective governance
+5.166693076	-0.460167043	Denmark	2	High stability and effective governance
+5.191259381	-0.417823475	Denmark	2	High stability and effective governance
+-1.134368602	-0.841024899	Djibouti	0	Medium stability and governance
+-1.926873548	-0.576860786	Djibouti	1	Low stability and weak governance
+-1.631785496	-0.744602031	Djibouti	1	Low stability and weak governance
+-1.582478691	-0.775336885	Djibouti	1	Low stability and weak governance
+-1.861974605	-0.88348583	Djibouti	1	Low stability and weak governance
+-1.943926482	-0.942662565	Djibouti	1	Low stability and weak governance
+-1.974781235	-0.922379264	Djibouti	1	Low stability and weak governance
+-2.123932376	-0.880693177	Djibouti	1	Low stability and weak governance
+-2.461846099	-0.660428865	Djibouti	1	Low stability and weak governance
+-2.477912803	-0.658007744	Djibouti	1	Low stability and weak governance
+-2.581072784	-0.569742902	Djibouti	1	Low stability and weak governance
+-2.583484496	-0.583444857	Djibouti	1	Low stability and weak governance
+-2.333589606	-0.701649489	Djibouti	1	Low stability and weak governance
+-2.501482595	-0.884466234	Djibouti	1	Low stability and weak governance
+-2.481999468	-0.891414181	Djibouti	1	Low stability and weak governance
+-2.532452741	-0.773372563	Djibouti	1	Low stability and weak governance
+-2.504101282	-0.789556284	Djibouti	1	Low stability and weak governance
+-2.510900558	-0.782384384	Djibouti	1	Low stability and weak governance
+-0.649993261	1.166375486	Dominican Republic	0	Medium stability and governance
+-0.646886574	1.175430618	Dominican Republic	0	Medium stability and governance
+-0.588951553	1.125138692	Dominican Republic	0	Medium stability and governance
+-0.655002737	1.104401313	Dominican Republic	0	Medium stability and governance
+-0.714988794	1.139126806	Dominican Republic	0	Medium stability and governance
+-0.662709938	1.111760655	Dominican Republic	0	Medium stability and governance
+-0.423132707	1.017475037	Dominican Republic	0	Medium stability and governance
+-0.416549855	0.790178225	Dominican Republic	0	Medium stability and governance
+-0.301383136	0.786267032	Dominican Republic	0	Medium stability and governance
+-0.385464289	0.579184939	Dominican Republic	0	Medium stability and governance
+-0.260345518	0.522159359	Dominican Republic	0	Medium stability and governance
+-0.324661379	0.546029042	Dominican Republic	0	Medium stability and governance
+-0.381669309	0.556629925	Dominican Republic	0	Medium stability and governance
+-0.291557963	0.553723308	Dominican Republic	0	Medium stability and governance
+-0.050968385	0.465380762	Dominican Republic	0	Medium stability and governance
+0.212656763	0.344077329	Dominican Republic	0	Medium stability and governance
+0.268817897	0.328559842	Dominican Republic	0	Medium stability and governance
+0.393590157	0.271240223	Dominican Republic	0	Medium stability and governance
+-1.893771465	1.005429257	Ecuador	1	Low stability and weak governance
+-1.762603762	0.988948694	Ecuador	1	Low stability and weak governance
+-1.746566245	0.927361883	Ecuador	1	Low stability and weak governance
+-1.825555021	0.928066982	Ecuador	1	Low stability and weak governance
+-1.683159014	0.871961668	Ecuador	1	Low stability and weak governance
+-1.609433526	0.789385019	Ecuador	1	Low stability and weak governance
+-1.432716809	0.686060412	Ecuador	0	Medium stability and governance
+-1.124901641	0.560094826	Ecuador	0	Medium stability and governance
+-1.159419458	0.613693551	Ecuador	0	Medium stability and governance
+-1.245178289	0.63250419	Ecuador	0	Medium stability and governance
+-1.130927464	0.342766519	Ecuador	0	Medium stability and governance
+-1.059838846	0.568540582	Ecuador	0	Medium stability and governance
+-0.874779023	0.617791724	Ecuador	0	Medium stability and governance
+-0.767720487	0.599086811	Ecuador	0	Medium stability and governance
+-0.832648995	0.601681433	Ecuador	0	Medium stability and governance
+-0.550228282	0.760817335	Ecuador	0	Medium stability and governance
+-0.62894163	0.78333266	Ecuador	0	Medium stability and governance
+-1.036321827	0.695939419	Ecuador	0	Medium stability and governance
+-0.376284756	0.703298046	El Salvador	0	Medium stability and governance
+-0.298370386	0.681960257	El Salvador	0	Medium stability and governance
+-0.227214176	0.65814699	El Salvador	0	Medium stability and governance
+-0.157284635	0.571741547	El Salvador	0	Medium stability and governance
+-0.139650351	0.571822254	El Salvador	0	Medium stability and governance
+-0.063140615	0.526416715	El Salvador	0	Medium stability and governance
+-0.148545086	0.501062944	El Salvador	0	Medium stability and governance
+-0.158615261	0.530227911	El Salvador	0	Medium stability and governance
+0.010124405	0.562765731	El Salvador	0	Medium stability and governance
+-0.216116928	0.689642173	El Salvador	0	Medium stability and governance
+-0.409209863	0.816356321	El Salvador	0	Medium stability and governance
+-0.586066591	0.875812566	El Salvador	0	Medium stability and governance
+-0.669548882	0.855235426	El Salvador	0	Medium stability and governance
+-0.583373252	0.651323214	El Salvador	0	Medium stability and governance
+-0.482833693	0.541313741	El Salvador	0	Medium stability and governance
+-0.804149012	0.364076307	El Salvador	0	Medium stability and governance
+-1.013831165	0.240429579	El Salvador	0	Medium stability and governance
+-0.613820985	-0.288637582	El Salvador	0	Medium stability and governance
+-3.176794224	-1.071716219	Equatorial Guinea	1	Low stability and weak governance
+-3.113775265	-1.161508181	Equatorial Guinea	1	Low stability and weak governance
+-3.160817571	-1.361223719	Equatorial Guinea	1	Low stability and weak governance
+-3.131913109	-1.316850274	Equatorial Guinea	1	Low stability and weak governance
+-3.247292351	-1.300762638	Equatorial Guinea	1	Low stability and weak governance
+-3.261975469	-1.314770614	Equatorial Guinea	1	Low stability and weak governance
+-3.266688099	-1.326239631	Equatorial Guinea	1	Low stability and weak governance
+-3.41798652	-1.276898953	Equatorial Guinea	1	Low stability and weak governance
+-3.62792783	-1.155516103	Equatorial Guinea	1	Low stability and weak governance
+-3.599882871	-1.190631737	Equatorial Guinea	1	Low stability and weak governance
+-3.617694275	-1.150681134	Equatorial Guinea	1	Low stability and weak governance
+-3.648808957	-1.149940404	Equatorial Guinea	1	Low stability and weak governance
+-3.582127971	-1.12190749	Equatorial Guinea	1	Low stability and weak governance
+-3.504365094	-1.177763629	Equatorial Guinea	1	Low stability and weak governance
+-3.530048477	-1.101528983	Equatorial Guinea	1	Low stability and weak governance
+-3.53785167	-1.036534811	Equatorial Guinea	1	Low stability and weak governance
+-3.579232884	-0.967761313	Equatorial Guinea	1	Low stability and weak governance
+-3.537450072	-0.967152068	Equatorial Guinea	1	Low stability and weak governance
+-3.544426612	-1.147592327	Eritrea	1	Low stability and weak governance
+-3.699066639	-1.085910509	Eritrea	1	Low stability and weak governance
+-3.632210707	-1.173663953	Eritrea	1	Low stability and weak governance
+-3.876152769	-1.3050886	Eritrea	1	Low stability and weak governance
+-4.01793351	-1.219702606	Eritrea	1	Low stability and weak governance
+-4.062824146	-1.208495007	Eritrea	1	Low stability and weak governance
+-4.142175309	-1.152019972	Eritrea	1	Low stability and weak governance
+-4.244066298	-1.081222043	Eritrea	1	Low stability and weak governance
+-4.272376093	-0.982300651	Eritrea	1	Low stability and weak governance
+-4.458319684	-0.855384081	Eritrea	1	Low stability and weak governance
+-4.53426821	-0.86784374	Eritrea	1	Low stability and weak governance
+-4.512972831	-0.88349348	Eritrea	1	Low stability and weak governance
+-4.500336957	-0.904625402	Eritrea	1	Low stability and weak governance
+-4.578880275	-0.869204107	Eritrea	1	Low stability and weak governance
+-4.476785174	-0.820086423	Eritrea	1	Low stability and weak governance
+-4.540610732	-0.699085753	Eritrea	1	Low stability and weak governance
+-4.598127678	-0.639266836	Eritrea	1	Low stability and weak governance
+-4.595072817	-0.611641396	Eritrea	1	Low stability and weak governance
+2.477444079	0.525845146	Estonia	2	High stability and effective governance
+3.038952853	0.315878224	Estonia	2	High stability and effective governance
+3.102358285	0.293301252	Estonia	2	High stability and effective governance
+3.045048878	0.327904929	Estonia	2	High stability and effective governance
+3.127312946	0.293441834	Estonia	2	High stability and effective governance
+3.163747088	0.296269059	Estonia	2	High stability and effective governance
+3.162464138	0.291664001	Estonia	2	High stability and effective governance
+3.306051866	0.217545093	Estonia	2	High stability and effective governance
+3.551236534	0.142396791	Estonia	2	High stability and effective governance
+3.480469354	0.19656132	Estonia	2	High stability and effective governance
+3.478982623	0.214952406	Estonia	2	High stability and effective governance
+3.451677383	0.227878421	Estonia	2	High stability and effective governance
+3.520192786	0.149259467	Estonia	2	High stability and effective governance
+3.61201499	0.096459846	Estonia	2	High stability and effective governance
+3.766792121	-0.011303581	Estonia	2	High stability and effective governance
+3.788148388	-0.01301201	Estonia	2	High stability and effective governance
+3.846995018	-0.024490125	Estonia	2	High stability and effective governance
+3.734966052	0.041836125	Estonia	2	High stability and effective governance
+-2.712468919	-0.178919617	Ethiopia	1	Low stability and weak governance
+-2.683499357	-0.217964947	Ethiopia	1	Low stability and weak governance
+-2.695866502	-0.284394697	Ethiopia	1	Low stability and weak governance
+-2.816184637	-0.213899623	Ethiopia	1	Low stability and weak governance
+-2.925644904	-0.631375133	Ethiopia	1	Low stability and weak governance
+-2.907666006	-0.668671408	Ethiopia	1	Low stability and weak governance
+-2.855119986	-0.666997348	Ethiopia	1	Low stability and weak governance
+-2.858270216	-0.67432003	Ethiopia	1	Low stability and weak governance
+-2.632424997	-0.780815799	Ethiopia	1	Low stability and weak governance
+-2.898755359	-0.845460845	Ethiopia	1	Low stability and weak governance
+-2.976463597	-0.886657695	Ethiopia	1	Low stability and weak governance
+-3.090926679	-0.835521926	Ethiopia	1	Low stability and weak governance
+-2.64950848	-0.654485459	Ethiopia	1	Low stability and weak governance
+-2.503658986	-0.644777752	Ethiopia	1	Low stability and weak governance
+-2.618560113	-0.569402846	Ethiopia	1	Low stability and weak governance
+-2.7862396	-0.280911275	Ethiopia	1	Low stability and weak governance
+-2.930707083	-0.398964836	Ethiopia	1	Low stability and weak governance
+-2.994445265	-0.38355956	Ethiopia	1	Low stability and weak governance
+-0.830881736	-0.586534677	Fiji	0	Medium stability and governance
+-1.011429981	-0.663258905	Fiji	0	Medium stability and governance
+-1.393869555	-0.494574133	Fiji	1	Low stability and weak governance
+-1.926385064	-0.374263106	Fiji	1	Low stability and weak governance
+-1.698993345	-0.624960418	Fiji	1	Low stability and weak governance
+-1.501244754	-0.726017629	Fiji	1	Low stability and weak governance
+-1.515543283	-0.636711273	Fiji	1	Low stability and weak governance
+-1.474310444	-0.603620458	Fiji	1	Low stability and weak governance
+-0.226528235	-0.082081336	Fiji	0	Medium stability and governance
+0.057995023	0.144836961	Fiji	0	Medium stability and governance
+0.214391775	-0.163336978	Fiji	0	Medium stability and governance
+0.620516533	-0.104092997	Fiji	0	Medium stability and governance
+1.06665159	-0.367454638	Fiji	0	Medium stability and governance
+1.127005149	-0.484957777	Fiji	0	Medium stability and governance
+0.896599358	-0.33104844	Fiji	0	Medium stability and governance
+0.786100629	-0.655062325	Fiji	0	Medium stability and governance
+0.855887143	-0.445223382	Fiji	0	Medium stability and governance
+0.937473769	-0.242043331	Fiji	0	Medium stability and governance
+4.482680523	-0.294663001	Finland	2	High stability and effective governance
+5.102452854	-0.557966902	Finland	2	High stability and effective governance
+5.13569691	-0.569070612	Finland	2	High stability and effective governance
+5.257968962	-0.623153472	Finland	2	High stability and effective governance
+5.254645918	-0.594664889	Finland	2	High stability and effective governance
+5.24429266	-0.582784328	Finland	2	High stability and effective governance
+5.281098925	-0.531372843	Finland	2	High stability and effective governance
+5.292618344	-0.549421868	Finland	2	High stability and effective governance
+5.275738235	-0.547642017	Finland	2	High stability and effective governance
+5.14446469	-0.467598897	Finland	2	High stability and effective governance
+5.071540239	-0.439169121	Finland	2	High stability and effective governance
+5.163153905	-0.476321525	Finland	2	High stability and effective governance
+5.129977291	-0.43804807	Finland	2	High stability and effective governance
+5.093496343	-0.424374501	Finland	2	High stability and effective governance
+5.198249945	-0.440533155	Finland	2	High stability and effective governance
+5.210077172	-0.450013664	Finland	2	High stability and effective governance
+5.081182728	-0.380191934	Finland	2	High stability and effective governance
+4.992977518	-0.310737666	Finland	2	High stability and effective governance
+3.85196413	0.006623333	France	2	High stability and effective governance
+3.783930614	0.030557666	France	2	High stability and effective governance
+3.815040517	0.042440042	France	2	High stability and effective governance
+3.705726928	0.052822311	France	2	High stability and effective governance
+3.831142075	-0.039872568	France	2	High stability and effective governance
+3.711998329	-0.011075153	France	2	High stability and effective governance
+3.684263783	0.057682582	France	2	High stability and effective governance
+3.629550268	0.078519466	France	2	High stability and effective governance
+3.500792166	0.144175324	France	2	High stability and effective governance
+3.407713368	0.19550664	France	2	High stability and effective governance
+3.199177721	0.027509453	France	2	High stability and effective governance
+3.344177283	-0.023748359	France	2	High stability and effective governance
+3.332909462	-0.018164535	France	2	High stability and effective governance
+3.470751778	-0.092879389	France	2	High stability and effective governance
+3.26663812	-0.028061842	France	2	High stability and effective governance
+3.333406872	-0.044111906	France	2	High stability and effective governance
+3.307647442	-0.023712078	France	2	High stability and effective governance
+3.288683268	0.0257799	France	2	High stability and effective governance
+-1.596654953	-0.493382586	Gabon	1	Low stability and weak governance
+-1.572834374	-0.447460614	Gabon	1	Low stability and weak governance
+-1.665871641	-0.395818038	Gabon	1	Low stability and weak governance
+-1.670866244	-0.712091501	Gabon	1	Low stability and weak governance
+-1.506431909	-0.724977803	Gabon	1	Low stability and weak governance
+-1.489414511	-0.764409743	Gabon	1	Low stability and weak governance
+-1.491390856	-0.739451832	Gabon	1	Low stability and weak governance
+-1.477731157	-0.76159017	Gabon	1	Low stability and weak governance
+-1.464196703	-0.790565523	Gabon	1	Low stability and weak governance
+-1.631838796	-0.710325463	Gabon	1	Low stability and weak governance
+-1.768857574	-0.684181389	Gabon	1	Low stability and weak governance
+-2.045944764	-0.814897183	Gabon	1	Low stability and weak governance
+-2.051431358	-0.761589556	Gabon	1	Low stability and weak governance
+-2.080917598	-0.803123193	Gabon	1	Low stability and weak governance
+-1.988458363	-0.790933239	Gabon	1	Low stability and weak governance
+-1.852592312	-0.803333927	Gabon	1	Low stability and weak governance
+-1.80145861	-0.813496381	Gabon	1	Low stability and weak governance
+-1.989147624	-0.729294938	Gabon	1	Low stability and weak governance
+-0.469968538	0.398966633	Georgia	0	Medium stability and governance
+-0.544146662	-0.115625942	Georgia	0	Medium stability and governance
+-0.502848209	-0.151407295	Georgia	0	Medium stability and governance
+-0.588639862	-0.060675714	Georgia	0	Medium stability and governance
+-0.295902878	0.022992996	Georgia	0	Medium stability and governance
+-0.029036541	-0.138837927	Georgia	0	Medium stability and governance
+0.307365434	0.038643388	Georgia	0	Medium stability and governance
+0.489098578	0.031893905	Georgia	0	Medium stability and governance
+0.767544433	-0.005124087	Georgia	0	Medium stability and governance
+0.650338312	0.074653113	Georgia	0	Medium stability and governance
+0.86618466	-0.026734416	Georgia	0	Medium stability and governance
+0.914746391	-0.069503734	Georgia	0	Medium stability and governance
+0.94738144	-0.101743086	Georgia	0	Medium stability and governance
+1.015809233	-0.198334356	Georgia	0	Medium stability and governance
+0.850578907	-0.410670366	Georgia	0	Medium stability and governance
+0.786618053	-0.404461889	Georgia	0	Medium stability and governance
+0.797454247	-0.407046021	Georgia	0	Medium stability and governance
+0.862819441	-0.447696926	Georgia	0	Medium stability and governance
+3.841024461	0.013668592	Germany	2	High stability and effective governance
+4.303179825	-0.192582131	Germany	2	High stability and effective governance
+4.208169172	-0.144350502	Germany	2	High stability and effective governance
+4.193519611	-0.13703822	Germany	2	High stability and effective governance
+4.16995805	-0.141745368	Germany	2	High stability and effective governance
+4.197492216	-0.11594938	Germany	2	High stability and effective governance
+4.272258649	-0.1247952	Germany	2	High stability and effective governance
+4.343752187	-0.149400779	Germany	2	High stability and effective governance
+4.538536914	-0.226697799	Germany	2	High stability and effective governance
+4.437333082	-0.172257489	Germany	2	High stability and effective governance
+4.373868295	-0.175015671	Germany	2	High stability and effective governance
+4.343883316	-0.105784195	Germany	2	High stability and effective governance
+4.385584064	-0.116661643	Germany	2	High stability and effective governance
+4.318169119	-0.146461386	Germany	2	High stability and effective governance
+4.227474421	-0.081554361	Germany	2	High stability and effective governance
+4.262395902	-0.060700258	Germany	2	High stability and effective governance
+4.201815497	-0.040808748	Germany	2	High stability and effective governance
+4.076890673	0.06896661	Germany	2	High stability and effective governance
+1.215848671	0.581045573	Ghana	0	Medium stability and governance
+0.693259412	0.863210183	Ghana	0	Medium stability and governance
+0.522305484	0.912854161	Ghana	0	Medium stability and governance
+0.595367015	0.938757932	Ghana	0	Medium stability and governance
+0.613730693	0.939223191	Ghana	0	Medium stability and governance
+0.657380068	0.893902121	Ghana	0	Medium stability and governance
+0.606574077	0.888034582	Ghana	0	Medium stability and governance
+0.592013421	0.899393411	Ghana	0	Medium stability and governance
+0.338729384	1.057715288	Ghana	0	Medium stability and governance
+0.347583439	1.066388329	Ghana	0	Medium stability and governance
+0.284523937	1.148600995	Ghana	0	Medium stability and governance
+0.459215519	1.074251498	Ghana	0	Medium stability and governance
+0.413859259	1.082075306	Ghana	0	Medium stability and governance
+0.408959499	0.849984419	Ghana	0	Medium stability and governance
+0.46732269	0.821501142	Ghana	0	Medium stability and governance
+0.368947024	0.803052665	Ghana	0	Medium stability and governance
+0.334113273	0.77093514	Ghana	0	Medium stability and governance
+0.396913817	0.74353637	Ghana	0	Medium stability and governance
+2.106455603	0.499636828	Greece	2	High stability and effective governance
+2.303183802	0.453761524	Greece	2	High stability and effective governance
+2.113907001	0.517305176	Greece	2	High stability and effective governance
+1.808849001	0.653605735	Greece	0	Medium stability and governance
+1.657955055	0.732941781	Greece	0	Medium stability and governance
+1.429994818	0.560962068	Greece	0	Medium stability and governance
+1.157013538	0.63174983	Greece	0	Medium stability and governance
+1.307281147	0.540095075	Greece	0	Medium stability and governance
+1.080109284	0.582999497	Greece	0	Medium stability and governance
+0.976911947	0.679329091	Greece	0	Medium stability and governance
+0.810729701	0.749821474	Greece	0	Medium stability and governance
+0.861389865	0.710730714	Greece	0	Medium stability and governance
+1.213151974	0.821075625	Greece	0	Medium stability and governance
+1.367505372	0.797414196	Greece	0	Medium stability and governance
+1.526776335	0.827189627	Greece	0	Medium stability and governance
+1.507194423	0.802829172	Greece	0	Medium stability and governance
+1.387903889	0.659185086	Greece	0	Medium stability and governance
+1.378157732	0.7337749	Greece	0	Medium stability and governance
+1.725406378	0.49629696	Grenada	0	Medium stability and governance
+1.310695693	0.753511256	Grenada	0	Medium stability and governance
+1.207687378	0.820604197	Grenada	0	Medium stability and governance
+1.257008264	0.798932906	Grenada	0	Medium stability and governance
+1.311057277	0.748074307	Grenada	0	Medium stability and governance
+1.290884843	0.748318436	Grenada	0	Medium stability and governance
+1.372776016	0.676147249	Grenada	0	Medium stability and governance
+1.349832451	0.710442126	Grenada	0	Medium stability and governance
+1.191591987	0.911109876	Grenada	0	Medium stability and governance
+1.315200045	0.761671054	Grenada	0	Medium stability and governance
+1.585323768	0.62015551	Grenada	0	Medium stability and governance
+1.427191484	0.645586176	Grenada	0	Medium stability and governance
+1.144679213	0.600198396	Grenada	0	Medium stability and governance
+1.221547158	0.690213335	Grenada	0	Medium stability and governance
+1.459660356	0.579514106	Grenada	0	Medium stability and governance
+1.741531426	0.493319662	Grenada	0	Medium stability and governance
+1.819353893	0.449206521	Grenada	2	High stability and effective governance
+1.838865347	0.468382773	Grenada	2	High stability and effective governance
+-1.574066645	0.725410586	Guatemala	1	Low stability and weak governance
+-1.508353813	0.688872584	Guatemala	1	Low stability and weak governance
+-1.42998303	0.623678392	Guatemala	0	Medium stability and governance
+-1.53052961	0.42535999	Guatemala	1	Low stability and weak governance
+-1.495507991	0.370156333	Guatemala	1	Low stability and weak governance
+-1.405514023	0.532563201	Guatemala	0	Medium stability and governance
+-1.483403481	0.545541676	Guatemala	1	Low stability and weak governance
+-1.497845135	0.535357448	Guatemala	1	Low stability and weak governance
+-1.476651599	0.555798654	Guatemala	1	Low stability and weak governance
+-1.591163283	0.38598597	Guatemala	1	Low stability and weak governance
+-1.55286652	0.395848124	Guatemala	1	Low stability and weak governance
+-1.643252818	0.449446707	Guatemala	1	Low stability and weak governance
+-1.600837914	0.381872158	Guatemala	1	Low stability and weak governance
+-1.664162542	0.433019483	Guatemala	1	Low stability and weak governance
+-1.636751073	0.400801962	Guatemala	1	Low stability and weak governance
+-1.735507733	0.389118261	Guatemala	1	Low stability and weak governance
+-1.724218442	0.353344742	Guatemala	1	Low stability and weak governance
+-1.746277298	0.130620154	Guatemala	1	Low stability and weak governance
+-3.692844539	0.13464545	Guinea	1	Low stability and weak governance
+-3.872160834	0.122903381	Guinea	1	Low stability and weak governance
+-3.952992143	-0.107845102	Guinea	1	Low stability and weak governance
+-3.929799087	-0.264215614	Guinea	1	Low stability and weak governance
+-3.479215946	0.465493286	Guinea	1	Low stability and weak governance
+-3.258200207	0.372137425	Guinea	1	Low stability and weak governance
+-3.261492313	0.280963588	Guinea	1	Low stability and weak governance
+-3.195529702	0.232409452	Guinea	1	Low stability and weak governance
+-3.098241294	0.299590491	Guinea	1	Low stability and weak governance
+-2.750062598	0.11198329	Guinea	1	Low stability and weak governance
+-2.650974058	0.123330598	Guinea	1	Low stability and weak governance
+-2.769616641	0.218339336	Guinea	1	Low stability and weak governance
+-2.70710832	0.391685845	Guinea	1	Low stability and weak governance
+-2.63234519	0.113793016	Guinea	1	Low stability and weak governance
+-2.701498289	0.040764351	Guinea	1	Low stability and weak governance
+-2.908600676	-0.126717775	Guinea	1	Low stability and weak governance
+-2.908258478	-0.214869573	Guinea	1	Low stability and weak governance
+-2.915200278	-0.262305129	Guinea	1	Low stability and weak governance
+-1.192818538	1.074846756	Guyana	0	Medium stability and governance
+-0.609416529	0.787987063	Guyana	0	Medium stability and governance
+-0.698957596	0.859633056	Guyana	0	Medium stability and governance
+-0.716331573	0.848782591	Guyana	0	Medium stability and governance
+-0.61161965	0.769188764	Guyana	0	Medium stability and governance
+-0.655181745	0.757183845	Guyana	0	Medium stability and governance
+-0.714436975	0.7809648	Guyana	0	Medium stability and governance
+-0.637830752	0.754660666	Guyana	0	Medium stability and governance
+-0.554606456	0.826353947	Guyana	0	Medium stability and governance
+-0.522047697	0.835011942	Guyana	0	Medium stability and governance
+-0.211656091	0.713050249	Guyana	0	Medium stability and governance
+-0.263532066	0.770431267	Guyana	0	Medium stability and governance
+-0.294091237	0.71989604	Guyana	0	Medium stability and governance
+-0.337771151	0.768052927	Guyana	0	Medium stability and governance
+-0.273029158	0.716536005	Guyana	0	Medium stability and governance
+-0.189890272	0.681437718	Guyana	0	Medium stability and governance
+-0.123060372	0.616920001	Guyana	0	Medium stability and governance
+-0.194661621	0.629185997	Guyana	0	Medium stability and governance
+-3.207832504	0.730906931	Haiti	1	Low stability and weak governance
+-3.052463541	0.73081747	Haiti	1	Low stability and weak governance
+-2.964543994	0.709140225	Haiti	1	Low stability and weak governance
+-2.978316945	0.644301726	Haiti	1	Low stability and weak governance
+-3.126691027	0.687497731	Haiti	1	Low stability and weak governance
+-3.31157951	0.750957545	Haiti	1	Low stability and weak governance
+-3.110767857	0.644078819	Haiti	1	Low stability and weak governance
+-2.983612142	0.57304825	Haiti	1	Low stability and weak governance
+-3.29401186	0.5151124	Haiti	1	Low stability and weak governance
+-3.374324163	0.542063945	Haiti	1	Low stability and weak governance
+-3.407695551	0.595864744	Haiti	1	Low stability and weak governance
+-3.38898586	0.584180846	Haiti	1	Low stability and weak governance
+-3.252525102	0.498940233	Haiti	1	Low stability and weak governance
+-3.334203745	0.565027557	Haiti	1	Low stability and weak governance
+-3.41191244	0.54842065	Haiti	1	Low stability and weak governance
+-3.76407385	0.434241806	Haiti	1	Low stability and weak governance
+-4.033793578	0.400852601	Haiti	1	Low stability and weak governance
+-4.09915739	0.432272431	Haiti	1	Low stability and weak governance
+-1.339030721	0.839132881	Honduras	0	Medium stability and governance
+-1.101367262	0.679041703	Honduras	0	Medium stability and governance
+-1.27167642	0.70129139	Honduras	0	Medium stability and governance
+-1.463434016	0.176797399	Honduras	1	Low stability and weak governance
+-1.512666227	0.227055235	Honduras	1	Low stability and weak governance
+-1.348686918	0.164982998	Honduras	0	Medium stability and governance
+-1.555215454	0.28405713	Honduras	1	Low stability and weak governance
+-1.602728024	0.309664903	Honduras	1	Low stability and weak governance
+-1.576206636	0.327502989	Honduras	1	Low stability and weak governance
+-1.510378163	0.274436569	Honduras	1	Low stability and weak governance
+-1.641023017	0.313080625	Honduras	1	Low stability and weak governance
+-1.554976411	0.263794062	Honduras	1	Low stability and weak governance
+-1.545517548	0.20056598	Honduras	1	Low stability and weak governance
+-1.675391706	0.238937243	Honduras	1	Low stability and weak governance
+-1.754672007	0.031035079	Honduras	1	Low stability and weak governance
+-1.911680841	0.370526275	Honduras	1	Low stability and weak governance
+-1.784712285	0.382041275	Honduras	1	Low stability and weak governance
+-1.810874059	0.413950219	Honduras	1	Low stability and weak governance
+2.921771949	0.348961107	Hungary	2	High stability and effective governance
+2.694876107	0.499381909	Hungary	2	High stability and effective governance
+2.59487505	0.500016399	Hungary	2	High stability and effective governance
+2.385969514	0.566680863	Hungary	2	High stability and effective governance
+2.378617622	0.556561117	Hungary	2	High stability and effective governance
+2.327435771	0.319404409	Hungary	2	High stability and effective governance
+2.177284394	0.333842521	Hungary	2	High stability and effective governance
+2.211276402	0.292372789	Hungary	2	High stability and effective governance
+1.834359181	0.131269788	Hungary	2	High stability and effective governance
+1.761782883	0.178923311	Hungary	0	Medium stability and governance
+1.448802267	-0.008764039	Hungary	0	Medium stability and governance
+1.643959551	-0.009188776	Hungary	0	Medium stability and governance
+1.499671514	-0.190275564	Hungary	0	Medium stability and governance
+1.44943718	-0.269263538	Hungary	0	Medium stability and governance
+1.52197405	-0.290979145	Hungary	0	Medium stability and governance
+1.470230021	-0.26254097	Hungary	0	Medium stability and governance
+1.314219828	-0.154109259	Hungary	0	Medium stability and governance
+1.286534594	-0.189104553	Hungary	0	Medium stability and governance
+4.523259732	-0.294445029	Iceland	2	High stability and effective governance
+4.876626607	-0.446263159	Iceland	2	High stability and effective governance
+4.872404994	-0.475756503	Iceland	2	High stability and effective governance
+4.403686394	-0.249209383	Iceland	2	High stability and effective governance
+4.258981238	-0.148489218	Iceland	2	High stability and effective governance
+4.337280217	-0.206762233	Iceland	2	High stability and effective governance
+4.327621951	-0.16035985	Iceland	2	High stability and effective governance
+4.400001878	-0.194187722	Iceland	2	High stability and effective governance
+4.373375315	-0.232177471	Iceland	2	High stability and effective governance
+4.426274126	-0.23944113	Iceland	2	High stability and effective governance
+4.333507218	-0.19756307	Iceland	2	High stability and effective governance
+4.422562718	-0.210218476	Iceland	2	High stability and effective governance
+4.503146167	-0.243911228	Iceland	2	High stability and effective governance
+4.45286969	-0.283966063	Iceland	2	High stability and effective governance
+4.546276257	-0.261835229	Iceland	2	High stability and effective governance
+4.631283695	-0.326757367	Iceland	2	High stability and effective governance
+4.501100873	-0.217237711	Iceland	2	High stability and effective governance
+4.518235128	-0.210975073	Iceland	2	High stability and effective governance
+-0.182979506	0.857890342	India	0	Medium stability and governance
+-0.216435158	0.875063839	India	0	Medium stability and governance
+-0.299461189	0.919259929	India	0	Medium stability and governance
+-0.508604911	1.036976181	India	0	Medium stability and governance
+-0.541146699	1.02915667	India	0	Medium stability and governance
+-0.596132617	1.062089139	India	0	Medium stability and governance
+-0.667512366	1.073996506	India	0	Medium stability and governance
+-0.620041864	1.074263842	India	0	Medium stability and governance
+-0.542747857	1.017048333	India	0	Medium stability and governance
+-0.408167824	0.932778699	India	0	Medium stability and governance
+-0.34429147	0.917629108	India	0	Medium stability and governance
+-0.229671956	0.819846535	India	0	Medium stability and governance
+-0.171222674	0.759533777	India	0	Medium stability and governance
+-0.173327102	0.709932727	India	0	Medium stability and governance
+-0.232214264	0.39689755	India	0	Medium stability and governance
+-0.274894282	0.399808866	India	0	Medium stability and governance
+-0.094751618	0.268724111	India	0	Medium stability and governance
+-0.047445165	0.269156351	India	0	Medium stability and governance
+-1.460953559	1.148978519	Indonesia	0	Medium stability and governance
+-1.184044311	1.040417517	Indonesia	0	Medium stability and governance
+-1.073480637	0.988695169	Indonesia	0	Medium stability and governance
+-1.048167383	0.996753265	Indonesia	0	Medium stability and governance
+-1.071327296	0.969168716	Indonesia	0	Medium stability and governance
+-0.962815153	0.943351975	Indonesia	0	Medium stability and governance
+-0.795325432	0.916444183	Indonesia	0	Medium stability and governance
+-0.729199269	0.640689194	Indonesia	0	Medium stability and governance
+-0.412449986	0.5589435	Indonesia	0	Medium stability and governance
+-0.616861007	0.696838015	Indonesia	0	Medium stability and governance
+-0.329956839	0.517885585	Indonesia	0	Medium stability and governance
+-0.273709568	0.461628104	Indonesia	0	Medium stability and governance
+-0.213718591	0.438368508	Indonesia	0	Medium stability and governance
+-0.235179284	0.441793623	Indonesia	0	Medium stability and governance
+-0.057641651	0.330864737	Indonesia	0	Medium stability and governance
+0.020128474	0.334522728	Indonesia	0	Medium stability and governance
+0.057842408	0.29773158	Indonesia	0	Medium stability and governance
+0.126090181	0.03671979	Indonesia	0	Medium stability and governance
+-4.438006502	0.275275459	Iraq	1	Low stability and weak governance
+-4.393440128	0.3602543	Iraq	1	Low stability and weak governance
+-4.159765865	0.247911159	Iraq	1	Low stability and weak governance
+-3.871652503	0.385218773	Iraq	1	Low stability and weak governance
+-3.833984043	0.384544494	Iraq	1	Low stability and weak governance
+-3.677377998	0.240563281	Iraq	1	Low stability and weak governance
+-3.832219863	0.083953538	Iraq	1	Low stability and weak governance
+-3.752098354	0.281798988	Iraq	1	Low stability and weak governance
+-3.819364259	0.035943004	Iraq	1	Low stability and weak governance
+-3.891594795	0.316091153	Iraq	1	Low stability and weak governance
+-3.895104867	0.420184879	Iraq	1	Low stability and weak governance
+-3.94249681	0.406687811	Iraq	1	Low stability and weak governance
+-3.904125686	0.436089623	Iraq	1	Low stability and weak governance
+-3.83786813	0.42916233	Iraq	1	Low stability and weak governance
+-3.884159066	0.398699458	Iraq	1	Low stability and weak governance
+-3.757177616	0.383405527	Iraq	1	Low stability and weak governance
+-3.70930702	0.363790667	Iraq	1	Low stability and weak governance
+-3.822746115	0.406586189	Iraq	1	Low stability and weak governance
+3.615482278	0.1629113	Ireland	2	High stability and effective governance
+4.725142466	-0.317234035	Ireland	2	High stability and effective governance
+4.71818936	-0.284199902	Ireland	2	High stability and effective governance
+4.505473766	-0.234276958	Ireland	2	High stability and effective governance
+4.426770106	-0.220037924	Ireland	2	High stability and effective governance
+4.330276434	-0.190332275	Ireland	2	High stability and effective governance
+4.293600778	-0.164259133	Ireland	2	High stability and effective governance
+4.352804995	-0.206398134	Ireland	2	High stability and effective governance
+4.532081587	-0.2926588	Ireland	2	High stability and effective governance
+4.472557138	-0.231643992	Ireland	2	High stability and effective governance
+4.256853477	-0.140384458	Ireland	2	High stability and effective governance
+4.164318595	-0.096629435	Ireland	2	High stability and effective governance
+4.266213209	-0.151551047	Ireland	2	High stability and effective governance
+4.144332164	-0.070868982	Ireland	2	High stability and effective governance
+4.275800756	-0.102382006	Ireland	2	High stability and effective governance
+4.293334999	-0.089024686	Ireland	2	High stability and effective governance
+4.439287673	-0.137466736	Ireland	2	High stability and effective governance
+4.537076041	-0.152381382	Ireland	2	High stability and effective governance
+2.6307394	0.607296839	Italy	2	High stability and effective governance
+2.259556632	0.830734011	Italy	2	High stability and effective governance
+2.153344366	0.59976773	Italy	2	High stability and effective governance
+2.027431748	0.657588483	Italy	2	High stability and effective governance
+2.067141997	0.562786754	Italy	2	High stability and effective governance
+2.067249165	0.73126548	Italy	2	High stability and effective governance
+1.947727643	0.582571141	Italy	2	High stability and effective governance
+2.070322101	0.771549398	Italy	2	High stability and effective governance
+1.986940894	0.846045128	Italy	2	High stability and effective governance
+1.958343554	0.894308406	Italy	2	High stability and effective governance
+2.021321451	0.853957233	Italy	2	High stability and effective governance
+1.944577664	0.857237824	Italy	2	High stability and effective governance
+1.930918173	0.851134046	Italy	2	High stability and effective governance
+2.049652839	0.761512222	Italy	2	High stability and effective governance
+2.002549765	0.849669621	Italy	2	High stability and effective governance
+2.043511144	0.849461425	Italy	2	High stability and effective governance
+2.100946616	0.805198221	Italy	2	High stability and effective governance
+2.324575965	0.717615758	Italy	2	High stability and effective governance
+0.643125779	0.612157357	Jamaica	0	Medium stability and governance
+0.405630365	0.712880376	Jamaica	0	Medium stability and governance
+0.367683176	0.688977461	Jamaica	0	Medium stability and governance
+0.242361117	0.748333184	Jamaica	0	Medium stability and governance
+0.216951863	0.675162094	Jamaica	0	Medium stability and governance
+0.417025412	0.573089588	Jamaica	0	Medium stability and governance
+0.363558327	0.621228694	Jamaica	0	Medium stability and governance
+0.427358334	0.629717063	Jamaica	0	Medium stability and governance
+0.415921209	0.635918269	Jamaica	0	Medium stability and governance
+0.504537535	0.609116818	Jamaica	0	Medium stability and governance
+0.733278111	0.529623409	Jamaica	0	Medium stability and governance
+0.760464005	0.514102312	Jamaica	0	Medium stability and governance
+0.894175063	0.594398756	Jamaica	0	Medium stability and governance
+0.904326876	0.597280471	Jamaica	0	Medium stability and governance
+0.890848377	0.614829501	Jamaica	0	Medium stability and governance
+0.867211309	0.647894329	Jamaica	0	Medium stability and governance
+1.04308591	0.512954525	Jamaica	0	Medium stability and governance
+0.865396159	0.595683471	Jamaica	0	Medium stability and governance
+3.335000744	-0.242781339	Japan	2	High stability and effective governance
+3.645455366	-0.340198577	Japan	2	High stability and effective governance
+3.611530024	-0.342945737	Japan	2	High stability and effective governance
+3.639436101	-0.312666322	Japan	2	High stability and effective governance
+3.684912875	-0.342031137	Japan	2	High stability and effective governance
+3.73823469	-0.339536907	Japan	2	High stability and effective governance
+3.587813072	-0.247563917	Japan	2	High stability and effective governance
+3.919162556	-0.203868107	Japan	2	High stability and effective governance
+4.031167969	-0.330404698	Japan	2	High stability and effective governance
+3.954727664	-0.31011413	Japan	2	High stability and effective governance
+3.970163024	-0.298616909	Japan	2	High stability and effective governance
+3.950863379	-0.268462862	Japan	2	High stability and effective governance
+3.930682518	-0.26142722	Japan	2	High stability and effective governance
+3.881045162	-0.281542026	Japan	2	High stability and effective governance
+3.945150357	-0.27081317	Japan	2	High stability and effective governance
+3.964013303	-0.205043207	Japan	2	High stability and effective governance
+4.102336664	-0.322815656	Japan	2	High stability and effective governance
+4.064944291	-0.227761553	Japan	2	High stability and effective governance
+0.351238792	-1.11491515	Jordan	0	Medium stability and governance
+-0.111865975	-0.922693753	Jordan	0	Medium stability and governance
+-0.197029811	-1.147190124	Jordan	0	Medium stability and governance
+-0.467401426	-1.258232914	Jordan	0	Medium stability and governance
+-0.588905671	-1.193498234	Jordan	0	Medium stability and governance
+-0.550018051	-1.199354257	Jordan	0	Medium stability and governance
+-0.538637722	-1.160476545	Jordan	0	Medium stability and governance
+-0.643184255	-1.162093176	Jordan	0	Medium stability and governance
+-0.526456275	-1.20611765	Jordan	0	Medium stability and governance
+-0.551273862	-1.207757918	Jordan	0	Medium stability and governance
+-0.490878648	-0.982978456	Jordan	0	Medium stability and governance
+-0.505098979	-0.973569334	Jordan	0	Medium stability and governance
+-0.504299602	-0.977406451	Jordan	0	Medium stability and governance
+-0.506511156	-0.95657502	Jordan	0	Medium stability and governance
+-0.503099288	-1.19669348	Jordan	0	Medium stability and governance
+-0.568563571	-1.214307388	Jordan	0	Medium stability and governance
+-0.502214446	-1.258535173	Jordan	0	Medium stability and governance
+-0.352091604	-1.325069885	Jordan	0	Medium stability and governance
+-1.727600561	-0.86040513	Kazakhstan	1	Low stability and weak governance
+-1.606343819	-0.900629623	Kazakhstan	1	Low stability and weak governance
+-1.472328552	-0.922050933	Kazakhstan	1	Low stability and weak governance
+-1.276540431	-1.020714326	Kazakhstan	1	Low stability and weak governance
+-1.433502686	-0.969939407	Kazakhstan	1	Low stability and weak governance
+-1.679049804	-0.805350223	Kazakhstan	1	Low stability and weak governance
+-1.820926374	-0.790449218	Kazakhstan	1	Low stability and weak governance
+-1.837710992	-0.820634233	Kazakhstan	1	Low stability and weak governance
+-1.304750047	-1.095193818	Kazakhstan	1	Low stability and weak governance
+-1.271811103	-1.073606289	Kazakhstan	1	Low stability and weak governance
+-1.338558623	-1.298141843	Kazakhstan	1	Low stability and weak governance
+-1.182136175	-1.384889795	Kazakhstan	0	Medium stability and governance
+-1.052421042	-1.439522415	Kazakhstan	0	Medium stability and governance
+-0.960258826	-1.522005639	Kazakhstan	0	Medium stability and governance
+-0.952023878	-1.482202784	Kazakhstan	0	Medium stability and governance
+-0.958815347	-1.447282357	Kazakhstan	0	Medium stability and governance
+-0.949610649	-1.417563573	Kazakhstan	0	Medium stability and governance
+-0.859424601	-1.411490263	Kazakhstan	0	Medium stability and governance
+-1.597425289	1.000129164	Kenya	1	Low stability and weak governance
+-1.862039771	0.813208853	Kenya	1	Low stability and weak governance
+-2.001657787	0.875361086	Kenya	1	Low stability and weak governance
+-2.222338157	0.734521734	Kenya	1	Low stability and weak governance
+-1.861375304	0.837019987	Kenya	1	Low stability and weak governance
+-1.91961984	0.82654636	Kenya	1	Low stability and weak governance
+-2.067021104	0.668332562	Kenya	1	Low stability and weak governance
+-1.913382119	0.63156377	Kenya	1	Low stability and weak governance
+-1.737471342	0.578479721	Kenya	1	Low stability and weak governance
+-1.786981438	0.610348533	Kenya	1	Low stability and weak governance
+-1.770391713	0.622769054	Kenya	1	Low stability and weak governance
+-1.668021994	0.51129796	Kenya	1	Low stability and weak governance
+-1.754839893	0.428555377	Kenya	1	Low stability and weak governance
+-1.646929745	0.412557476	Kenya	1	Low stability and weak governance
+-1.693586049	0.397438404	Kenya	1	Low stability and weak governance
+-1.53097438	0.299977855	Kenya	1	Low stability and weak governance
+-1.354172967	0.368044061	Kenya	0	Medium stability and governance
+-1.336443927	0.376947231	Kenya	0	Medium stability and governance
+0.225961767	-0.850044069	Kuwait	0	Medium stability and governance
+0.61736867	-0.980761323	Kuwait	0	Medium stability and governance
+0.516240549	-0.926054634	Kuwait	0	Medium stability and governance
+0.49326636	-0.881044138	Kuwait	0	Medium stability and governance
+0.448922889	-1.104593449	Kuwait	0	Medium stability and governance
+0.236923424	-0.999274666	Kuwait	0	Medium stability and governance
+-0.153828991	-1.067062371	Kuwait	0	Medium stability and governance
+-0.197250596	-1.05914132	Kuwait	0	Medium stability and governance
+-0.396021726	-0.954125753	Kuwait	0	Medium stability and governance
+-0.518878552	-0.894811048	Kuwait	0	Medium stability and governance
+-0.472482663	-0.875863294	Kuwait	0	Medium stability and governance
+-0.458211367	-0.861794085	Kuwait	0	Medium stability and governance
+-0.24126097	-0.973167491	Kuwait	0	Medium stability and governance
+-0.075242286	-1.108222879	Kuwait	0	Medium stability and governance
+0.055557728	-1.160376207	Kuwait	0	Medium stability and governance
+0.019247541	-1.186908409	Kuwait	0	Medium stability and governance
+0.215779534	-1.29283626	Kuwait	0	Medium stability and governance
+0.361318219	-1.287189673	Kuwait	0	Medium stability and governance
+2.260643443	0.558726575	Latvia	2	High stability and effective governance
+2.013461609	0.479579105	Latvia	2	High stability and effective governance
+1.920405073	0.502545235	Latvia	2	High stability and effective governance
+2.012181231	0.493421032	Latvia	2	High stability and effective governance
+1.992364938	0.228574396	Latvia	2	High stability and effective governance
+1.930239844	0.224957199	Latvia	2	High stability and effective governance
+2.100827642	0.162479082	Latvia	2	High stability and effective governance
+2.262808799	0.070898921	Latvia	2	High stability and effective governance
+2.398054679	0.0647279	Latvia	2	High stability and effective governance
+2.343764354	0.073272104	Latvia	2	High stability and effective governance
+2.466713976	0.236263273	Latvia	2	High stability and effective governance
+2.395050185	0.029907834	Latvia	2	High stability and effective governance
+2.375577594	0.038975848	Latvia	2	High stability and effective governance
+2.638426978	0.161242478	Latvia	2	High stability and effective governance
+2.649486659	0.172548786	Latvia	2	High stability and effective governance
+2.744193467	0.1393701	Latvia	2	High stability and effective governance
+2.617407003	0.249987517	Latvia	2	High stability and effective governance
+2.717614442	0.236557197	Latvia	2	High stability and effective governance
+-1.817346303	0.249399749	Lebanon	1	Low stability and weak governance
+-2.123478153	0.330051251	Lebanon	1	Low stability and weak governance
+-2.119196957	0.359633665	Lebanon	1	Low stability and weak governance
+-1.806726287	0.492026075	Lebanon	1	Low stability and weak governance
+-1.671115318	0.439432196	Lebanon	1	Low stability and weak governance
+-1.747238306	0.202822993	Lebanon	1	Low stability and weak governance
+-1.811838942	0.248544674	Lebanon	1	Low stability and weak governance
+-1.87306064	0.279258165	Lebanon	1	Low stability and weak governance
+-1.989705625	0.309945206	Lebanon	1	Low stability and weak governance
+-2.084854522	0.322800304	Lebanon	1	Low stability and weak governance
+-2.179650192	0.331182581	Lebanon	1	Low stability and weak governance
+-2.256212842	0.113974886	Lebanon	1	Low stability and weak governance
+-2.263885125	0.401719176	Lebanon	1	Low stability and weak governance
+-2.375406287	0.466612955	Lebanon	1	Low stability and weak governance
+-2.625873214	0.574266245	Lebanon	1	Low stability and weak governance
+-2.849785129	0.625947579	Lebanon	1	Low stability and weak governance
+-2.963045048	0.661873768	Lebanon	1	Low stability and weak governance
+-3.07532989	0.729281847	Lebanon	1	Low stability and weak governance
+-0.604418829	0.814931536	Lesotho	0	Medium stability and governance
+-0.652892734	0.727918203	Lesotho	0	Medium stability and governance
+-0.533167921	0.598840129	Lesotho	0	Medium stability and governance
+-0.346440138	0.247193142	Lesotho	0	Medium stability and governance
+-0.324426585	0.219589222	Lesotho	0	Medium stability and governance
+-0.318418316	0.229121552	Lesotho	0	Medium stability and governance
+-0.189120809	0.522917581	Lesotho	0	Medium stability and governance
+-0.024097568	0.481163604	Lesotho	0	Medium stability and governance
+-0.354612414	0.70900341	Lesotho	0	Medium stability and governance
+-0.594392729	0.595434245	Lesotho	0	Medium stability and governance
+-0.695708081	0.562328192	Lesotho	0	Medium stability and governance
+-0.720539016	0.589570177	Lesotho	0	Medium stability and governance
+-0.805021677	0.636770876	Lesotho	0	Medium stability and governance
+-0.925389227	0.68044137	Lesotho	0	Medium stability and governance
+-0.917533285	0.681660794	Lesotho	0	Medium stability and governance
+-0.974949269	0.701444245	Lesotho	0	Medium stability and governance
+-0.838859469	0.912638463	Lesotho	0	Medium stability and governance
+-0.902816459	0.947184538	Lesotho	0	Medium stability and governance
+-2.468421078	1.121931704	Liberia	1	Low stability and weak governance
+-2.151381825	0.987468661	Liberia	1	Low stability and weak governance
+-2.422639806	1.105425021	Liberia	1	Low stability and weak governance
+-2.196929748	0.995669925	Liberia	1	Low stability and weak governance
+-1.937154597	0.827240515	Liberia	1	Low stability and weak governance
+-2.004313325	0.824171658	Liberia	1	Low stability and weak governance
+-1.949161054	0.753894046	Liberia	1	Low stability and weak governance
+-2.068908919	0.786091709	Liberia	1	Low stability and weak governance
+-2.035962524	0.862133183	Liberia	1	Low stability and weak governance
+-2.148746281	0.950154691	Liberia	1	Low stability and weak governance
+-2.005651279	0.95560785	Liberia	1	Low stability and weak governance
+-1.798033728	1.178915825	Liberia	1	Low stability and weak governance
+-1.8278708	1.147591982	Liberia	1	Low stability and weak governance
+-1.99589136	0.990823954	Liberia	1	Low stability and weak governance
+-2.023367346	1.006552379	Liberia	1	Low stability and weak governance
+-1.918539333	0.997142955	Liberia	1	Low stability and weak governance
+-1.884828438	0.995574153	Liberia	1	Low stability and weak governance
+-1.716121782	1.163490519	Liberia	1	Low stability and weak governance
+-2.822371727	-1.602743049	Libya	1	Low stability and weak governance
+-2.540832399	-1.692688815	Libya	1	Low stability and weak governance
+-2.406137341	-1.766680708	Libya	1	Low stability and weak governance
+-2.525245455	-1.681284971	Libya	1	Low stability and weak governance
+-2.916706602	-1.489618796	Libya	1	Low stability and weak governance
+-3.242290394	-0.825590473	Libya	1	Low stability and weak governance
+-3.157064809	0.521883216	Libya	1	Low stability and weak governance
+-3.488112713	0.644924986	Libya	1	Low stability and weak governance
+-4.15845362	0.209717695	Libya	1	Low stability and weak governance
+-4.46982549	0.176387659	Libya	1	Low stability and weak governance
+-4.75268546	0.057018817	Libya	1	Low stability and weak governance
+-4.663164545	-0.005614173	Libya	1	Low stability and weak governance
+-4.717815833	-0.045565193	Libya	1	Low stability and weak governance
+-4.770737566	0.028902281	Libya	1	Low stability and weak governance
+-4.824436951	0.153364703	Libya	1	Low stability and weak governance
+-4.719032887	0.04187757	Libya	1	Low stability and weak governance
+-4.678764815	0.066011775	Libya	1	Low stability and weak governance
+-4.598650582	0.018829364	Libya	1	Low stability and weak governance
+2.374503831	0.528516102	Lithuania	2	High stability and effective governance
+2.338503569	0.579189567	Lithuania	2	High stability and effective governance
+2.283088353	0.591916284	Lithuania	2	High stability and effective governance
+2.339123357	0.581797921	Lithuania	2	High stability and effective governance
+2.472160527	0.51075583	Lithuania	2	High stability and effective governance
+2.424217471	0.501202392	Lithuania	2	High stability and effective governance
+2.680018489	0.423937943	Lithuania	2	High stability and effective governance
+2.784483659	0.37620184	Lithuania	2	High stability and effective governance
+2.867707241	0.339619144	Lithuania	2	High stability and effective governance
+2.996417635	0.274550298	Lithuania	2	High stability and effective governance
+2.98405253	0.29110828	Lithuania	2	High stability and effective governance
+2.870776784	0.359933671	Lithuania	2	High stability and effective governance
+2.846102691	0.302656223	Lithuania	2	High stability and effective governance
+3.021150916	0.279114445	Lithuania	2	High stability and effective governance
+3.024842119	0.049757636	Lithuania	2	High stability and effective governance
+3.095585721	0.047701382	Lithuania	2	High stability and effective governance
+3.020753935	0.12699399	Lithuania	2	High stability and effective governance
+3.169511461	0.047258949	Lithuania	2	High stability and effective governance
+4.452744314	-0.114566055	Luxembourg	2	High stability and effective governance
+4.703888991	-0.236826999	Luxembourg	2	High stability and effective governance
+4.70558863	-0.240928884	Luxembourg	2	High stability and effective governance
+4.769008788	-0.277608781	Luxembourg	2	High stability and effective governance
+4.818147356	-0.286818643	Luxembourg	2	High stability and effective governance
+4.958857863	-0.326725436	Luxembourg	2	High stability and effective governance
+4.891588331	-0.258104504	Luxembourg	2	High stability and effective governance
+4.913060882	-0.276299487	Luxembourg	2	High stability and effective governance
+4.84059047	-0.310815374	Luxembourg	2	High stability and effective governance
+4.869688203	-0.32910689	Luxembourg	2	High stability and effective governance
+4.787430461	-0.315213024	Luxembourg	2	High stability and effective governance
+4.744138112	-0.271744851	Luxembourg	2	High stability and effective governance
+4.914672408	-0.347019639	Luxembourg	2	High stability and effective governance
+4.864453794	-0.363311252	Luxembourg	2	High stability and effective governance
+4.959957468	-0.3971435	Luxembourg	2	High stability and effective governance
+4.846894063	-0.318050108	Luxembourg	2	High stability and effective governance
+4.871815643	-0.308757222	Luxembourg	2	High stability and effective governance
+5.005607447	-0.312970646	Luxembourg	2	High stability and effective governance
+0.277636648	-0.154316646	Madagascar	0	Medium stability and governance
+-0.554942237	0.16588353	Madagascar	0	Medium stability and governance
+-0.987109493	0.272137015	Madagascar	0	Medium stability and governance
+-1.840576987	-0.328583864	Madagascar	1	Low stability and weak governance
+-2.118784392	-0.179994356	Madagascar	1	Low stability and weak governance
+-2.07659998	-0.220392361	Madagascar	1	Low stability and weak governance
+-2.110807146	-0.19733312	Madagascar	1	Low stability and weak governance
+-2.106228218	0.113045341	Madagascar	1	Low stability and weak governance
+-1.941530037	0.455843414	Madagascar	1	Low stability and weak governance
+-1.813521282	0.690139062	Madagascar	1	Low stability and weak governance
+-1.751773719	0.704024938	Madagascar	1	Low stability and weak governance
+-1.816804271	0.721181112	Madagascar	1	Low stability and weak governance
+-1.895189425	0.780812294	Madagascar	1	Low stability and weak governance
+-1.714654305	0.969705186	Madagascar	1	Low stability and weak governance
+-1.751171475	0.738622919	Madagascar	1	Low stability and weak governance
+-1.750217626	0.71961549	Madagascar	1	Low stability and weak governance
+-1.747832767	0.703226375	Madagascar	1	Low stability and weak governance
+-1.88772632	0.766346403	Madagascar	1	Low stability and weak governance
+-1.107162041	0.370635373	Malawi	0	Medium stability and governance
+-1.063620105	0.098785876	Malawi	0	Medium stability and governance
+-1.096406107	0.123971832	Malawi	0	Medium stability and governance
+-0.895679402	0.309194448	Malawi	0	Medium stability and governance
+-0.978825934	0.306408587	Malawi	0	Medium stability and governance
+-1.038898717	0.288577334	Malawi	0	Medium stability and governance
+-1.007621008	0.312691558	Malawi	0	Medium stability and governance
+-1.088842587	0.39029667	Malawi	0	Medium stability and governance
+-1.145967287	0.505076244	Malawi	0	Medium stability and governance
+-1.099401874	0.754149859	Malawi	0	Medium stability and governance
+-1.223767558	0.803714764	Malawi	0	Medium stability and governance
+-1.184027728	0.783064509	Malawi	0	Medium stability and governance
+-1.265634808	0.815304415	Malawi	0	Medium stability and governance
+-1.182416731	0.744779758	Malawi	0	Medium stability and governance
+-0.945778584	0.679514799	Malawi	0	Medium stability and governance
+-0.866684088	0.682536882	Malawi	0	Medium stability and governance
+-0.977048961	0.761327044	Malawi	0	Medium stability and governance
+-0.991130282	0.777579705	Malawi	0	Medium stability and governance
+0.861953575	-1.159190511	Malaysia	0	Medium stability and governance
+0.771640869	-1.09484409	Malaysia	0	Medium stability and governance
+0.422747818	-0.937141596	Malaysia	0	Medium stability and governance
+0.345515607	-0.840522321	Malaysia	0	Medium stability and governance
+0.656595599	-0.991292115	Malaysia	0	Medium stability and governance
+0.593288287	-0.936941002	Malaysia	0	Medium stability and governance
+0.61538609	-0.86020859	Malaysia	0	Medium stability and governance
+0.769653783	-0.937898043	Malaysia	0	Medium stability and governance
+1.075680265	-1.110254283	Malaysia	0	Medium stability and governance
+0.82048728	-0.980685866	Malaysia	0	Medium stability and governance
+0.64897535	-0.89621833	Malaysia	0	Medium stability and governance
+0.635006827	-0.868493477	Malaysia	0	Medium stability and governance
+1.05036455	-0.905475809	Malaysia	0	Medium stability and governance
+0.996352433	-0.824555773	Malaysia	0	Medium stability and governance
+1.088589557	-0.940888177	Malaysia	0	Medium stability and governance
+1.016709961	-0.895009093	Malaysia	0	Medium stability and governance
+1.158422831	-0.86082744	Malaysia	0	Medium stability and governance
+1.195855755	-0.804766565	Malaysia	0	Medium stability and governance
+-0.138095169	-1.534270706	Maldives	0	Medium stability and governance
+-1.028198758	-1.048874623	Maldives	0	Medium stability and governance
+-0.921413753	0.018421776	Maldives	0	Medium stability and governance
+-0.770305414	0.362618191	Maldives	0	Medium stability and governance
+-0.671387675	0.273485658	Maldives	0	Medium stability and governance
+-0.820644343	0.293527946	Maldives	0	Medium stability and governance
+-1.157936482	-0.205696763	Maldives	0	Medium stability and governance
+-1.000705585	-0.062614856	Maldives	0	Medium stability and governance
+-0.497784994	-0.280768372	Maldives	0	Medium stability and governance
+-0.80394818	-0.444170429	Maldives	0	Medium stability and governance
+-0.933245193	-0.756066996	Maldives	0	Medium stability and governance
+-1.219952404	-0.581078119	Maldives	0	Medium stability and governance
+-1.303072356	-0.479921581	Maldives	0	Medium stability and governance
+-0.746498739	-0.448013822	Maldives	0	Medium stability and governance
+-0.465291864	-0.490595137	Maldives	0	Medium stability and governance
+-0.165441923	-0.624668574	Maldives	0	Medium stability and governance
+-0.24127636	-0.539446795	Maldives	0	Medium stability and governance
+-0.318828754	-0.44035963	Maldives	0	Medium stability and governance
+-0.050803362	0.924765917	Mali	0	Medium stability and governance
+-0.332791697	0.787470657	Mali	0	Medium stability and governance
+-0.46389552	0.84284137	Mali	0	Medium stability and governance
+-0.730795071	0.89359181	Mali	0	Medium stability and governance
+-0.825113529	1.007145049	Mali	0	Medium stability and governance
+-0.97802027	1.107757406	Mali	0	Medium stability and governance
+-2.445213345	-0.121626495	Mali	1	Low stability and weak governance
+-2.228636207	0.548394228	Mali	1	Low stability and weak governance
+-2.243617681	0.649778778	Mali	1	Low stability and weak governance
+-2.271891763	0.619713977	Mali	1	Low stability and weak governance
+-2.310491	0.649604471	Mali	1	Low stability and weak governance
+-2.355995974	0.657258196	Mali	1	Low stability and weak governance
+-2.378159557	0.810608097	Mali	1	Low stability and weak governance
+-2.65234479	0.42803203	Mali	1	Low stability and weak governance
+-2.991232825	0.148290523	Mali	1	Low stability and weak governance
+-3.043601218	0.157154746	Mali	1	Low stability and weak governance
+-3.086044242	0.076394803	Mali	1	Low stability and weak governance
+-3.149526611	0.035700363	Mali	1	Low stability and weak governance
+2.655873422	0.513280144	Malta	2	High stability and effective governance
+3.537168649	0.142783152	Malta	2	High stability and effective governance
+3.580600576	0.127298411	Malta	2	High stability and effective governance
+3.428761775	0.166607772	Malta	2	High stability and effective governance
+3.455722733	0.167847057	Malta	2	High stability and effective governance
+3.355906199	0.199999543	Malta	2	High stability and effective governance
+3.488718134	0.135496001	Malta	2	High stability and effective governance
+3.500555316	0.119227436	Malta	2	High stability and effective governance
+3.270388694	0.260909997	Malta	2	High stability and effective governance
+3.208102983	0.33329763	Malta	2	High stability and effective governance
+3.146884956	0.362226747	Malta	2	High stability and effective governance
+3.318721059	0.260570436	Malta	2	High stability and effective governance
+3.160383291	0.088894791	Malta	2	High stability and effective governance
+2.776529601	0.267619878	Malta	2	High stability and effective governance
+2.99609611	0.189450642	Malta	2	High stability and effective governance
+2.657963289	0.303282949	Malta	2	High stability and effective governance
+2.588682358	0.342812245	Malta	2	High stability and effective governance
+2.226153003	0.227140486	Malta	2	High stability and effective governance
+-1.660324158	-0.214056867	Mauritania	1	Low stability and weak governance
+-1.610883851	0.124387341	Mauritania	1	Low stability and weak governance
+-2.435162832	-0.309384553	Mauritania	1	Low stability and weak governance
+-2.345076338	-0.357988809	Mauritania	1	Low stability and weak governance
+-2.557573758	-0.234693294	Mauritania	1	Low stability and weak governance
+-2.545845574	-0.252601324	Mauritania	1	Low stability and weak governance
+-2.504739975	-0.243472329	Mauritania	1	Low stability and weak governance
+-2.621422501	-0.220797871	Mauritania	1	Low stability and weak governance
+-2.499025698	-0.258228283	Mauritania	1	Low stability and weak governance
+-2.609451266	-0.198223122	Mauritania	1	Low stability and weak governance
+-2.373502705	-0.246699204	Mauritania	1	Low stability and weak governance
+-2.261208893	-0.331673764	Mauritania	1	Low stability and weak governance
+-2.336493746	-0.341798916	Mauritania	1	Low stability and weak governance
+-2.05900908	-0.222683199	Mauritania	1	Low stability and weak governance
+-2.189758285	-0.16116935	Mauritania	1	Low stability and weak governance
+-2.207509928	-0.135177058	Mauritania	1	Low stability and weak governance
+-2.101684907	-0.163092397	Mauritania	1	Low stability and weak governance
+-2.055547213	-0.11943143	Mauritania	1	Low stability and weak governance
+1.611912161	0.639185407	Mauritius	0	Medium stability and governance
+2.356403324	0.285861836	Mauritius	2	High stability and effective governance
+2.552507085	0.182835785	Mauritius	2	High stability and effective governance
+2.425114599	0.220941166	Mauritius	2	High stability and effective governance
+2.451172074	0.179692432	Mauritius	2	High stability and effective governance
+2.560209585	0.120546418	Mauritius	2	High stability and effective governance
+2.669342568	0.141413815	Mauritius	2	High stability and effective governance
+2.597212926	0.221349786	Mauritius	2	High stability and effective governance
+2.691644874	0.191779098	Mauritius	2	High stability and effective governance
+2.678665713	0.107901068	Mauritius	2	High stability and effective governance
+2.55278838	0.17954606	Mauritius	2	High stability and effective governance
+2.523264556	0.173129243	Mauritius	2	High stability and effective governance
+2.484806163	0.161890605	Mauritius	2	High stability and effective governance
+2.473295392	0.183358635	Mauritius	2	High stability and effective governance
+2.722155224	0.021608999	Mauritius	2	High stability and effective governance
+2.642017567	0.037598697	Mauritius	2	High stability and effective governance
+2.498803029	-0.145867919	Mauritius	2	High stability and effective governance
+2.434315189	-0.116588457	Mauritius	2	High stability and effective governance
+-0.14300082	0.656396587	Mexico	0	Medium stability and governance
+-0.172806639	0.649291042	Mexico	0	Medium stability and governance
+-0.245570442	0.689983135	Mexico	0	Medium stability and governance
+-0.25626305	0.729671641	Mexico	0	Medium stability and governance
+-0.420621978	0.583673599	Mexico	0	Medium stability and governance
+-0.347393493	0.49547796	Mexico	0	Medium stability and governance
+-0.220494629	0.443869524	Mexico	0	Medium stability and governance
+-0.275831419	0.476265899	Mexico	0	Medium stability and governance
+-0.457162531	0.516059068	Mexico	0	Medium stability and governance
+-0.548591974	0.500133612	Mexico	0	Medium stability and governance
+-0.556878046	0.505837503	Mexico	0	Medium stability and governance
+-0.766399763	0.60788386	Mexico	0	Medium stability and governance
+-0.788344871	0.688432489	Mexico	0	Medium stability and governance
+-0.84419386	0.729372056	Mexico	0	Medium stability and governance
+-0.87659537	0.496015364	Mexico	0	Medium stability and governance
+-1.110919274	0.562065264	Mexico	0	Medium stability and governance
+-1.091424437	0.523849099	Mexico	0	Medium stability and governance
+-1.017497094	0.4803716	Mexico	0	Medium stability and governance
+-1.208388595	0.452229732	Moldova	0	Medium stability and governance
+-1.12400897	0.386460022	Moldova	0	Medium stability and governance
+-1.218050191	0.212161275	Moldova	0	Medium stability and governance
+-1.160149714	0.410117015	Moldova	0	Medium stability and governance
+-0.888591669	0.675693961	Moldova	0	Medium stability and governance
+-0.631672323	0.613697824	Moldova	0	Medium stability and governance
+-0.569263142	0.51378622	Moldova	0	Medium stability and governance
+-0.568034943	0.486972152	Moldova	0	Medium stability and governance
+-0.533360884	0.552377925	Moldova	0	Medium stability and governance
+-0.793801706	0.720656641	Moldova	0	Medium stability and governance
+-0.883316438	0.731681174	Moldova	0	Medium stability and governance
+-0.712101868	0.630692193	Moldova	0	Medium stability and governance
+-0.757942638	0.362771353	Moldova	0	Medium stability and governance
+-0.662127259	0.312665664	Moldova	0	Medium stability and governance
+-0.54529196	0.517031362	Moldova	0	Medium stability and governance
+-0.332305206	0.464224888	Moldova	0	Medium stability and governance
+-0.286056686	0.487782651	Moldova	0	Medium stability and governance
+-0.161073492	0.511563593	Moldova	0	Medium stability and governance
+0.054532226	0.823720947	Mongolia	0	Medium stability and governance
+0.196117502	0.815840609	Mongolia	0	Medium stability and governance
+0.105024043	0.827998368	Mongolia	0	Medium stability and governance
+-0.024100512	0.800354497	Mongolia	0	Medium stability and governance
+0.012305125	0.751188302	Mongolia	0	Medium stability and governance
+0.06448875	0.698463314	Mongolia	0	Medium stability and governance
+0.124414446	0.899279445	Mongolia	0	Medium stability and governance
+0.172390862	0.887332381	Mongolia	0	Medium stability and governance
+0.403181464	0.856226421	Mongolia	0	Medium stability and governance
+0.319366159	0.920101031	Mongolia	0	Medium stability and governance
+0.671679206	0.78084941	Mongolia	0	Medium stability and governance
+0.55396919	0.821643438	Mongolia	0	Medium stability and governance
+0.668508315	0.73573076	Mongolia	0	Medium stability and governance
+0.641415983	0.812513029	Mongolia	0	Medium stability and governance
+0.59576614	0.883212457	Mongolia	0	Medium stability and governance
+0.459747217	0.902756705	Mongolia	0	Medium stability and governance
+0.436611211	0.876777408	Mongolia	0	Medium stability and governance
+0.503443446	0.839175676	Mongolia	0	Medium stability and governance
+0.177829905	0.279625622	Montenegro	0	Medium stability and governance
+0.135526263	0.364427464	Montenegro	0	Medium stability and governance
+0.581184543	0.077976518	Montenegro	0	Medium stability and governance
+0.726394962	0.231578685	Montenegro	0	Medium stability and governance
+0.640284157	0.230911703	Montenegro	0	Medium stability and governance
+0.649403587	0.244946823	Montenegro	0	Medium stability and governance
+0.739345805	0.201093712	Montenegro	0	Medium stability and governance
+0.69433017	0.209597072	Montenegro	0	Medium stability and governance
+0.739589806	0.163239383	Montenegro	0	Medium stability and governance
+0.57327446	0.037668514	Montenegro	0	Medium stability and governance
+0.555402144	-0.007823752	Montenegro	0	Medium stability and governance
+0.496712479	0.071568822	Montenegro	0	Medium stability and governance
+0.497066732	-0.188610287	Montenegro	0	Medium stability and governance
+0.489384255	-0.213663531	Montenegro	0	Medium stability and governance
+0.447073242	0.063969619	Montenegro	0	Medium stability and governance
+0.460683399	0.141944823	Montenegro	0	Medium stability and governance
+0.478701462	0.230738593	Montenegro	0	Medium stability and governance
+0.66431445	0.14106476	Montenegro	0	Medium stability and governance
+-1.09610345	-0.408042597	Morocco	0	Medium stability and governance
+-1.102245054	-0.3989823	Morocco	0	Medium stability and governance
+-1.165506685	-0.393839646	Morocco	0	Medium stability and governance
+-0.993106587	-0.4819067	Morocco	0	Medium stability and governance
+-0.892429945	-0.512746709	Morocco	0	Medium stability and governance
+-1.027051034	-0.441349235	Morocco	0	Medium stability and governance
+-0.965982934	-0.393819998	Morocco	0	Medium stability and governance
+-0.947239279	-0.47678731	Morocco	0	Medium stability and governance
+-0.799622494	-0.542910429	Morocco	0	Medium stability and governance
+-0.787132274	-0.515062176	Morocco	0	Medium stability and governance
+-0.807344522	-0.507140434	Morocco	0	Medium stability and governance
+-0.988950898	-0.659305133	Morocco	0	Medium stability and governance
+-1.041266423	-0.636336872	Morocco	0	Medium stability and governance
+-0.941893536	-0.643482624	Morocco	0	Medium stability and governance
+-0.854827877	-0.653091554	Morocco	0	Medium stability and governance
+-0.924820664	-0.622905404	Morocco	0	Medium stability and governance
+-0.797269371	-0.658588203	Morocco	0	Medium stability and governance
+-0.748973821	-0.631892874	Morocco	0	Medium stability and governance
+-0.785516253	0.321474115	Mozambique	0	Medium stability and governance
+-0.706262639	0.489063482	Mozambique	0	Medium stability and governance
+-0.642770271	0.473347784	Mozambique	0	Medium stability and governance
+-0.670737552	0.232600511	Mozambique	0	Medium stability and governance
+-0.74592065	0.271215073	Mozambique	0	Medium stability and governance
+-0.901757954	0.29522151	Mozambique	0	Medium stability and governance
+-0.893335461	0.297260896	Mozambique	0	Medium stability and governance
+-1.221298442	0.44128076	Mozambique	0	Medium stability and governance
+-1.372112449	0.535273239	Mozambique	0	Medium stability and governance
+-1.68722012	0.463329964	Mozambique	1	Low stability and weak governance
+-2.204223271	0.63118128	Mozambique	1	Low stability and weak governance
+-2.127120953	0.579115112	Mozambique	1	Low stability and weak governance
+-2.129770092	0.52619839	Mozambique	1	Low stability and weak governance
+-2.210628989	0.301663292	Mozambique	1	Low stability and weak governance
+-2.396485722	0.356856271	Mozambique	1	Low stability and weak governance
+-2.438451451	0.364538099	Mozambique	1	Low stability and weak governance
+-2.378837895	0.351850307	Mozambique	1	Low stability and weak governance
+-2.361829979	0.337836102	Mozambique	1	Low stability and weak governance
+-4.577113787	-0.899651402	Myanmar	1	Low stability and weak governance
+-4.687678184	-0.830924323	Myanmar	1	Low stability and weak governance
+-4.733904845	-0.79781801	Myanmar	1	Low stability and weak governance
+-4.865743769	-0.693125718	Myanmar	1	Low stability and weak governance
+-4.809712111	-0.640471417	Myanmar	1	Low stability and weak governance
+-4.435296623	-0.44510318	Myanmar	1	Low stability and weak governance
+-3.722863415	-0.214804423	Myanmar	1	Low stability and weak governance
+-3.53724552	-0.154588286	Myanmar	1	Low stability and weak governance
+-3.376589349	-0.383574779	Myanmar	1	Low stability and weak governance
+-3.237457382	-0.128518204	Myanmar	1	Low stability and weak governance
+-2.438554573	-0.011722486	Myanmar	1	Low stability and weak governance
+-2.57487612	0.020645635	Myanmar	1	Low stability and weak governance
+-2.670006684	0.056590122	Myanmar	1	Low stability and weak governance
+-2.796970874	-0.052952417	Myanmar	1	Low stability and weak governance
+-2.833457828	-0.090577938	Myanmar	1	Low stability and weak governance
+-3.982674497	-0.462973398	Myanmar	1	Low stability and weak governance
+-4.333772953	-0.389074358	Myanmar	1	Low stability and weak governance
+-4.505813867	-0.334854021	Myanmar	1	Low stability and weak governance
+0.59917713	0.620850489	Namibia	0	Medium stability and governance
+1.101034287	0.349756911	Namibia	0	Medium stability and governance
+1.53351756	0.12382702	Namibia	0	Medium stability and governance
+1.074816763	0.323486856	Namibia	0	Medium stability and governance
+1.022936707	0.333268492	Namibia	0	Medium stability and governance
+0.999718458	0.332984706	Namibia	0	Medium stability and governance
+1.180438744	0.262955206	Namibia	0	Medium stability and governance
+1.204331151	0.267486878	Namibia	0	Medium stability and governance
+1.003381813	0.490173486	Namibia	0	Medium stability and governance
+1.096147123	0.450974626	Namibia	0	Medium stability and governance
+1.113387153	0.447889003	Namibia	0	Medium stability and governance
+0.978380421	0.484557801	Namibia	0	Medium stability and governance
+0.950531432	0.23327799	Namibia	0	Medium stability and governance
+1.037511167	0.448856433	Namibia	0	Medium stability and governance
+1.025390623	0.49717036	Namibia	0	Medium stability and governance
+1.011602397	0.515755705	Namibia	0	Medium stability and governance
+1.090197878	0.47544829	Namibia	0	Medium stability and governance
+1.071231315	0.505873417	Namibia	0	Medium stability and governance
+-2.533251924	0.229028624	Nepal	1	Low stability and weak governance
+-2.357796127	0.368206698	Nepal	1	Low stability and weak governance
+-2.330527943	0.641780544	Nepal	1	Low stability and weak governance
+-2.367572345	0.693731701	Nepal	1	Low stability and weak governance
+-2.3771355	0.683341689	Nepal	1	Low stability and weak governance
+-2.295017681	0.650307803	Nepal	1	Low stability and weak governance
+-2.344992853	0.528603345	Nepal	1	Low stability and weak governance
+-2.139693971	0.487643472	Nepal	1	Low stability and weak governance
+-1.765944599	0.570233441	Nepal	1	Low stability and weak governance
+-1.971885498	0.718215978	Nepal	1	Low stability and weak governance
+-1.887525104	0.79026628	Nepal	1	Low stability and weak governance
+-1.704636581	0.733724067	Nepal	1	Low stability and weak governance
+-1.527952247	0.692166528	Nepal	1	Low stability and weak governance
+-1.515444986	0.686732965	Nepal	1	Low stability and weak governance
+-1.269252981	0.591463716	Nepal	0	Medium stability and governance
+-1.187728657	0.552057713	Nepal	0	Medium stability and governance
+-1.142791948	0.560305304	Nepal	0	Medium stability and governance
+-1.083960158	0.535396897	Nepal	0	Medium stability and governance
+3.916631442	0.084248295	Netherlands	2	High stability and effective governance
+4.699342353	-0.251795483	Netherlands	2	High stability and effective governance
+4.685558824	-0.271961112	Netherlands	2	High stability and effective governance
+4.732186682	-0.323676798	Netherlands	2	High stability and effective governance
+4.726462675	-0.330055022	Netherlands	2	High stability and effective governance
+4.859748442	-0.335024545	Netherlands	2	High stability and effective governance
+4.911569714	-0.318702594	Netherlands	2	High stability and effective governance
+4.863168731	-0.312837983	Netherlands	2	High stability and effective governance
+4.840784191	-0.314530624	Netherlands	2	High stability and effective governance
+4.757531913	-0.246003321	Netherlands	2	High stability and effective governance
+4.773647974	-0.255525127	Netherlands	2	High stability and effective governance
+4.725557959	-0.250017971	Netherlands	2	High stability and effective governance
+4.754564828	-0.268906843	Netherlands	2	High stability and effective governance
+4.674401761	-0.248229226	Netherlands	2	High stability and effective governance
+4.733437567	-0.268460279	Netherlands	2	High stability and effective governance
+4.692665563	-0.268033957	Netherlands	2	High stability and effective governance
+4.569517399	-0.141362308	Netherlands	2	High stability and effective governance
+4.586981833	-0.134099161	Netherlands	2	High stability and effective governance
+4.927529672	-0.394801925	New Zealand	2	High stability and effective governance
+4.973159333	-0.437332004	New Zealand	2	High stability and effective governance
+4.994156594	-0.440839531	New Zealand	2	High stability and effective governance
+5.064493315	-0.493396935	New Zealand	2	High stability and effective governance
+5.043445563	-0.459461334	New Zealand	2	High stability and effective governance
+5.13303437	-0.44166203	New Zealand	2	High stability and effective governance
+5.062578441	-0.38308518	New Zealand	2	High stability and effective governance
+5.081025053	-0.398119812	New Zealand	2	High stability and effective governance
+5.162855232	-0.500852885	New Zealand	2	High stability and effective governance
+5.136348638	-0.45881594	New Zealand	2	High stability and effective governance
+5.15605493	-0.469016718	New Zealand	2	High stability and effective governance
+5.111283437	-0.414995293	New Zealand	2	High stability and effective governance
+5.044969813	-0.340889505	New Zealand	2	High stability and effective governance
+4.987848167	-0.373195915	New Zealand	2	High stability and effective governance
+5.001669166	-0.324099304	New Zealand	2	High stability and effective governance
+4.876542318	-0.254210319	New Zealand	2	High stability and effective governance
+4.925035975	-0.231459035	New Zealand	2	High stability and effective governance
+4.999360875	-0.247969464	New Zealand	2	High stability and effective governance
+-0.241418838	0.313541439	Nicaragua	0	Medium stability and governance
+-1.219843105	0.721875996	Nicaragua	0	Medium stability and governance
+-1.404631005	0.484050277	Nicaragua	0	Medium stability and governance
+-1.557040845	0.289471797	Nicaragua	1	Low stability and weak governance
+-1.616436274	0.308860506	Nicaragua	1	Low stability and weak governance
+-1.580607913	-0.017946193	Nicaragua	1	Low stability and weak governance
+-1.573471315	0.018896005	Nicaragua	1	Low stability and weak governance
+-1.266248035	0.349879679	Nicaragua	0	Medium stability and governance
+-1.270335625	0.395130698	Nicaragua	0	Medium stability and governance
+-1.341027098	0.419570428	Nicaragua	0	Medium stability and governance
+-1.558470099	-0.12823243	Nicaragua	1	Low stability and weak governance
+-1.569716012	-0.170442487	Nicaragua	1	Low stability and weak governance
+-2.447916666	-0.406067984	Nicaragua	1	Low stability and weak governance
+-2.534460722	-0.363611638	Nicaragua	1	Low stability and weak governance
+-2.371143092	-0.452497974	Nicaragua	1	Low stability and weak governance
+-2.71158568	-0.637257179	Nicaragua	1	Low stability and weak governance
+-2.855971178	-0.826866694	Nicaragua	1	Low stability and weak governance
+-2.810914031	-0.87116321	Nicaragua	1	Low stability and weak governance
+-1.212049177	0.628042997	Niger	0	Medium stability and governance
+-1.564900471	0.537905442	Niger	1	Low stability and weak governance
+-1.674424382	0.541433122	Niger	1	Low stability and weak governance
+-2.052843422	0.068823836	Niger	1	Low stability and weak governance
+-2.084977077	0.136038699	Niger	1	Low stability and weak governance
+-1.626917753	0.642956005	Niger	1	Low stability and weak governance
+-1.834542264	0.729784057	Niger	1	Low stability and weak governance
+-1.93267975	0.769265918	Niger	1	Low stability and weak governance
+-1.8968605	0.820509725	Niger	1	Low stability and weak governance
+-1.84328891	0.779130545	Niger	1	Low stability and weak governance
+-2.028293631	0.493532853	Niger	1	Low stability and weak governance
+-2.114897129	0.542404242	Niger	1	Low stability and weak governance
+-2.132347657	0.433446302	Niger	1	Low stability and weak governance
+-2.135307954	0.444781413	Niger	1	Low stability and weak governance
+-2.191271203	0.53110945	Niger	1	Low stability and weak governance
+-2.011106253	0.509209893	Niger	1	Low stability and weak governance
+-1.973773705	0.504367787	Niger	1	Low stability and weak governance
+-2.418032661	0.05071942	Niger	1	Low stability and weak governance
+-2.850980041	0.816993893	Nigeria	1	Low stability and weak governance
+-2.89534498	0.741938624	Nigeria	1	Low stability and weak governance
+-2.829116317	0.499159506	Nigeria	1	Low stability and weak governance
+-3.113323723	0.586227373	Nigeria	1	Low stability and weak governance
+-2.994716399	0.797964729	Nigeria	1	Low stability and weak governance
+-2.985008033	0.847761249	Nigeria	1	Low stability and weak governance
+-2.949302292	0.826988232	Nigeria	1	Low stability and weak governance
+-2.935876592	0.832314461	Nigeria	1	Low stability and weak governance
+-3.092772576	0.777606728	Nigeria	1	Low stability and weak governance
+-2.903900961	0.807547191	Nigeria	1	Low stability and weak governance
+-2.867075029	1.047914261	Nigeria	1	Low stability and weak governance
+-2.792733456	0.997403218	Nigeria	1	Low stability and weak governance
+-2.817752289	0.957589642	Nigeria	1	Low stability and weak governance
+-2.959486991	0.808689686	Nigeria	1	Low stability and weak governance
+-2.948984016	0.680750447	Nigeria	1	Low stability and weak governance
+-2.872215811	0.593309098	Nigeria	1	Low stability and weak governance
+-2.95444288	0.64823066	Nigeria	1	Low stability and weak governance
+-2.748978114	0.579133427	Nigeria	1	Low stability and weak governance
+3.716918787	0.105477059	Norway	2	High stability and effective governance
+4.948269755	-0.410675825	Norway	2	High stability and effective governance
+4.887036901	-0.357367648	Norway	2	High stability and effective governance
+4.902551298	-0.363762995	Norway	2	High stability and effective governance
+4.983393283	-0.374690543	Norway	2	High stability and effective governance
+5.001251472	-0.354585142	Norway	2	High stability and effective governance
+5.057960442	-0.328620854	Norway	2	High stability and effective governance
+5.154120608	-0.35719474	Norway	2	High stability and effective governance
+5.064029771	-0.345682903	Norway	2	High stability and effective governance
+5.066832472	-0.345907532	Norway	2	High stability and effective governance
+5.086444744	-0.362748149	Norway	2	High stability and effective governance
+5.195898134	-0.395774304	Norway	2	High stability and effective governance
+5.105567884	-0.32130677	Norway	2	High stability and effective governance
+5.097230795	-0.355569619	Norway	2	High stability and effective governance
+5.149736815	-0.346821891	Norway	2	High stability and effective governance
+5.067675741	-0.290879421	Norway	2	High stability and effective governance
+4.955485887	-0.213916047	Norway	2	High stability and effective governance
+5.004285157	-0.224843596	Norway	2	High stability and effective governance
+1.022711224	-2.238593396	Oman	0	Medium stability and governance
+0.68849698	-2.03782024	Oman	0	Medium stability and governance
+0.839325967	-2.130686579	Oman	0	Medium stability and governance
+0.653783178	-2.038757839	Oman	0	Medium stability and governance
+0.512447111	-1.946857099	Oman	0	Medium stability and governance
+0.251075426	-1.81242659	Oman	0	Medium stability and governance
+0.335197371	-1.81991753	Oman	0	Medium stability and governance
+0.287055145	-1.802859377	Oman	0	Medium stability and governance
+0.509338566	-1.957114293	Oman	0	Medium stability and governance
+0.349221118	-1.844126275	Oman	0	Medium stability and governance
+0.437333715	-1.890947712	Oman	0	Medium stability and governance
+0.325036341	-1.852046824	Oman	0	Medium stability and governance
+0.207582767	-1.794564498	Oman	0	Medium stability and governance
+0.368096477	-1.964852661	Oman	0	Medium stability and governance
+0.310145357	-1.885394753	Oman	0	Medium stability and governance
+-0.013800552	-1.742283031	Oman	0	Medium stability and governance
+0.202385356	-1.82435696	Oman	0	Medium stability and governance
+0.482342499	-1.889367347	Oman	0	Medium stability and governance
+-2.741996482	-0.127473512	Pakistan	1	Low stability and weak governance
+-2.792150471	-0.142414622	Pakistan	1	Low stability and weak governance
+-2.816224404	0.407118344	Pakistan	1	Low stability and weak governance
+-2.861767178	0.434048709	Pakistan	1	Low stability and weak governance
+-2.781428766	0.43298346	Pakistan	1	Low stability and weak governance
+-2.885600006	0.464765266	Pakistan	1	Low stability and weak governance
+-2.875303743	0.438079096	Pakistan	1	Low stability and weak governance
+-2.829691425	0.442980631	Pakistan	1	Low stability and weak governance
+-2.69749575	0.429565548	Pakistan	1	Low stability and weak governance
+-2.671817657	0.411381405	Pakistan	1	Low stability and weak governance
+-2.685798242	0.438447814	Pakistan	1	Low stability and weak governance
+-2.531590719	0.361445224	Pakistan	1	Low stability and weak governance
+-2.63457865	0.104422676	Pakistan	1	Low stability and weak governance
+-2.676214994	0.098710365	Pakistan	1	Low stability and weak governance
+-2.571406119	0.012879146	Pakistan	1	Low stability and weak governance
+-2.417633334	-0.051498481	Pakistan	1	Low stability and weak governance
+-2.578429564	0.022646772	Pakistan	1	Low stability and weak governance
+-2.77997861	0.060959969	Pakistan	1	Low stability and weak governance
+0.246037726	1.197457304	Panama	0	Medium stability and governance
+0.7675221	0.984506743	Panama	0	Medium stability and governance
+0.943958367	0.896423354	Panama	0	Medium stability and governance
+0.822251064	0.931962125	Panama	0	Medium stability and governance
+0.776578659	0.926189182	Panama	0	Medium stability and governance
+0.895301728	0.868598535	Panama	0	Medium stability and governance
+0.778423567	0.866836956	Panama	0	Medium stability and governance
+0.681493956	0.659569362	Panama	0	Medium stability and governance
+0.91346414	0.598258021	Panama	0	Medium stability and governance
+0.947995348	0.61822833	Panama	0	Medium stability and governance
+0.943093709	0.61543777	Panama	0	Medium stability and governance
+0.884336503	0.654046263	Panama	0	Medium stability and governance
+0.870092934	0.912189295	Panama	0	Medium stability and governance
+0.942499891	0.902443977	Panama	0	Medium stability and governance
+0.832718916	0.70917369	Panama	0	Medium stability and governance
+0.740992948	0.717008762	Panama	0	Medium stability and governance
+0.589841469	0.814010466	Panama	0	Medium stability and governance
+0.520056948	0.860133768	Panama	0	Medium stability and governance
+-1.146346111	0.891412247	Papua New Guinea	0	Medium stability and governance
+-1.528479321	1.083601246	Papua New Guinea	1	Low stability and weak governance
+-1.662720303	0.886845822	Papua New Guinea	1	Low stability and weak governance
+-1.730607722	0.929170523	Papua New Guinea	1	Low stability and weak governance
+-1.665111189	0.86929426	Papua New Guinea	1	Low stability and weak governance
+-1.583222713	0.821819731	Papua New Guinea	1	Low stability and weak governance
+-1.503219695	0.758839792	Papua New Guinea	1	Low stability and weak governance
+-1.410322466	0.963887122	Papua New Guinea	0	Medium stability and governance
+-1.248460405	0.67910923	Papua New Guinea	0	Medium stability and governance
+-1.381591804	0.75636589	Papua New Guinea	0	Medium stability and governance
+-1.342832087	1.050223549	Papua New Guinea	0	Medium stability and governance
+-1.437847272	1.068041193	Papua New Guinea	0	Medium stability and governance
+-1.419294448	0.79810976	Papua New Guinea	0	Medium stability and governance
+-1.520595463	0.892567992	Papua New Guinea	1	Low stability and weak governance
+-1.396724213	0.750082799	Papua New Guinea	0	Medium stability and governance
+-1.503901769	0.803826453	Papua New Guinea	1	Low stability and weak governance
+-1.368344218	0.703378969	Papua New Guinea	0	Medium stability and governance
+-1.210417384	0.63986368	Papua New Guinea	0	Medium stability and governance
+-1.666401601	0.947235164	Paraguay	1	Low stability and weak governance
+-1.563674031	0.966383758	Paraguay	1	Low stability and weak governance
+-1.401174092	0.917442955	Paraguay	0	Medium stability and governance
+-1.354433982	0.883334127	Paraguay	0	Medium stability and governance
+-1.263191721	0.877365	Paraguay	0	Medium stability and governance
+-1.16423108	0.816979813	Paraguay	0	Medium stability and governance
+-1.273474207	0.875015946	Paraguay	0	Medium stability and governance
+-1.275210702	0.888523388	Paraguay	0	Medium stability and governance
+-0.962305881	0.719977672	Paraguay	0	Medium stability and governance
+-0.940753448	0.736040253	Paraguay	0	Medium stability and governance
+-0.789086932	0.628971222	Paraguay	0	Medium stability and governance
+-0.819793605	0.663226995	Paraguay	0	Medium stability and governance
+-0.667356996	0.648726972	Paraguay	0	Medium stability and governance
+-0.595652781	0.624056909	Paraguay	0	Medium stability and governance
+-0.488570187	0.562609062	Paraguay	0	Medium stability and governance
+-0.710029728	0.651973045	Paraguay	0	Medium stability and governance
+-0.675451555	0.639629476	Paraguay	0	Medium stability and governance
+-0.513309841	0.580705401	Paraguay	0	Medium stability and governance
+-0.783764218	0.971600467	Peru	0	Medium stability and governance
+-0.638189043	0.918578448	Peru	0	Medium stability and governance
+-0.547156862	0.894743645	Peru	0	Medium stability and governance
+-0.681975453	0.935857061	Peru	0	Medium stability and governance
+-0.449124732	0.811279591	Peru	0	Medium stability and governance
+-0.289196938	0.740454843	Peru	0	Medium stability and governance
+-0.387305268	0.792067671	Peru	0	Medium stability and governance
+-0.357543024	0.751128822	Peru	0	Medium stability and governance
+-0.303921562	0.824957509	Peru	0	Medium stability and governance
+-0.242626189	0.817242657	Peru	0	Medium stability and governance
+-0.040442175	0.724300126	Peru	0	Medium stability and governance
+-0.11635365	0.76339761	Peru	0	Medium stability and governance
+-0.178432137	0.77106294	Peru	0	Medium stability and governance
+0.060136554	0.67190672	Peru	0	Medium stability and governance
+-0.127319617	0.549773	Peru	0	Medium stability and governance
+-0.379586078	0.810707946	Peru	0	Medium stability and governance
+-0.579949586	0.637153296	Peru	0	Medium stability and governance
+-0.606220408	0.663126202	Peru	0	Medium stability and governance
+-1.224269581	0.823944872	Philippines	0	Medium stability and governance
+-1.229831037	0.567168182	Philippines	0	Medium stability and governance
+-1.344858554	0.618107451	Philippines	0	Medium stability and governance
+-1.354618472	0.70102636	Philippines	0	Medium stability and governance
+-1.277271425	0.856208443	Philippines	0	Medium stability and governance
+-1.026048644	0.728178347	Philippines	0	Medium stability and governance
+-0.811893183	0.619069984	Philippines	0	Medium stability and governance
+-0.670758683	0.55927986	Philippines	0	Medium stability and governance
+-0.438103206	0.541627779	Philippines	0	Medium stability and governance
+-0.608523815	0.634895692	Philippines	0	Medium stability and governance
+-0.824755325	0.791769047	Philippines	0	Medium stability and governance
+-0.815094906	0.72767989	Philippines	0	Medium stability and governance
+-0.868818514	0.691453932	Philippines	0	Medium stability and governance
+-0.848737541	0.45682261	Philippines	0	Medium stability and governance
+-0.789067267	0.336381265	Philippines	0	Medium stability and governance
+-0.94731593	0.383594332	Philippines	0	Medium stability and governance
+-0.697919635	0.323118374	Philippines	0	Medium stability and governance
+-0.500240981	0.253426152	Philippines	0	Medium stability and governance
+1.858040987	0.765258326	Poland	2	High stability and effective governance
+2.06639454	0.70997939	Poland	2	High stability and effective governance
+2.358675235	0.599319763	Poland	2	High stability and effective governance
+2.464568147	0.605569482	Poland	2	High stability and effective governance
+2.619702855	0.523864286	Poland	2	High stability and effective governance
+2.68162732	0.4801522	Poland	2	High stability and effective governance
+2.804421026	0.441656532	Poland	2	High stability and effective governance
+2.828020177	0.391923592	Poland	2	High stability and effective governance
+2.869832158	0.442877421	Poland	2	High stability and effective governance
+2.815982008	0.415494101	Poland	2	High stability and effective governance
+2.405243729	0.26659903	Poland	2	High stability and effective governance
+2.214218138	0.314918552	Poland	2	High stability and effective governance
+2.073698847	0.128427889	Poland	2	High stability and effective governance
+2.106431677	0.095270814	Poland	2	High stability and effective governance
+2.013434367	0.104037898	Poland	2	High stability and effective governance
+1.872834279	0.154038628	Poland	2	High stability and effective governance
+1.845683447	0.17847523	Poland	2	High stability and effective governance
+1.945939864	0.128797453	Poland	2	High stability and effective governance
+3.104187283	0.386087783	Portugal	2	High stability and effective governance
+3.28037297	0.312636139	Portugal	2	High stability and effective governance
+3.429597927	0.196173875	Portugal	2	High stability and effective governance
+3.329465137	0.178777413	Portugal	2	High stability and effective governance
+3.10478465	0.26946036	Portugal	2	High stability and effective governance
+3.063176655	0.28667805	Portugal	2	High stability and effective governance
+3.093116001	0.227287971	Portugal	2	High stability and effective governance
+3.169203629	0.204888575	Portugal	2	High stability and effective governance
+3.129130734	0.265814534	Portugal	2	High stability and effective governance
+3.349032301	0.175843712	Portugal	2	High stability and effective governance
+3.308394061	0.210188666	Portugal	2	High stability and effective governance
+3.468576434	0.151600749	Portugal	2	High stability and effective governance
+3.436547018	0.162893995	Portugal	2	High stability and effective governance
+3.43904297	0.192335333	Portugal	2	High stability and effective governance
+3.37358557	0.27600554	Portugal	2	High stability and effective governance
+3.236096872	0.329468374	Portugal	2	High stability and effective governance
+3.207624332	0.355696463	Portugal	2	High stability and effective governance
+3.150661648	0.356656748	Portugal	2	High stability and effective governance
+1.324915935	-2.270809963	Qatar	0	Medium stability and governance
+0.716297623	-2.094687699	Qatar	0	Medium stability and governance
+1.098435947	-2.282970589	Qatar	0	Medium stability and governance
+1.596475896	-2.584847565	Qatar	0	Medium stability and governance
+1.433821809	-2.49714979	Qatar	0	Medium stability and governance
+1.198117803	-2.408513387	Qatar	0	Medium stability and governance
+1.554540948	-2.457180803	Qatar	0	Medium stability and governance
+1.590134935	-2.534045953	Qatar	0	Medium stability and governance
+1.254514459	-2.47614421	Qatar	0	Medium stability and governance
+1.229458821	-2.451906075	Qatar	0	Medium stability and governance
+1.146265965	-2.39114613	Qatar	0	Medium stability and governance
+0.877905751	-2.282074254	Qatar	0	Medium stability and governance
+0.839939507	-2.265486989	Qatar	0	Medium stability and governance
+0.961426692	-2.406460785	Qatar	0	Medium stability and governance
+1.192929164	-2.500828086	Qatar	0	Medium stability and governance
+1.352176815	-2.518375838	Qatar	0	Medium stability and governance
+1.512029673	-2.512268745	Qatar	0	Medium stability and governance
+1.610529416	-2.492482288	Qatar	0	Medium stability and governance
+0.967288686	0.625395842	Romania	0	Medium stability and governance
+0.640669369	0.771445622	Romania	0	Medium stability and governance
+0.73649713	0.74171831	Romania	0	Medium stability and governance
+0.751280285	0.699601077	Romania	0	Medium stability and governance
+0.843077389	0.619500127	Romania	0	Medium stability and governance
+0.777824445	0.620442073	Romania	0	Medium stability and governance
+0.664961202	0.627603293	Romania	0	Medium stability and governance
+0.934940472	0.46209186	Romania	0	Medium stability and governance
+1.004057617	0.503700723	Romania	0	Medium stability and governance
+1.060465281	0.522413002	Romania	0	Medium stability and governance
+1.159277057	0.525928449	Romania	0	Medium stability and governance
+1.080290907	0.604941333	Romania	0	Medium stability and governance
+0.974097238	0.62194019	Romania	0	Medium stability and governance
+1.193016015	0.492301067	Romania	0	Medium stability and governance
+1.191889234	0.536780796	Romania	0	Medium stability and governance
+1.200827807	0.514621043	Romania	0	Medium stability and governance
+1.262412557	0.455961495	Romania	0	Medium stability and governance
+1.155955994	0.463695828	Romania	0	Medium stability and governance
+-2.028744166	-0.816595146	Rwanda	1	Low stability and weak governance
+-1.701465121	-1.028619148	Rwanda	1	Low stability and weak governance
+-1.549432346	-1.148215363	Rwanda	1	Low stability and weak governance
+-1.584416627	-1.089643543	Rwanda	1	Low stability and weak governance
+-1.265867738	-1.299865915	Rwanda	1	Low stability and weak governance
+-1.183425344	-1.354025527	Rwanda	0	Medium stability and governance
+-1.161828989	-1.542651071	Rwanda	0	Medium stability and governance
+-0.883354746	-1.419412982	Rwanda	0	Medium stability and governance
+-0.817610157	-1.581910265	Rwanda	0	Medium stability and governance
+-0.829180397	-1.587144838	Rwanda	0	Medium stability and governance
+-0.839786028	-1.621368569	Rwanda	0	Medium stability and governance
+-0.677827366	-1.688700828	Rwanda	0	Medium stability and governance
+-0.734879872	-1.666089418	Rwanda	0	Medium stability and governance
+-0.743414492	-1.62966302	Rwanda	0	Medium stability and governance
+-0.636480679	-1.692304488	Rwanda	0	Medium stability and governance
+-0.514057842	-1.646614076	Rwanda	0	Medium stability and governance
+-0.456478798	-1.648760177	Rwanda	0	Medium stability and governance
+-0.308712985	-1.720004419	Rwanda	0	Medium stability and governance
+1.378521874	0.31027403	Samoa	0	Medium stability and governance
+1.388425757	0.302424072	Samoa	0	Medium stability and governance
+1.276179868	0.32167798	Samoa	0	Medium stability and governance
+1.086942604	0.419335789	Samoa	0	Medium stability and governance
+0.960445797	0.41144974	Samoa	0	Medium stability and governance
+1.059030228	0.326315234	Samoa	0	Medium stability and governance
+1.044513903	0.294490416	Samoa	0	Medium stability and governance
+1.12411523	0.294900026	Samoa	0	Medium stability and governance
+1.557154659	0.220796303	Samoa	0	Medium stability and governance
+1.651306402	0.234747208	Samoa	0	Medium stability and governance
+1.708815968	0.227481432	Samoa	0	Medium stability and governance
+1.887079519	0.123068174	Samoa	2	High stability and effective governance
+1.844712508	0.154407161	Samoa	2	High stability and effective governance
+1.858495795	0.154377479	Samoa	2	High stability and effective governance
+1.888568413	0.12717756	Samoa	2	High stability and effective governance
+1.693250774	0.223301944	Samoa	0	Medium stability and governance
+1.733105099	0.395307124	Samoa	0	Medium stability and governance
+1.849511954	0.324445886	Samoa	2	High stability and effective governance
+-1.532064797	-1.871360103	Saudi Arabia	1	Low stability and weak governance
+-1.39642391	-1.884698872	Saudi Arabia	1	Low stability and weak governance
+-1.258017261	-1.97940581	Saudi Arabia	1	Low stability and weak governance
+-1.354768811	-1.991787338	Saudi Arabia	1	Low stability and weak governance
+-1.151133059	-2.08729723	Saudi Arabia	1	Low stability and weak governance
+-1.656193845	-2.098626962	Saudi Arabia	1	Low stability and weak governance
+-1.334319724	-2.264213166	Saudi Arabia	1	Low stability and weak governance
+-1.292695456	-2.299883919	Saudi Arabia	1	Low stability and weak governance
+-1.196663159	-2.381991123	Saudi Arabia	1	Low stability and weak governance
+-1.334450242	-2.263826251	Saudi Arabia	1	Low stability and weak governance
+-1.051253842	-2.336249962	Saudi Arabia	0	Medium stability and governance
+-1.161777266	-2.257843481	Saudi Arabia	1	Low stability and weak governance
+-1.141938108	-2.280934792	Saudi Arabia	1	Low stability and weak governance
+-1.142815678	-2.25176397	Saudi Arabia	1	Low stability and weak governance
+-1.01552227	-2.2346685	Saudi Arabia	0	Medium stability and governance
+-0.835026489	-2.347026893	Saudi Arabia	0	Medium stability and governance
+-0.534850462	-2.42129432	Saudi Arabia	0	Medium stability and governance
+-0.196783796	-2.562394994	Saudi Arabia	0	Medium stability and governance
+-0.262860998	0.62215438	Senegal	0	Medium stability and governance
+-0.483599369	0.564483703	Senegal	0	Medium stability and governance
+-0.490570812	0.299554163	Senegal	0	Medium stability and governance
+-0.726722242	0.404315798	Senegal	0	Medium stability and governance
+-0.889934771	0.506057761	Senegal	0	Medium stability and governance
+-0.764414068	0.46240208	Senegal	0	Medium stability and governance
+-0.363076395	0.628216358	Senegal	0	Medium stability and governance
+-0.196298491	0.802593842	Senegal	0	Medium stability and governance
+-0.09804198	0.895255196	Senegal	0	Medium stability and governance
+-0.130495407	0.914327149	Senegal	0	Medium stability and governance
+-0.158107656	1.000911193	Senegal	0	Medium stability and governance
+-0.08801634	0.918358135	Senegal	0	Medium stability and governance
+-0.150422855	0.660800399	Senegal	0	Medium stability and governance
+-0.057709315	0.383154465	Senegal	0	Medium stability and governance
+-0.141741096	0.421129899	Senegal	0	Medium stability and governance
+-0.144365931	0.380032443	Senegal	0	Medium stability and governance
+-0.078687406	0.33768297	Senegal	0	Medium stability and governance
+-0.061186583	0.286075341	Senegal	0	Medium stability and governance
+-0.501014567	0.827822549	Serbia	0	Medium stability and governance
+-0.455684271	0.887445867	Serbia	0	Medium stability and governance
+-0.421496508	0.852953407	Serbia	0	Medium stability and governance
+-0.150496176	0.977121699	Serbia	0	Medium stability and governance
+-0.183583786	0.959297575	Serbia	0	Medium stability and governance
+-0.03942952	0.888735438	Serbia	0	Medium stability and governance
+-0.111460065	0.86503786	Serbia	0	Medium stability and governance
+0.005217462	0.866811843	Serbia	0	Medium stability and governance
+0.376180087	0.622005418	Serbia	0	Medium stability and governance
+0.337857817	0.652142297	Serbia	0	Medium stability and governance
+0.134178665	0.514454608	Serbia	0	Medium stability and governance
+0.092069918	0.465298903	Serbia	0	Medium stability and governance
+0.033610123	0.191807268	Serbia	0	Medium stability and governance
+-0.136188768	0.046969216	Serbia	0	Medium stability and governance
+-0.177407974	0.017829011	Serbia	0	Medium stability and governance
+-0.16352407	-0.00661599	Serbia	0	Medium stability and governance
+-0.132760741	0.006844272	Serbia	0	Medium stability and governance
+-0.071517361	0.00845242	Serbia	0	Medium stability and governance
+0.984141755	-0.305182912	Seychelles	0	Medium stability and governance
+0.917030416	-0.316072675	Seychelles	0	Medium stability and governance
+1.024411299	-0.447140512	Seychelles	0	Medium stability and governance
+0.91476231	-0.342532995	Seychelles	0	Medium stability and governance
+1.000876488	-0.347007334	Seychelles	0	Medium stability and governance
+0.979731622	-0.408190226	Seychelles	0	Medium stability and governance
+0.948993198	-0.364842819	Seychelles	0	Medium stability and governance
+0.997641613	-0.403447491	Seychelles	0	Medium stability and governance
+0.754539131	-0.329159681	Seychelles	0	Medium stability and governance
+1.343320497	-0.538482607	Seychelles	0	Medium stability and governance
+1.284649516	-0.463165215	Seychelles	0	Medium stability and governance
+1.224002961	-0.38541509	Seychelles	0	Medium stability and governance
+1.326611874	-0.438937813	Seychelles	0	Medium stability and governance
+1.488611514	-0.445459772	Seychelles	0	Medium stability and governance
+1.74611628	-0.247861748	Seychelles	0	Medium stability and governance
+2.054258924	-0.107556275	Seychelles	2	High stability and effective governance
+2.206337658	-0.166499476	Seychelles	2	High stability and effective governance
+2.112707346	-0.151103294	Seychelles	2	High stability and effective governance
+-2.141509691	0.838930275	Sierra Leone	1	Low stability and weak governance
+-1.843730189	0.988059888	Sierra Leone	1	Low stability and weak governance
+-1.827113599	1.056825164	Sierra Leone	1	Low stability and weak governance
+-1.804343528	0.988598808	Sierra Leone	1	Low stability and weak governance
+-1.720187047	1.001156096	Sierra Leone	1	Low stability and weak governance
+-1.66720443	0.945332058	Sierra Leone	1	Low stability and weak governance
+-1.681482649	1.099530162	Sierra Leone	1	Low stability and weak governance
+-1.733665139	0.882685913	Sierra Leone	1	Low stability and weak governance
+-1.75599039	0.930585101	Sierra Leone	1	Low stability and weak governance
+-1.766573834	0.931674647	Sierra Leone	1	Low stability and weak governance
+-1.713867032	0.956418371	Sierra Leone	1	Low stability and weak governance
+-1.548751408	0.859259535	Sierra Leone	1	Low stability and weak governance
+-1.505343252	0.843570472	Sierra Leone	1	Low stability and weak governance
+-1.421773976	0.838595073	Sierra Leone	0	Medium stability and governance
+-1.387035093	0.845367695	Sierra Leone	0	Medium stability and governance
+-1.386442424	0.865725045	Sierra Leone	0	Medium stability and governance
+-1.468000144	0.848870718	Sierra Leone	0	Medium stability and governance
+-1.563744714	0.789425079	Sierra Leone	1	Low stability and weak governance
+2.895714486	-2.423330647	Singapore	2	High stability and effective governance
+3.736124279	-2.785596546	Singapore	2	High stability and effective governance
+3.786881797	-2.790161247	Singapore	2	High stability and effective governance
+3.697466173	-2.663764225	Singapore	2	High stability and effective governance
+3.69434644	-2.639716685	Singapore	2	High stability and effective governance
+3.771202861	-2.368743189	Singapore	2	High stability and effective governance
+3.915931581	-2.312697219	Singapore	2	High stability and effective governance
+3.880606906	-2.296316147	Singapore	2	High stability and effective governance
+3.98214102	-2.435043964	Singapore	2	High stability and effective governance
+3.9817885	-2.479370242	Singapore	2	High stability and effective governance
+3.964829007	-2.464160861	Singapore	2	High stability and effective governance
+3.96198813	-2.485432527	Singapore	2	High stability and effective governance
+4.05607069	-2.463171335	Singapore	2	High stability and effective governance
+4.064613738	-2.558425668	Singapore	2	High stability and effective governance
+4.12873986	-2.586879708	Singapore	2	High stability and effective governance
+4.143753137	-2.54303253	Singapore	2	High stability and effective governance
+4.108893129	-2.455070943	Singapore	2	High stability and effective governance
+4.181931214	-2.498181918	Singapore	2	High stability and effective governance
+3.299441373	0.152811945	Slovenia	2	High stability and effective governance
+3.11136301	0.235350741	Slovenia	2	High stability and effective governance
+3.219410824	0.135424839	Slovenia	2	High stability and effective governance
+3.265221448	0.144248718	Slovenia	2	High stability and effective governance
+3.062262678	0.249038758	Slovenia	2	High stability and effective governance
+3.097101452	0.231024484	Slovenia	2	High stability and effective governance
+3.023639018	0.225232361	Slovenia	2	High stability and effective governance
+2.978377581	0.26086601	Slovenia	2	High stability and effective governance
+3.000778592	0.215935384	Slovenia	2	High stability and effective governance
+2.966575043	0.257850603	Slovenia	2	High stability and effective governance
+3.070611728	0.205929884	Slovenia	2	High stability and effective governance
+3.017209867	0.226283055	Slovenia	2	High stability and effective governance
+3.090022821	0.170942658	Slovenia	2	High stability and effective governance
+3.252019714	0.131165695	Slovenia	2	High stability and effective governance
+3.171627502	0.135849524	Slovenia	2	High stability and effective governance
+2.990303202	-0.020749002	Slovenia	2	High stability and effective governance
+3.032349839	0.222790436	Slovenia	2	High stability and effective governance
+3.147370252	0.243778866	Slovenia	2	High stability and effective governance
+-0.342112354	0.223871788	Solomon Islands	0	Medium stability and governance
+-1.413500082	0.713884015	Solomon Islands	0	Medium stability and governance
+-1.372076237	0.648183675	Solomon Islands	0	Medium stability and governance
+-1.335764935	0.725325055	Solomon Islands	0	Medium stability and governance
+-1.257403711	0.624403874	Solomon Islands	0	Medium stability and governance
+-1.111502978	0.506118892	Solomon Islands	0	Medium stability and governance
+-1.128413333	0.494100234	Solomon Islands	0	Medium stability and governance
+-1.110223469	0.502736755	Solomon Islands	0	Medium stability and governance
+-0.948191814	0.818893238	Solomon Islands	0	Medium stability and governance
+-0.790823506	0.783984779	Solomon Islands	0	Medium stability and governance
+-0.59495296	1.040450386	Solomon Islands	0	Medium stability and governance
+-0.430677468	0.972150666	Solomon Islands	0	Medium stability and governance
+-0.351912134	1.064996381	Solomon Islands	0	Medium stability and governance
+-0.198113951	1.072537185	Solomon Islands	0	Medium stability and governance
+-0.017191021	0.927938403	Solomon Islands	0	Medium stability and governance
+-0.296676107	1.066385849	Solomon Islands	0	Medium stability and governance
+-0.343335802	0.811813049	Solomon Islands	0	Medium stability and governance
+-0.33403446	0.809825836	Solomon Islands	0	Medium stability and governance
+-5.62098172	0.027665682	Somalia	1	Low stability and weak governance
+-5.785043405	0.05685897	Somalia	1	Low stability and weak governance
+-6.030479217	0.148197353	Somalia	1	Low stability and weak governance
+-5.910713425	-0.037268185	Somalia	1	Low stability and weak governance
+-5.820732052	-0.041648987	Somalia	1	Low stability and weak governance
+-5.784145414	-0.067762005	Somalia	1	Low stability and weak governance
+-5.83393002	-0.173678982	Somalia	1	Low stability and weak governance
+-5.797003222	-0.173945115	Somalia	1	Low stability and weak governance
+-5.805851098	-0.086374171	Somalia	1	Low stability and weak governance
+-5.691627509	-0.083649439	Somalia	1	Low stability and weak governance
+-5.703769381	-0.01451553	Somalia	1	Low stability and weak governance
+-5.738432825	0.102557006	Somalia	1	Low stability and weak governance
+-5.663137774	0.027750747	Somalia	1	Low stability and weak governance
+-5.708634266	0.044492291	Somalia	1	Low stability and weak governance
+-5.514833187	-0.036474363	Somalia	1	Low stability and weak governance
+-5.448230228	0.011383489	Somalia	1	Low stability and weak governance
+-5.418574752	0.04222285	Somalia	1	Low stability and weak governance
+-5.362017999	0.011012045	Somalia	1	Low stability and weak governance
+0.546539865	0.808544594	South Africa	0	Medium stability and governance
+1.192138791	0.486995143	South Africa	0	Medium stability and governance
+1.077375691	0.545144319	South Africa	0	Medium stability and governance
+0.874233178	0.628039986	South Africa	0	Medium stability and governance
+0.851886652	0.672766819	South Africa	0	Medium stability and governance
+0.869165014	0.65638471	South Africa	0	Medium stability and governance
+0.742233694	0.726516456	South Africa	0	Medium stability and governance
+0.808827303	0.690884921	South Africa	0	Medium stability and governance
+0.704679757	0.774619608	South Africa	0	Medium stability and governance
+0.603607022	0.835051676	South Africa	0	Medium stability and governance
+0.601067213	0.816686918	South Africa	0	Medium stability and governance
+0.376077444	0.930957952	South Africa	0	Medium stability and governance
+0.304290769	0.952576315	South Africa	0	Medium stability and governance
+0.394774842	0.911394998	South Africa	0	Medium stability and governance
+0.380273834	0.963143057	South Africa	0	Medium stability and governance
+0.271617778	1.099161265	South Africa	0	Medium stability and governance
+0.080696999	1.158523035	South Africa	0	Medium stability and governance
+0.058442512	1.191408796	South Africa	0	Medium stability and governance
+2.382459824	0.638537267	Spain	2	High stability and effective governance
+2.891891326	0.451917032	Spain	2	High stability and effective governance
+2.873029453	0.511920063	Spain	2	High stability and effective governance
+2.741106731	0.571820385	Spain	2	High stability and effective governance
+2.804743166	0.485611747	Spain	2	High stability and effective governance
+2.904140253	0.387704895	Spain	2	High stability and effective governance
+2.823995111	0.396735548	Spain	2	High stability and effective governance
+2.731964328	0.387720829	Spain	2	High stability and effective governance
+2.66361143	0.417936422	Spain	2	High stability and effective governance
+2.673299089	0.462724802	Spain	2	High stability and effective governance
+2.80956393	0.414681248	Spain	2	High stability and effective governance
+2.723647786	0.454086821	Spain	2	High stability and effective governance
+2.686574791	0.472183898	Spain	2	High stability and effective governance
+2.765983813	0.442777246	Spain	2	High stability and effective governance
+2.623435802	0.470175727	Spain	2	High stability and effective governance
+2.621899354	0.458829734	Spain	2	High stability and effective governance
+2.540323901	0.519623757	Spain	2	High stability and effective governance
+2.493162746	0.68614746	Spain	2	High stability and effective governance
+-0.42460788	-0.193745901	Sri Lanka	0	Medium stability and governance
+-1.309978798	0.100231581	Sri Lanka	0	Medium stability and governance
+-1.501097724	0.173416212	Sri Lanka	1	Low stability and weak governance
+-1.433878555	0.134916267	Sri Lanka	1	Low stability and weak governance
+-1.379958036	-0.130741373	Sri Lanka	1	Low stability and weak governance
+-1.188511324	-0.258785254	Sri Lanka	0	Medium stability and governance
+-1.15829872	-0.296709812	Sri Lanka	0	Medium stability and governance
+-1.187846715	-0.307172691	Sri Lanka	0	Medium stability and governance
+-1.08041808	-0.650211825	Sri Lanka	0	Medium stability and governance
+-0.549464023	-0.199915605	Sri Lanka	0	Medium stability and governance
+-0.367725724	0.088039739	Sri Lanka	0	Medium stability and governance
+-0.523144674	0.201533541	Sri Lanka	0	Medium stability and governance
+-0.514600736	0.235339066	Sri Lanka	0	Medium stability and governance
+-0.56627216	-0.030294198	Sri Lanka	0	Medium stability and governance
+-0.480650805	-0.048525891	Sri Lanka	0	Medium stability and governance
+-0.651190645	0.020569342	Sri Lanka	0	Medium stability and governance
+-1.08130738	0.147491383	Sri Lanka	0	Medium stability and governance
+-1.048197135	0.098945116	Sri Lanka	0	Medium stability and governance
+-4.327621192	-0.609809638	Sudan	1	Low stability and weak governance
+-4.414453003	-0.504460704	Sudan	1	Low stability and weak governance
+-4.546690529	-0.424281762	Sudan	1	Low stability and weak governance
+-4.324534486	-0.571663312	Sudan	1	Low stability and weak governance
+-4.434538452	-0.539577761	Sudan	1	Low stability and weak governance
+-4.397094495	-0.583193057	Sudan	1	Low stability and weak governance
+-4.560707164	-0.499330751	Sudan	1	Low stability and weak governance
+-4.610187989	-0.4724377	Sudan	1	Low stability and weak governance
+-4.54967523	-0.4667817	Sudan	1	Low stability and weak governance
+-4.618765372	-0.474460949	Sudan	1	Low stability and weak governance
+-4.699127596	-0.463629501	Sudan	1	Low stability and weak governance
+-4.629434854	-0.516931808	Sudan	1	Low stability and weak governance
+-4.611832668	-0.533183863	Sudan	1	Low stability and weak governance
+-4.41509263	-0.27142477	Sudan	1	Low stability and weak governance
+-4.162903928	-0.228354919	Sudan	1	Low stability and weak governance
+-4.292218849	-0.163781096	Sudan	1	Low stability and weak governance
+-4.449326249	-0.117990585	Sudan	1	Low stability and weak governance
+-4.780509495	-0.004222406	Sudan	1	Low stability and weak governance
+-0.488102346	1.205202909	Suriname	0	Medium stability and governance
+0.028461063	0.999369641	Suriname	0	Medium stability and governance
+0.18734038	0.947685223	Suriname	0	Medium stability and governance
+0.085483092	0.879545633	Suriname	0	Medium stability and governance
+0.017856964	0.872099607	Suriname	0	Medium stability and governance
+0.098617605	0.83540337	Suriname	0	Medium stability and governance
+0.123520893	0.797955862	Suriname	0	Medium stability and governance
+0.184261604	0.777463169	Suriname	0	Medium stability and governance
+0.070506958	0.958176839	Suriname	0	Medium stability and governance
+-0.058232149	0.734053921	Suriname	0	Medium stability and governance
+-0.076529546	0.752730825	Suriname	0	Medium stability and governance
+-0.010248607	0.974310077	Suriname	0	Medium stability and governance
+-0.173210871	0.736339235	Suriname	0	Medium stability and governance
+-0.160010074	0.783689571	Suriname	0	Medium stability and governance
+0.041935818	0.922495951	Suriname	0	Medium stability and governance
+-0.014049553	0.929660538	Suriname	0	Medium stability and governance
+-0.10404043	0.989484627	Suriname	0	Medium stability and governance
+-0.04858663	0.957366549	Suriname	0	Medium stability and governance
+4.301989826	-0.166112016	Sweden	2	High stability and effective governance
+5.078143365	-0.502291475	Sweden	2	High stability and effective governance
+5.057518911	-0.471129475	Sweden	2	High stability and effective governance
+5.105071386	-0.483923335	Sweden	2	High stability and effective governance
+5.057060505	-0.454333321	Sweden	2	High stability and effective governance
+5.132749685	-0.417536408	Sweden	2	High stability and effective governance
+5.223576737	-0.408329828	Sweden	2	High stability and effective governance
+5.16784783	-0.389609703	Sweden	2	High stability and effective governance
+4.991818171	-0.327834823	Sweden	2	High stability and effective governance
+4.963267548	-0.344797895	Sweden	2	High stability and effective governance
+4.930215596	-0.325455082	Sweden	2	High stability and effective governance
+4.859957724	-0.290235354	Sweden	2	High stability and effective governance
+4.86707758	-0.279510771	Sweden	2	High stability and effective governance
+4.886446196	-0.309566896	Sweden	2	High stability and effective governance
+4.837917761	-0.337709236	Sweden	2	High stability and effective governance
+4.772903049	-0.302286621	Sweden	2	High stability and effective governance
+4.698530516	-0.236638004	Sweden	2	High stability and effective governance
+4.644035953	-0.16508507	Sweden	2	High stability and effective governance
+4.966003625	-0.443768426	Switzerland	2	High stability and effective governance
+5.037807866	-0.477106706	Switzerland	2	High stability and effective governance
+4.986530339	-0.446377084	Switzerland	2	High stability and effective governance
+4.909702191	-0.372788658	Switzerland	2	High stability and effective governance
+4.915135287	-0.340472773	Switzerland	2	High stability and effective governance
+4.865507364	-0.31472142	Switzerland	2	High stability and effective governance
+4.978337848	-0.335618919	Switzerland	2	High stability and effective governance
+4.953711824	-0.326656891	Switzerland	2	High stability and effective governance
+5.158667622	-0.492947369	Switzerland	2	High stability and effective governance
+5.046240503	-0.427358583	Switzerland	2	High stability and effective governance
+5.053751621	-0.426747488	Switzerland	2	High stability and effective governance
+5.075138073	-0.42413983	Switzerland	2	High stability and effective governance
+5.085335671	-0.407705466	Switzerland	2	High stability and effective governance
+4.957956365	-0.419672234	Switzerland	2	High stability and effective governance
+4.995874154	-0.42267665	Switzerland	2	High stability and effective governance
+4.959356796	-0.386092324	Switzerland	2	High stability and effective governance
+5.014372707	-0.371183735	Switzerland	2	High stability and effective governance
+5.094671556	-0.373451015	Switzerland	2	High stability and effective governance
+-3.16678319	-0.243781715	Tajikistan	1	Low stability and weak governance
+-2.997937408	-0.300955878	Tajikistan	1	Low stability and weak governance
+-3.070542294	-0.299560584	Tajikistan	1	Low stability and weak governance
+-3.166184529	-0.224106939	Tajikistan	1	Low stability and weak governance
+-3.102054339	-0.335490108	Tajikistan	1	Low stability and weak governance
+-3.047837767	-0.323404875	Tajikistan	1	Low stability and weak governance
+-3.201689497	-0.488878636	Tajikistan	1	Low stability and weak governance
+-3.294901866	-0.497506294	Tajikistan	1	Low stability and weak governance
+-2.836461086	-0.765245765	Tajikistan	1	Low stability and weak governance
+-3.080625984	-0.901788317	Tajikistan	1	Low stability and weak governance
+-3.221317921	-0.912603864	Tajikistan	1	Low stability and weak governance
+-3.334492303	-0.859683591	Tajikistan	1	Low stability and weak governance
+-3.316186148	-0.844276109	Tajikistan	1	Low stability and weak governance
+-3.15559257	-1.007719483	Tajikistan	1	Low stability and weak governance
+-2.981272482	-1.110250581	Tajikistan	1	Low stability and weak governance
+-2.988560842	-1.060106728	Tajikistan	1	Low stability and weak governance
+-3.190304136	-1.144760517	Tajikistan	1	Low stability and weak governance
+-3.05139522	-1.192588237	Tajikistan	1	Low stability and weak governance
+-0.832539939	0.258915911	Tanzania	0	Medium stability and governance
+-0.860173208	0.315202041	Tanzania	0	Medium stability and governance
+-0.898641916	0.318297724	Tanzania	0	Medium stability and governance
+-0.876150656	0.316667498	Tanzania	0	Medium stability and governance
+-0.841413509	0.548046257	Tanzania	0	Medium stability and governance
+-0.903740087	0.580570591	Tanzania	0	Medium stability and governance
+-0.941975282	0.589163875	Tanzania	0	Medium stability and governance
+-1.007799004	0.613551415	Tanzania	0	Medium stability and governance
+-1.108241392	0.677904564	Tanzania	0	Medium stability and governance
+-1.139942716	0.439272688	Tanzania	0	Medium stability and governance
+-1.103732658	0.400612182	Tanzania	0	Medium stability and governance
+-1.317880558	0.246016691	Tanzania	0	Medium stability and governance
+-1.511202198	0.054281826	Tanzania	1	Low stability and weak governance
+-1.600911346	-0.230549101	Tanzania	1	Low stability and weak governance
+-1.659917832	-0.367908593	Tanzania	1	Low stability and weak governance
+-1.535523948	-0.424587826	Tanzania	1	Low stability and weak governance
+-1.322635718	-0.498223715	Tanzania	1	Low stability and weak governance
+-1.140080258	-0.510003452	Tanzania	0	Medium stability and governance
+-0.960583133	-0.935781937	Thailand	0	Medium stability and governance
+-0.947166306	-0.595421461	Thailand	0	Medium stability and governance
+-0.965670967	-0.32205083	Thailand	0	Medium stability and governance
+-1.026817014	-0.245185375	Thailand	0	Medium stability and governance
+-1.110240592	-0.225531892	Thailand	0	Medium stability and governance
+-0.850864801	-0.076836212	Thailand	0	Medium stability and governance
+-0.797543397	-0.033095656	Thailand	0	Medium stability and governance
+-0.81198443	-0.107074676	Thailand	0	Medium stability and governance
+-1.119233269	-0.953231088	Thailand	0	Medium stability and governance
+-1.230837324	-0.959522688	Thailand	0	Medium stability and governance
+-1.2040562	-1.031079513	Thailand	0	Medium stability and governance
+-1.072333421	-1.125156058	Thailand	0	Medium stability and governance
+-1.176472826	-1.271787831	Thailand	0	Medium stability and governance
+-0.763864202	-0.917998827	Thailand	0	Medium stability and governance
+-0.902775867	-1.240850724	Thailand	0	Medium stability and governance
+-0.88421407	-1.235724537	Thailand	0	Medium stability and governance
+-0.666473678	-0.990678117	Thailand	0	Medium stability and governance
+-0.381138413	-0.791872162	Thailand	0	Medium stability and governance
+-1.983894605	1.052464853	Timor-Leste	1	Low stability and weak governance
+-2.39044488	1.283999678	Timor-Leste	1	Low stability and weak governance
+-2.038069798	1.168229056	Timor-Leste	1	Low stability and weak governance
+-2.137577841	1.154456649	Timor-Leste	1	Low stability and weak governance
+-2.108089057	1.114871325	Timor-Leste	1	Low stability and weak governance
+-2.011005435	1.126414452	Timor-Leste	1	Low stability and weak governance
+-1.872864466	1.02553447	Timor-Leste	1	Low stability and weak governance
+-1.909109459	1.048417738	Timor-Leste	1	Low stability and weak governance
+-1.579449762	1.134217117	Timor-Leste	1	Low stability and weak governance
+-1.589503176	1.15263411	Timor-Leste	1	Low stability and weak governance
+-1.485301418	1.114671218	Timor-Leste	0	Medium stability and governance
+-1.224599405	1.312426857	Timor-Leste	0	Medium stability and governance
+-1.095457375	1.215631042	Timor-Leste	0	Medium stability and governance
+-0.9612731	1.165647307	Timor-Leste	0	Medium stability and governance
+-0.892843901	1.135318811	Timor-Leste	0	Medium stability and governance
+-0.681199734	1.073922467	Timor-Leste	0	Medium stability and governance
+-0.527228321	1.06417577	Timor-Leste	0	Medium stability and governance
+-0.519733199	1.022388489	Timor-Leste	0	Medium stability and governance
+-2.802254869	-0.284921308	Togo	1	Low stability and weak governance
+-2.584760465	-0.089019077	Togo	1	Low stability and weak governance
+-2.43384389	-0.115691509	Togo	1	Low stability and weak governance
+-2.313007819	0.050893791	Togo	1	Low stability and weak governance
+-2.327584773	0.075142018	Togo	1	Low stability and weak governance
+-2.373721671	0.123337249	Togo	1	Low stability and weak governance
+-2.386051295	0.07653558	Togo	1	Low stability and weak governance
+-2.314459802	0.32014832	Togo	1	Low stability and weak governance
+-2.055695082	0.285565694	Togo	1	Low stability and weak governance
+-1.965929639	0.278979528	Togo	1	Low stability and weak governance
+-1.743437336	0.272827451	Togo	1	Low stability and weak governance
+-2.059181077	0.400711391	Togo	1	Low stability and weak governance
+-2.103045461	0.108123408	Togo	1	Low stability and weak governance
+-2.091961339	0.108398191	Togo	1	Low stability and weak governance
+-1.97501755	0.02211928	Togo	1	Low stability and weak governance
+-1.836196168	-0.089020814	Togo	1	Low stability and weak governance
+-1.755396668	-0.096044805	Togo	1	Low stability and weak governance
+-1.738100946	-0.119581882	Togo	1	Low stability and weak governance
+0.428044938	0.918892278	Trinidad and Tobago	0	Medium stability and governance
+0.739674634	0.713694025	Trinidad and Tobago	0	Medium stability and governance
+0.729742905	0.712023261	Trinidad and Tobago	0	Medium stability and governance
+0.757941223	0.694837671	Trinidad and Tobago	0	Medium stability and governance
+0.721877961	0.695051216	Trinidad and Tobago	0	Medium stability and governance
+0.873959384	0.603544777	Trinidad and Tobago	0	Medium stability and governance
+0.761484408	0.616905888	Trinidad and Tobago	0	Medium stability and governance
+0.700640641	0.642410533	Trinidad and Tobago	0	Medium stability and governance
+0.680413085	0.655844074	Trinidad and Tobago	0	Medium stability and governance
+0.687706119	0.653119862	Trinidad and Tobago	0	Medium stability and governance
+0.697490521	0.697328209	Trinidad and Tobago	0	Medium stability and governance
+0.711027772	0.698884966	Trinidad and Tobago	0	Medium stability and governance
+0.656058537	0.712129537	Trinidad and Tobago	0	Medium stability and governance
+0.619958829	0.771484129	Trinidad and Tobago	0	Medium stability and governance
+0.734382911	0.736003474	Trinidad and Tobago	0	Medium stability and governance
+0.753563608	0.754952044	Trinidad and Tobago	0	Medium stability and governance
+0.704876926	0.787906364	Trinidad and Tobago	0	Medium stability and governance
+0.63728143	0.795073633	Trinidad and Tobago	0	Medium stability and governance
+-0.223986971	-1.800584049	Tunisia	0	Medium stability and governance
+-0.527290871	-1.914863866	Tunisia	0	Medium stability and governance
+-0.615433201	-1.828397182	Tunisia	0	Medium stability and governance
+-0.629307083	-1.846677658	Tunisia	0	Medium stability and governance
+-0.847082404	-1.763955405	Tunisia	0	Medium stability and governance
+-0.37947851	-0.124682268	Tunisia	0	Medium stability and governance
+-0.509422755	0.102026297	Tunisia	0	Medium stability and governance
+-0.522812284	0.392939762	Tunisia	0	Medium stability and governance
+-0.224801206	0.880015088	Tunisia	0	Medium stability and governance
+-0.264946938	0.943546041	Tunisia	0	Medium stability and governance
+-0.361382381	1.05272371	Tunisia	0	Medium stability and governance
+-0.326161534	0.701858404	Tunisia	0	Medium stability and governance
+-0.258148095	0.669823215	Tunisia	0	Medium stability and governance
+-0.171345537	0.697915972	Tunisia	0	Medium stability and governance
+-0.027080995	0.650347513	Tunisia	0	Medium stability and governance
+-0.374744247	0.481904256	Tunisia	0	Medium stability and governance
+-0.618701387	0.120771066	Tunisia	0	Medium stability and governance
+-0.792467196	0.006185418	Tunisia	0	Medium stability and governance
+-4.067939515	-1.055820019	Turkmenistan	1	Low stability and weak governance
+-3.822445183	-1.248528475	Turkmenistan	1	Low stability and weak governance
+-3.626465354	-1.315270703	Turkmenistan	1	Low stability and weak governance
+-3.615763904	-1.296546063	Turkmenistan	1	Low stability and weak governance
+-3.725282292	-1.200079548	Turkmenistan	1	Low stability and weak governance
+-3.745362836	-1.277210405	Turkmenistan	1	Low stability and weak governance
+-3.481817198	-1.521240199	Turkmenistan	1	Low stability and weak governance
+-3.517629671	-1.474683603	Turkmenistan	1	Low stability and weak governance
+-3.3346307	-1.648993781	Turkmenistan	1	Low stability and weak governance
+-3.450566914	-1.560209626	Turkmenistan	1	Low stability and weak governance
+-3.653784956	-1.368785096	Turkmenistan	1	Low stability and weak governance
+-3.582923846	-1.37965145	Turkmenistan	1	Low stability and weak governance
+-3.538896668	-1.390712229	Turkmenistan	1	Low stability and weak governance
+-3.559993454	-1.405054128	Turkmenistan	1	Low stability and weak governance
+-3.500701213	-1.314399802	Turkmenistan	1	Low stability and weak governance
+-3.486293592	-1.231409932	Turkmenistan	1	Low stability and weak governance
+-3.490385028	-1.247926134	Turkmenistan	1	Low stability and weak governance
+-3.449499452	-1.216161266	Turkmenistan	1	Low stability and weak governance
+-1.767793733	0.169244267	Uganda	1	Low stability and weak governance
+-1.704854999	0.090432238	Uganda	1	Low stability and weak governance
+-1.758747554	0.113090659	Uganda	1	Low stability and weak governance
+-1.859228634	0.180672732	Uganda	1	Low stability and weak governance
+-1.840572619	0.155873688	Uganda	1	Low stability and weak governance
+-1.792644153	0.128879333	Uganda	1	Low stability and weak governance
+-1.812306702	0.158594508	Uganda	1	Low stability and weak governance
+-1.934586573	-0.040459752	Uganda	1	Low stability and weak governance
+-2.059177208	-0.220098624	Uganda	1	Low stability and weak governance
+-2.05485572	-0.217297127	Uganda	1	Low stability and weak governance
+-2.012988582	-0.292799565	Uganda	1	Low stability and weak governance
+-1.836481049	-0.120646544	Uganda	1	Low stability and weak governance
+-2.014180071	-0.312421896	Uganda	1	Low stability and weak governance
+-2.086243657	-0.257611913	Uganda	1	Low stability and weak governance
+-2.089872227	-0.314647842	Uganda	1	Low stability and weak governance
+-2.170340709	-0.355783935	Uganda	1	Low stability and weak governance
+-2.081678188	-0.387890266	Uganda	1	Low stability and weak governance
+-2.05098445	-0.333376474	Uganda	1	Low stability and weak governance
+-0.77091579	0.881754707	Ukraine	0	Medium stability and governance
+-0.700394955	0.878550235	Ukraine	0	Medium stability and governance
+-0.792104401	0.947155446	Ukraine	0	Medium stability and governance
+-1.059297499	1.082663744	Ukraine	0	Medium stability and governance
+-1.034016797	0.740151104	Ukraine	0	Medium stability and governance
+-1.239332555	0.588612527	Ukraine	0	Medium stability and governance
+-1.166414648	0.424764958	Ukraine	0	Medium stability and governance
+-1.4833533	0.585265254	Ukraine	1	Low stability and weak governance
+-1.628757394	1.007972764	Ukraine	1	Low stability and weak governance
+-1.836885075	1.154907359	Ukraine	1	Low stability and weak governance
+-1.621756005	1.123768459	Ukraine	1	Low stability and weak governance
+-1.480302257	1.065655748	Ukraine	0	Medium stability and governance
+-1.564973248	0.859822484	Ukraine	1	Low stability and weak governance
+-1.162986793	0.891753014	Ukraine	0	Medium stability and governance
+-1.141974716	0.709434764	Ukraine	0	Medium stability and governance
+-1.053792143	0.86620687	Ukraine	0	Medium stability and governance
+-1.609832006	0.655238681	Ukraine	1	Low stability and weak governance
+-1.788237544	0.639181262	Ukraine	1	Low stability and weak governance
+0.35139891	-1.959757643	United Arab Emirates	0	Medium stability and governance
+1.088572133	-2.221090376	United Arab Emirates	0	Medium stability and governance
+1.034452629	-2.193705068	United Arab Emirates	0	Medium stability and governance
+1.063249712	-2.170267843	United Arab Emirates	0	Medium stability and governance
+0.870705731	-2.121618445	United Arab Emirates	0	Medium stability and governance
+1.097310412	-2.462832723	United Arab Emirates	0	Medium stability and governance
+1.227006303	-2.596052556	United Arab Emirates	0	Medium stability and governance
+1.377296257	-2.685131261	United Arab Emirates	0	Medium stability and governance
+1.474989921	-2.760957898	United Arab Emirates	0	Medium stability and governance
+1.455689899	-2.771885079	United Arab Emirates	0	Medium stability and governance
+1.457882551	-2.729653628	United Arab Emirates	0	Medium stability and governance
+1.371124677	-2.934540043	United Arab Emirates	0	Medium stability and governance
+1.39347623	-2.976562052	United Arab Emirates	0	Medium stability and governance
+1.417865136	-2.987217928	United Arab Emirates	0	Medium stability and governance
+1.43984868	-3.006427449	United Arab Emirates	0	Medium stability and governance
+1.402975717	-3.016548962	United Arab Emirates	0	Medium stability and governance
+1.500717978	-3.013473747	United Arab Emirates	0	Medium stability and governance
+1.623239909	-3.066341567	United Arab Emirates	0	Medium stability and governance
+4.382252449	-0.17331377	United Kingdom	2	High stability and effective governance
+4.297322386	-0.15240793	United Kingdom	2	High stability and effective governance
+4.214337177	-0.120676702	United Kingdom	2	High stability and effective governance
+3.933860656	0.012292985	United Kingdom	2	High stability and effective governance
+4.138422988	-0.104382926	United Kingdom	2	High stability and effective governance
+4.039698592	-0.053774018	United Kingdom	2	High stability and effective governance
+4.091319065	-0.054531444	United Kingdom	2	High stability and effective governance
+4.170850281	-0.087923255	United Kingdom	2	High stability and effective governance
+4.252525706	-0.174220767	United Kingdom	2	High stability and effective governance
+4.333882482	-0.210174017	United Kingdom	2	High stability and effective governance
+4.16682445	-0.119506106	United Kingdom	2	High stability and effective governance
+4.110761778	-0.03189216	United Kingdom	2	High stability and effective governance
+3.967370805	0.072658348	United Kingdom	2	High stability and effective governance
+3.997330401	-0.063439155	United Kingdom	2	High stability and effective governance
+3.778649652	0.025001622	United Kingdom	2	High stability and effective governance
+3.66903827	0.108095206	United Kingdom	2	High stability and effective governance
+3.737851967	0.079937306	United Kingdom	2	High stability and effective governance
+3.616927168	0.154079202	United Kingdom	2	High stability and effective governance
+3.881737635	-0.107816236	United States	2	High stability and effective governance
+3.841588809	-0.097016352	United States	2	High stability and effective governance
+3.971829673	-0.13900102	United States	2	High stability and effective governance
+3.730261803	-0.044355201	United States	2	High stability and effective governance
+3.763204977	-0.033918445	United States	2	High stability and effective governance
+3.798595643	-0.05608459	United States	2	High stability and effective governance
+3.830993998	-0.070722709	United States	2	High stability and effective governance
+3.757206632	-0.072867602	United States	2	High stability and effective governance
+3.725909637	-0.079334164	United States	2	High stability and effective governance
+3.724304094	-0.051583122	United States	2	High stability and effective governance
+3.733283539	-0.023992674	United States	2	High stability and effective governance
+3.635381412	-0.264311736	United States	2	High stability and effective governance
+3.582890282	-0.251742244	United States	2	High stability and effective governance
+3.251849239	-0.155902676	United States	2	High stability and effective governance
+2.904887954	-0.218109453	United States	2	High stability and effective governance
+2.919930808	-0.201043274	United States	2	High stability and effective governance
+2.893936981	-0.206119525	United States	2	High stability and effective governance
+2.892680432	-0.19232871	United States	2	High stability and effective governance
+2.46470628	0.534938583	Uruguay	2	High stability and effective governance
+2.645844531	0.435704055	Uruguay	2	High stability and effective governance
+2.67445646	0.4322235	Uruguay	2	High stability and effective governance
+2.762920518	0.430043963	Uruguay	2	High stability and effective governance
+2.856276098	0.416884339	Uruguay	2	High stability and effective governance
+2.841450937	0.410989274	Uruguay	2	High stability and effective governance
+2.677390122	0.460960854	Uruguay	2	High stability and effective governance
+2.781909063	0.43679647	Uruguay	2	High stability and effective governance
+2.950824332	0.361371792	Uruguay	2	High stability and effective governance
+2.902671973	0.405472762	Uruguay	2	High stability and effective governance
+2.922215677	0.416518082	Uruguay	2	High stability and effective governance
+2.839548927	0.465785002	Uruguay	2	High stability and effective governance
+2.880187657	0.457566982	Uruguay	2	High stability and effective governance
+2.971340182	0.426969352	Uruguay	2	High stability and effective governance
+3.156767425	0.383795235	Uruguay	2	High stability and effective governance
+3.24562233	0.30528613	Uruguay	2	High stability and effective governance
+3.32222893	0.259000052	Uruguay	2	High stability and effective governance
+3.242543736	0.301529242	Uruguay	2	High stability and effective governance
+-4.254112608	-0.924624788	Uzbekistan	1	Low stability and weak governance
+-3.956799231	-1.112451834	Uzbekistan	1	Low stability and weak governance
+-3.740152649	-1.218593775	Uzbekistan	1	Low stability and weak governance
+-3.716881911	-1.255864119	Uzbekistan	1	Low stability and weak governance
+-3.694130039	-1.255316071	Uzbekistan	1	Low stability and weak governance
+-3.667299471	-1.298758646	Uzbekistan	1	Low stability and weak governance
+-3.600124552	-1.254319303	Uzbekistan	1	Low stability and weak governance
+-3.546940624	-1.234035868	Uzbekistan	1	Low stability and weak governance
+-3.292281649	-1.369453739	Uzbekistan	1	Low stability and weak governance
+-3.392076517	-1.32867555	Uzbekistan	1	Low stability and weak governance
+-3.217691676	-1.373282838	Uzbekistan	1	Low stability and weak governance
+-3.000059079	-1.388035978	Uzbekistan	1	Low stability and weak governance
+-2.72841719	-1.168131934	Uzbekistan	1	Low stability and weak governance
+-2.627303023	-1.230228718	Uzbekistan	1	Low stability and weak governance
+-2.605105251	-1.1364461	Uzbekistan	1	Low stability and weak governance
+-2.029244189	-1.33880022	Uzbekistan	1	Low stability and weak governance
+-1.905854861	-1.345023516	Uzbekistan	1	Low stability and weak governance
+-1.8422946	-1.362593703	Uzbekistan	1	Low stability and weak governance
+-0.994202749	0.345413294	Zambia	0	Medium stability and governance
+-0.864446375	0.267165784	Zambia	0	Medium stability and governance
+-0.671686988	0.424699025	Zambia	0	Medium stability and governance
+-0.899531505	0.217245551	Zambia	0	Medium stability and governance
+-0.928182666	0.284368959	Zambia	0	Medium stability and governance
+-0.760757109	0.238414357	Zambia	0	Medium stability and governance
+-0.569998835	0.144267835	Zambia	0	Medium stability and governance
+-0.648869943	0.207178058	Zambia	0	Medium stability and governance
+-0.765137566	0.271134153	Zambia	0	Medium stability and governance
+-0.778222422	0.324987277	Zambia	0	Medium stability and governance
+-1.06723162	0.082978336	Zambia	0	Medium stability and governance
+-1.137246583	0.097376424	Zambia	0	Medium stability and governance
+-1.184646966	0.124988961	Zambia	0	Medium stability and governance
+-1.332563489	0.226493749	Zambia	0	Medium stability and governance
+-1.508568247	0.23194524	Zambia	1	Low stability and weak governance
+-1.382568163	0.217734272	Zambia	0	Medium stability and governance
+-1.002218682	0.215657003	Zambia	0	Medium stability and governance
+-0.940133689	0.211672885	Zambia	0	Medium stability and governance
+-4.263837031	-0.342508543	Zimbabwe	1	Low stability and weak governance
+-4.459204223	-0.271632508	Zimbabwe	1	Low stability and weak governance
+-4.586613873	-0.172511583	Zimbabwe	1	Low stability and weak governance
+-4.546195113	0.030571134	Zimbabwe	1	Low stability and weak governance
+-4.40140496	0.014473764	Zimbabwe	1	Low stability and weak governance
+-4.221720885	-0.06657644	Zimbabwe	1	Low stability and weak governance
+-4.035824255	-0.174464279	Zimbabwe	1	Low stability and weak governance
+-3.829882515	0.001187015	Zimbabwe	1	Low stability and weak governance
+-3.708729151	0.033969955	Zimbabwe	1	Low stability and weak governance
+-3.352305242	0.155672404	Zimbabwe	1	Low stability and weak governance
+-3.385086024	0.156754459	Zimbabwe	1	Low stability and weak governance
+-3.494166612	-0.006409743	Zimbabwe	1	Low stability and weak governance
+-3.333049171	0.177864316	Zimbabwe	1	Low stability and weak governance
+-3.396321513	0.205829458	Zimbabwe	1	Low stability and weak governance
+-3.508175901	0.092314282	Zimbabwe	1	Low stability and weak governance
+-3.409650514	0.018210454	Zimbabwe	1	Low stability and weak governance
+-3.333804207	-0.004530471	Zimbabwe	1	Low stability and weak governance
+-3.281926857	-0.014686724	Zimbabwe	1	Low stability and weak governance
