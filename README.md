@@ -132,8 +132,8 @@ The PCA output was used to calculate a composite governance indicator. The proce
 - Countries were grouped based on their composite indicator scores.
 - The final result was visualized as a clustered world map.
 - Results:
-  - [**clustered_countries.png**](outputs/clustered_countries.png) - clustered world map visualization  
-  - [**clustered_countries.csv**](outputs/clustered_countries.csv) — country with cluster mapping
+  - [**clustered_countries.png**](clustered_countries/clustered_countries.png) - clustered world map visualization  
+  - [**clustered_countries.csv**](clustered_countries/clustered_countries.csv) — country with cluster mapping
 
 
 ## Results
@@ -168,7 +168,7 @@ The project produced:
 │       ├── normalized_indicators.csv
 │       ├── weights_table.csv
 │       └── composite_index_ranked.csv
-└── outputs/
+└── clustered_countries/
     ├── clustered_countries.csv
     └── clustered_countries.png
 ```
